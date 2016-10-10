@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
 
@@ -12,10 +12,11 @@
     <title>Freelancer - Start Bootstrap Theme</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet">
+	 <link href="css/languages.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -35,7 +36,7 @@
 
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
-        <div class="container">
+        <div class="container navbar-header-total">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -43,10 +44,21 @@
                 </button>
                 <a class="navbar-brand" href="#page-top">Real Estate Caretaking</a>
             </div>
+			
+			 <div class="navbar-header-right-top page-scroll">
+				<a class="active navbar-ln" href="index-fr.html" hreflang="fr">
+					<span class=" lang-lbl" lang="fr"></span>
+				</a>
+				</div>
+				 <div class="navbar-header-right-bottom page-scroll">
+				<a  class = " navbar-ln" href="index-en.html" hreflang="en">
+					<span class=" lang-lbl" lang="en"></span>
+				</a>
+			 </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
+				<ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
@@ -60,7 +72,7 @@
                         <a href="#contact">Contact</a>
                     </li>
                 </ul>
-            </div>
+            </div>	
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
@@ -80,7 +92,7 @@
     </header>
 
     <!-- Portfolio Grid Section -->
-    <section id="service" class="bg-light-gray">
+    <section id="service" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -89,8 +101,8 @@
                 </div>
             </div>
 			
-				<div class="row row-eq-height">
-               <div class="  col-sm-4 col-sm-offset-1 square-white ">       
+				<div class="row ">
+               <div class="  col-sm-4 col-sm-offset-1 square-white eq-height">       
 					 <div class="row">
 						<div class="text-center">
 							<h4>Visites</h4>
@@ -102,7 +114,7 @@
 					</ul>
 				</div>
 
-				<div class="  col-sm-4 col-sm-offset-2 square-orange text-center ">       
+				<div class="  col-sm-4 col-sm-offset-2 square-orange text-center eq-height">       
 					 <div class="row">
 						<div class="text-center">
 							<h4>Entretien</h4>
@@ -115,23 +127,24 @@
 					  </ul>
 				</div>
             </div>
-				<div class="row row-eq-height">
-               <div class="  col-sm-4 col-sm-offset-1 square-orange ">       
-					 <div class="row">
+			<br> <br> <br>
+				<div class="row ">
+               <div class="  col-sm-4 col-sm-offset-1 square-orange eq-height">       
+					 <div class="row ">
 						<div class="text-center">
 							<h4>Assistance dans l'administratif</h4>
 						</div>
 					 </div>
 					  <ul class="b">
-						<li>Relations avec les fournisseurs <br>(Electricité, Eau, Gaz, Assurance, Téléphone, Internet…)</li>
+						<li>Relations avec les fournisseurs</li>
 						<li>Syndic de l’immeuble, Assemblées générales</li>
-						<li>Traitement d'un dossier sinistre <br>(en lien avec votre assureur et les experts mandatés)</li>
+						<li>Traitement d'un dossier sinistre</li>
 					 
 					  </ul>
 				</div>
 
-				<div class="  col-sm-4 col-sm-offset-2 square-white text-center ">       
-					 <div class="row">
+				<div class="  col-sm-4 col-sm-offset-2 square-white text-center eq-height ">       
+					 <div class="row ">
 						<div class="text-center">
 							<h4>Conciergerie</h4>
 						</div>
@@ -146,7 +159,7 @@
     </section>
 
     <!-- About Section -->
-    <section class="success" id="team">
+    <section class=" bg-light-gray"  id="team">
         <div class="container">
             <div class="container">
 				<div class="row">
@@ -184,11 +197,14 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class ="bg-light-gray">
+    <section id="contact" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                      <h2 class="section-heading">Contact</h2>
+					 <h3 class="section-subheading ">Nous serons heureux de répondre à toute demande d'information : 
+
+</h3>
                    <br>
                 </div>
             </div>
@@ -200,14 +216,14 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
-                                <input type="text" class="form-control" placeholder="Nom" id="name" required data-validation-required-message="ENtrez votre nom.">
+                                <input type="text" class="form-control" placeholder="Nom" id="name" required data-validation-required-message="Entrez votre nom.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email Address</label>
-                                <input type="email" class="form-control" placeholder="Addresse Mail" id="email" required data-validation-required-message="Entrez votre adresse mail.">
+                                <input type="email" class="form-control" placeholder="Adresse Mail" id="email" required data-validation-required-message="Entrez votre adresse mail.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -273,16 +289,22 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
             </div>-->
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Martine Hillion</h2>
-                            <br> <br>
+				<div class="col-sm-4 ">
+				<img class="img-responsive" src="img/profile.png" alt="">
+				</div>
+                    <div class="col-sm-7">
+                        <div class="modal-body ">
+                            <h2> <div class="text-center"> Martine Hillion</h2> </div>
+                            <br> <br> <br>
  <p>Parisienne depuis toujours, Martine Hillion a travaillé dans la mode pendant de nombreuses années. </p>
 <p>Elle s’est ensuite investie dans des projets de rénovation d’intérieur.</p>
 <p>Elle a été responsable pour une importante association de la maintenance du patrimoine immobilier.</p>
 <p>Ces expériences lui ont permis de construire un solide réseau d’artisans et de fournisseurs.  </p>
 <br> <br>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+						<div class="col-lg-offset-5 ">	
+							<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+						</div>
+						
                         </div>
                     </div>
                 </div>
@@ -391,7 +413,7 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
     <script src="js/contact_me.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="js/freelancer.min.js"></script>
+    <script src="js/freelancer.js"></script>
 
 </body>
 

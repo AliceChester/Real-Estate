@@ -11,6 +11,19 @@
         }, 1250, 'easeInOutExpo');
         event.preventDefault();
     });
+	
+	//to have the same height and keep responsivness
+	$( document ).ready(function() {
+    var heights = $(".eq-height").map(function() {
+        return $(this).height();
+    }).get(),
+
+    maxHeight = Math.max.apply(null, heights);
+
+    $(".eq-height").height(maxHeight);
+	});
+
+
 
     // Highlight the top nav as scrolling occurs
     $('body').scrollspy({
