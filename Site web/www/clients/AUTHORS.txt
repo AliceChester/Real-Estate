@@ -1,0 +1,17 @@
+THELIA
+==========================================
+
+Développement :
+
+Yoan De Macedo : yoan@octolys.fr
+Manuel Raynaud : manu@octolys.fr
+Etienne Roudeix : etienne@octolys.fr
+Jean-David Olekhnovitch : jd@octolys.fr
+Franck Allimant : franck@allimant.org
+Hubert Blein : hubert@pixelsmill.com
+
+Tests, ergonomie :
+
+Cédric Sibaud : cedric@octolys.fr
+Stéphanie Pinet : stephanie@octolys.fr
+Stéphane Calisti : stephane@octolys.fr

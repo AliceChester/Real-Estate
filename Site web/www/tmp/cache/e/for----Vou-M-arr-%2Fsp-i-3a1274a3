@@ -1,0 +1,41 @@
+a:11:{s:5:"texte";s:1732:"<div class="formulaire_spip formulaire_inscription ajax" id="formulaire_inscription">
+
+
+ 
+<form method="post" action="/spip.php?page=identifiants&amp;mode=0minirezo">
+	<div><input name="page" value="identifiants" type="hidden" />
+<input name="mode" value="0minirezo" type="hidden" /><input name='formulaire_action' type='hidden'
+		value='inscription' /><input name='formulaire_action_args' type='hidden'
+		value='M9NU/+tzn07O3JMuivR8h43sQUNLKLgAhcWDPBKNbTQFxY0FibWUXVQMBNseVYIphOnk8k9UxNg+4TCbbidjJn8WMbyEG9UrfZajR0dHK2xGTZ3464LSZSeVBjg=' /></div><fieldset>
+		
+		 
+		<legend>Vous inscrire sur ce site</legend>
+		<p class='explication'>Vous avez demand&eacute; &agrave; intervenir sur un forum
+		r&eacute;serv&eacute; aux visiteurs enregistr&eacute;s.</p>
+		<legend>Identifiants personnels</legend>
+		<p class='explication'>Indiquez ici votre nom et votre adresse email. Votre identifiant personnel vous parviendra rapidement, par courrier &eacute;lectronique.</p>
+		<ul>
+			<li class='saisie_nom_inscription obligatoire'>
+				<label for="nom_inscription">Votre nom ou pseudo</label>
+				
+				<input type="text" class="text" name="nom_inscription" id="nom_inscription" value="" size="30" />
+			</li>
+			<li class='saisie_mail_inscription obligatoire'>
+				<label for="mail_inscription">Votre adresse email</label>
+				
+				<input type="text" class="text" name="mail_inscription" id="mail_inscription" value="" size="30" />
+			</li>
+		</ul>
+	</fieldset>
+	
+	<p style="display: none;">
+		<label for="nobot">Veuillez laisser ce champ vide&nbsp;:</label>
+		<input type="text" class="text" name="nobot" id="nobot" value="" size="10" />
+	</p>
+	<p class="boutons"><input type="submit" class="submit" value="Valider" /></p>
+ </form>
+
+
+</div>
+";s:9:"squelette";s:37:"html_cfdbc254094d82b3ec12cf869646018e";s:6:"source";s:44:"squelettes-dist/formulaires/inscription.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"e/for----Vou-M-arr-%2Fsp-i-3a1274a3";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:14:{s:15:"nom_inscription";s:0:"";s:16:"mail_inscription";s:0:"";s:2:"id";s:0:"";s:12:"_commentaire";s:115:"Vous avez demand&eacute; &agrave; intervenir sur un forum
+		r&eacute;serv&eacute; aux visiteurs enregistr&eacute;s.";s:15:"formulaire_args";s:124:"M9NU/+tzn07O3JMuivR8h43sQUNLKLgAhcWDPBKNbTQFxY0FibWUXVQMBNseVYIphOnk8k9UxNg+4TCbbidjJn8WMbyEG9UrfZajR0dHK2xGTZ3464LSZSeVBjg=";s:7:"erreurs";a:0:{}s:6:"action";s:46:"/spip.php?page=identifiants&amp;mode=0minirezo";s:4:"form";s:11:"inscription";s:8:"editable";s:1:" ";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2016-07-17 05:53:54";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-07-17 05:53:54";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1468727634;s:2:"gz";b:0;}

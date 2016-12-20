@@ -1,0 +1,141 @@
+a:11:{s:5:"texte";s:4965:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<title>Anglais - Mon site SPIP</title>
+
+<?php echo recuperer_fond( 'inc-head', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/rubrique.html','html_9851671fc63546ec3c1322f67adf9e7f','',10,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<link rel="alternate" type="application/rss+xml" title="Syndiquer cette rubrique" href="http://realestatecaretaking.com/spip.php?page=backend&amp;id_rubrique=1" />
+</head>
+
+<body class="page_rubrique">
+<div id="page">
+
+	
+	<?php echo recuperer_fond( 'inc-entete', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/rubrique.html','html_9851671fc63546ec3c1322f67adf9e7f','',19,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	
+    <div id="conteneur">
+    <div id="contenu">
+    
+        
+        <div id="hierarchie"><a href="http://realestatecaretaking.com/">Accueil du site</a> &gt; <strong class="on">Anglais</strong></div>
+
+        <div class="cartouche">
+            
+            <h1 class="crayon rubrique-titre-1 ">Anglais</h1>
+            <p><small>Dernier ajout : 28 septembre 2011.</small></p>
+        </div>
+
+        
+
+        
+        
+        <div class="menu articles">
+            <a name='pagination_articles' id='pagination_articles'></a>
+            <h2>Articles de cette rubrique</h2>
+            <ul>
+                
+                <li>
+                    
+                    <h3><a href="Nouvel-article.html">Testimonials &amp; resources</a></h3>
+                    <small>28 septembre 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="Maintenance-and-Repair-Oversight.html">Maintenance and Repair Oversight</a></h3>
+                    <small>27 mars 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="Regular-Inspections.html">Regular Inspections</a></h3>
+                    <small>27 mars 2011</small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="contact-us.html">Contact us</a></h3>
+                    <small>20 f&eacute;vrier 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="Services,4.html">Services</a></h3>
+                    <small>20 f&eacute;vrier 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="about-us.html">About us</a></h3>
+                    <small>20 f&eacute;vrier 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+                <li>
+                    
+                    <h3><a href="home.html">Home</a></h3>
+                    <small>20 f&eacute;vrier 2011, par  <span class="vcard author"><a class="url fn spip_in" href="_Sylvain-Robert_.html">Sylvain Robert</a></span></small>
+                </li>
+                
+            </ul>
+            
+        </div>
+        
+
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+
+	</div><!--#contenu-->
+	</div><!--#conteneur-->
+
+    
+    <div id="navigation">
+
+        
+        <?php echo recuperer_fond( 'inc-rubriques', array('id_rubrique' => '1',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/rubrique.html','html_9851671fc63546ec3c1322f67adf9e7f','',147,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('squelettes-dist/rubrique.html', 'html_9851671fc63546ec3c1322f67adf9e7f', '_principale', 149, 'fr'));
+if ($lang_select) lang_select();
+?>
+
+    </div><!--#navigation-->
+    
+    
+    <div id="extra">
+
+        
+        
+        
+    </div><!--#extra-->
+
+	
+	<?php echo recuperer_fond( 'inc-pied', array('skel' => 'squelettes-dist/rubrique.html',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/rubrique.html','html_9851671fc63546ec3c1322f67adf9e7f','',171,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</div><!--#page-->
+</body>
+</html>
+
+";s:9:"squelette";s:37:"html_9851671fc63546ec3c1322f67adf9e7f";s:6:"source";s:29:"squelettes-dist/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/%2F-Anglais--fr--63b1ccd6a1d2b296";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";s:4:"3600";}s:5:"duree";i:3600;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"lang";s:2:"fr";s:11:"id_rubrique";s:1:"1";s:4:"date";s:19:"2016-10-12 12:03:36";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-10-12 12:03:36";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1476266617;s:2:"gz";b:0;}

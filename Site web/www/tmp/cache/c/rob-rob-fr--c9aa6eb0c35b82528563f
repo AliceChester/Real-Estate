@@ -1,0 +1,18 @@
+a:11:{s:5:"texte";s:366:"# robots.txt
+# @url: http://realestatecaretaking.com
+# @generator: SPIP 2.1.9 [17500]
+# @template: squelettes-dist/robots.txt.html
+
+User-agent: *
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /extensions/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+
+
+Sitemap: http://realestatecaretaking.com/sitemap.xml
+";s:9:"squelette";s:37:"html_cd7ee483d229f1534f87dbcf654a573b";s:6:"source";s:31:"squelettes-dist/robots.txt.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/rob-rob-fr--c9aa6eb0c35b82528563f";}s:7:"entetes";a:2:{s:12:"Content-Type";s:25:"text/plain; charset=utf-8";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:10:"robots.txt";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2016-10-23 09:22:22";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-10-23 09:22:22";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1477207342;s:2:"gz";b:0;}

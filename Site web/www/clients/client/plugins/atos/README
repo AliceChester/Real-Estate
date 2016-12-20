@@ -1,0 +1,29 @@
+Ce plugin ATOS permet de gérer un nombre important de paiement sécurisé bancaire.
+
+
+INSTALLATION
+============
+
+- copiez les binaires fournis par ATOS dans le répertoire bin/
+  il s'agit de request et response
+
+- renommez confirmation.php avec un nom personnalisé (ex : confirmdupond2008.php)
+
+- copier le contenu du certificat fourni par votre banque dans conf/certif.fr.xxxxxxxxxxxxxxx
+
+- editez le fichier conf/parcom.xxxxxxxxxxxxxxx et indiquez les bonnes url (n'oubliez pas de remplacer confirmation.php par votre nom personnalisé)
+
+- renommez les fichier conf/certif.fr.xxxxxxxxxxxxxxx et conf/parcom.xxxxxxxxxxxxxxx
+   remplacez tout simplement les xxxxxxxxxxxxxxx par votre n° de marchand
+
+- editez le fichier config.php et inscrivez votre n° de marchand.
+
+
+Information
+============
+
+Le retour de paiement n'est pas une information suffisante. Vérifiez toujours sur l'interface de votre banque qu'un paiement est bien passé en paiement
+avant de le considérer réellement comme "payé"
+
+Vérifiez que les répertoires de votre site ne sont pas listables (ex http://www.votresite.com/client/plugins/).
+Si tel est le cas veuillez ajouter un fichier htaccess afin de sécuriser le tout.

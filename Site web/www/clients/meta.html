@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="#LANG" lang="#LANG">
+<head>
+<title>#VARIABLE(nomsite)</title>
+	<meta name="description" content="#FILTRE_egalite(2||#LANG||Real Estate Caretaking, Monitoring your apartment) #FILTRE_egalite(1||#LANG||Real Estate Caretaking - Services de surveillance de vos appartement sur Paris)" />
+<meta name="generator" content="Real Estate Caretaking (http://www.realestatecaretaking.com/)" />
+	<meta name="author" content="Martine Hillion"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link rel="icon" href="IMG/icon.png"/>
+
+<link href="jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="scripts/jquery.mousewheel.min.js"></script>
+
+<link href="styles.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="js/jquery.superbox.css" type="text/css" media="all" />
+	<script type="text/javascript" src="js/jquery.superbox-min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$.superbox.settings = {
+				overlayOpacity: .8,
+				closeTxt: "Fermer",
+				loadTxt: "Chargement...",
+				nextTxt: "Image suivante",
+				prevTxt: "Image précédente"
+			};
+			$.superbox();
+		});
+	</script>
+
+
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+<!--[if lte IE 7]><link rel="stylesheet" href="style_ie7.css" type="text/css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" href="style_ie6.css" type="text/css" /><![endif]-->
+
+
+<script type="text/javascript">
+$(window).load(function() {
+	mCustomScrollbars();
+});
+
+function mCustomScrollbars(){
+	/* 
+	malihu custom scrollbar function parameters: 
+	1) scroll type (values: "vertical" or "horizontal")
+	2) scroll easing amount (0 for no easing) 
+	3) scroll easing type 
+	4) extra bottom scrolling space for vertical scroll type only (minimum value: 1)
+	5) scrollbar height/width adjustment (values: "auto" or "fixed")
+	6) mouse-wheel support (values: "yes" or "no")
+	7) scrolling via buttons support (values: "yes" or "no")
+	8) buttons scrolling speed (values: 1-20, 1 being the slowest)
+	*/
+	$("#mcs_container").mCustomScrollbar("vertical",300,"easeOutCirc",1.05,"auto","yes","yes",15); 
+}
+
+/* function to fix the -10000 pixel limit of jquery.animate */
+$.fx.prototype.cur = function(){
+    if ( this.elem[this.prop] != null && (!this.elem.style || this.elem.style[this.prop] == null) ) {
+      return this.elem[ this.prop ];
+    }
+    var r = parseFloat( jQuery.css( this.elem, this.prop ) );
+    return typeof r == 'undefined' ? 0 : r;
+}
+
+/* function to load new content dynamically */
+function LoadNewContent(id,file){
+	$("#"+id+" .customScrollBox .content").load(file,function(){
+		mCustomScrollbars();
+	});
+}
+</script>
+<script type="text/javascript" src="scripts/jquery.mCustomScrollbar.js"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://realestatecaretaking.com/piwik/" : "http://realestatecaretaking.com/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://realestatecaretaking.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->

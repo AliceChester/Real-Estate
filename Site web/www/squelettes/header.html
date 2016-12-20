@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="#LANG" lang="#LANG">
+<?php $lalangue = '[(#LANG)]'; ?>
+<head>
+
+
+<title>Real Estate Caretaking - <multi>[en]Maintain your apartment when abroad[fr]Suivi et entretien de votre appartement</multi><BOUCLE_title(ARTICLES){id_article}>- #TITRE</BOUCLE_title></title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="fr" />
+	<meta name="description" content="<multi>[en]Home management in Paris: services, regular inspections, repairs, renovations, maintenance  and upkeep.[fr]Home management, gestion d’appartement parisien : services, visites régulières, entretien et rénovation.</multi>" />
+	<meta name="keywords" content="<multi>[en]Paris, home services, apartment, home management,management, property, Maintenance, housekeeping, works, repairs, Assistance, renovation, renovating, decoration, luxery, concierge, assistance, rental, Real estate, martine, hillion, France[fr]Paris, Services, home services, appartement, maison, immobilier, home management, conciergerie, gestion, propriété, propriétés, entretien, Surveillance, Travaux, réparation, Assistance, Entretien, Maintenance, accueil, aide, particulier, location, décoration, entretien, luxe, Real estate, martine, hillion, France</multi>" />
+	<meta name="generator" content="Real Estate Caretaking (http://www.realestatecaretaking.com/)" />
+	<meta name="author" content="Martine Hillion"/>
+	<meta name="owner" content="http://www.realestatecaretaking.com/"/>
+	<meta name="robots" content="index, follow, archive" /> 
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta name="google-site-verification" content="mB-opM39Tf7sA5oLGCDU_-Xyvgmf5VO83ysnwFssEOI" />
+
+<link rel="icon" href="IMG/icon.png"/>
+
+<link href="jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>#INSERT_HEAD
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="scripts/jquery.mousewheel.min.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="style.css" type="text/css" />
+<!--[if lte IE 7]><link rel="stylesheet" href="style_ie7.css" type="text/css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" href="style_ie6.css" type="text/css" /><![endif]-->
+
+<script type="text/javascript">
+$(window).load(function() {
+	mCustomScrollbars();
+});
+
+function mCustomScrollbars(){
+	/* 
+	malihu custom scrollbar function parameters: 
+	1) scroll type (values: "vertical" or "horizontal")
+	2) scroll easing amount (0 for no easing) 
+	3) scroll easing type 
+	4) extra bottom scrolling space for vertical scroll type only (minimum value: 1)
+	5) scrollbar height/width adjustment (values: "auto" or "fixed")
+	6) mouse-wheel support (values: "yes" or "no")
+	7) scrolling via buttons support (values: "yes" or "no")
+	8) buttons scrolling speed (values: 1-20, 1 being the slowest)
+	*/
+	$("#mcs_container").mCustomScrollbar("vertical",300,"easeOutCirc",1.05,"auto","yes","yes",15); 
+}
+
+/* function to fix the -10000 pixel limit of jquery.animate */
+$.fx.prototype.cur = function(){
+    if ( this.elem[this.prop] != null && (!this.elem.style || this.elem.style[this.prop] == null) ) {
+      return this.elem[ this.prop ];
+    }
+    var r = parseFloat( jQuery.css( this.elem, this.prop ) );
+    return typeof r == 'undefined' ? 0 : r;
+}
+
+/* function to load new content dynamically */
+function LoadNewContent(id,file){
+	$("#"+id+" .customScrollBox .content").load(file,function(){
+		mCustomScrollbars();
+	});
+}
+</script>
+<script type="text/javascript" src="scripts/jquery.mCustomScrollbar.js"></script>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://realestatecaretaking.com/piwik/" : "http://realestatecaretaking.com/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://realestatecaretaking.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+
+
+
+
+</head>
+<body>
+
+<h3 style="position: absolute; text-indent: -1000em;"><multi>[en]Home management in Paris: services, regular inspections, repairs, renovations, maintenance  and upkeep.[fr]Home management, gestion d’appartement parisien : services, visites régulières, entretien et rénovation.</multi> martine, hillion, paris, france,<multi>[en]Monitoring your apartment home house Housekeeper Housekeeping management maintenance services Property repairs renovating Key holdings dwelling Luxury Maintenance servicing upkeep help proprietes decorating [fr]Services de surveillance de vos appartement sur Paris, maisons  maison service. immobilier conciergerie appartement gardiennage Gestion immeuble sécurité agent propriété propriétés entretien garde Surveillance Assistance Entretien Maintenance accueil aide particulier location décoration voyage Entretien Travaux bricolage </multi> luxe, lux ! services servicen... </h3>
+
+<BOUCLE_pan(ARTICLES){id_article}>
+
+#SET{article_global,#ID_ARTICLE}
+#SET{lang,#LANG}
+
+</BOUCLE_pan>
+<div id="back-line"></div>
+
+
+
+<table width="100%" style="height: 100%; width: 100%; border-collapse: collapse; text-align: center;">
+<tbody>
+<tr>
+<td valign="middle" style="height: 100%; padding: 0; vertical-align: middle;">
+
+<div id="globbing">
+<h2 class="logo"><a href="<multi>[fr]spip.php?article3 [en]spip.php?article1</multi>"><img src="IMG/logo3.jpg" alt="Real Estate Caretaking" title="Real Estate Caretaking" /></a></h2>
+<div class="menu menu-top">
+	<ul>
+
+
+<BOUCLE_menurub(RUBRIQUES){lang}{racine}>
+<BOUCLE_menuart(ARTICLES){id_rubrique}{par num titre}{lang}>
+                                <li class="[(#ID_ARTICLE|choixsiegal{#GET{article_global},hover, no})]"><a href="#URL_ARTICLE">[(#TITRE|supprimer_numero)]</a></li>
+</BOUCLE_menuart>
+</BOUCLE_menurub>
+	</ul>
+</div>		
+

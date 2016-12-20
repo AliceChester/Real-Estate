@@ -1,0 +1,1419 @@
+Apr 03 17:46:04 81.57.34.8 (pid 23876) cron: debut syndic
+Apr 03 17:46:08 81.57.34.8 (pid 23941) cron: debut invalideur
+Apr 03 17:46:08 81.57.34.8 (pid 23941) cron: invalideur (29.459 ms) 1
+Apr 03 17:46:14 81.57.34.8 (pid 24078) cron: debut maintenance
+Apr 03 17:46:14 81.57.34.8 (pid 24078) cron: maintenance (111.280 ms) 1
+Apr 03 17:46:22 81.57.34.8 (pid 24275) cron: debut optimiser
+Apr 03 17:46:23 81.57.34.8 (pid 24275) cron: optimiser (42.878 ms) -1301796993
+Apr 03 17:46:34 81.57.34.8 (pid 24413) cron: debut mise_a_jour
+Apr 03 17:46:35 81.57.34.8 (pid 24413) cron: mise_a_jour (907.824 ms) 1
+Apr 03 17:48:31 81.57.34.8 (pid 27963) cron: debut syndic
+Apr 03 17:50:05 81.57.34.8 (pid 30182) cron: debut syndic
+Apr 03 17:51:40 81.57.34.8 (pid 535) cron: debut syndic
+Apr 03 17:54:25 81.57.34.8 (pid 4921) cron: debut syndic
+Apr 03 17:59:04 81.57.34.8 (pid 11799) cron: debut syndic
+Apr 03 18:09:00 81.57.34.8 (pid 27994) cron: debut syndic
+Apr 03 18:30:56 81.57.34.8 (pid 27634) cron: debut invalideur
+Apr 03 18:30:56 81.57.34.8 (pid 27634) cron: invalideur (45.275 ms) 1
+Apr 03 18:31:03 81.57.34.8 (pid 27881) cron: debut syndic
+Apr 03 18:38:50 81.57.34.8 (pid 6285) cron: debut syndic
+Apr 03 18:42:09 81.57.34.8 (pid 10735) cron: debut syndic
+Apr 03 18:56:31 81.57.34.8 (pid 29696) cron: debut syndic
+Apr 03 18:56:37 81.57.34.8 (pid 29790) cron: debut invalideur
+Apr 03 18:56:37 81.57.34.8 (pid 29790) cron: invalideur (65.907 ms) 1
+Apr 03 18:58:30 81.57.34.8 (pid 32670) cron: debut syndic
+Apr 03 19:00:25 81.57.34.8 (pid 4914) cron: debut syndic
+Apr 03 19:03:20 81.57.34.8 (pid 8876) cron: debut syndic
+Apr 03 19:10:56 81.57.34.8 (pid 18178) cron: debut syndic
+Apr 03 19:13:28 81.57.34.8 (pid 22009) cron: debut syndic
+Apr 03 19:17:09 81.57.34.8 (pid 27474) cron: debut syndic
+Apr 03 19:18:07 81.57.34.8 (pid 28657) cron: debut invalideur
+Apr 03 19:18:07 81.57.34.8 (pid 28657) cron: invalideur (19.884 ms) 1
+Apr 03 19:20:17 81.57.34.8 (pid 31119) cron: debut syndic
+Apr 03 19:23:59 81.57.34.8 (pid 3855) cron: debut syndic
+Apr 03 19:25:31 81.57.34.8 (pid 5824) cron: debut syndic
+Apr 03 19:28:59 81.57.34.8 (pid 10163) cron: debut syndic
+Apr 03 19:30:33 81.57.34.8 (pid 12053) cron: debut syndic
+Apr 03 19:32:12 81.57.34.8 (pid 14354) cron: debut syndic
+Apr 03 19:33:57 81.57.34.8 (pid 16792) cron: debut syndic
+Apr 03 19:35:31 81.57.34.8 (pid 18791) cron: debut syndic
+Apr 03 19:45:07 81.57.34.8 (pid 31844) cron: debut syndic
+Apr 03 19:45:15 81.57.34.8 (pid 32043) cron: debut invalideur
+Apr 03 19:45:15 81.57.34.8 (pid 32043) cron: invalideur (13.702 ms) 1
+Apr 03 19:47:10 81.57.34.8 (pid 2448) cron: debut maintenance
+Apr 03 19:47:10 81.57.34.8 (pid 2448) cron: maintenance (35.199 ms) 1
+Apr 03 19:47:15 81.57.34.8 (pid 2510) cron: debut syndic
+Apr 03 20:10:35 81.57.34.8 (pid 3523) cron: debut syndic
+Apr 03 20:10:40 81.57.34.8 (pid 3610) cron: debut invalideur
+Apr 03 20:10:40 81.57.34.8 (pid 3610) cron: invalideur (21.823 ms) 1
+Apr 03 20:12:14 81.57.34.8 (pid 6072) cron: debut syndic
+Apr 03 21:15:15 81.57.34.8 (pid 26676) cron: debut syndic
+Apr 03 23:32:26 81.57.34.8 (pid 14727) cron: debut invalideur
+Apr 03 23:32:26 81.57.34.8 (pid 14727) cron: invalideur (36.171 ms) 1
+Apr 04 00:42:29 81.57.34.8 (pid 31413) cron: debut syndic
+Apr 04 00:43:32 81.57.34.8 (pid 32149) cron: debut maintenance
+Apr 04 00:43:32 81.57.34.8 (pid 32149) cron: maintenance (23.395 ms) 1
+Apr 04 00:45:39 81.57.34.8 (pid 2018) cron: debut invalideur
+Apr 04 00:45:39 81.57.34.8 (pid 2018) cron: invalideur (14.554 ms) 1
+Apr 04 00:45:48 81.57.34.8 (pid 2257) cron: debut syndic
+Apr 04 00:47:22 81.57.34.8 (pid 3993) cron: debut syndic
+Apr 04 00:49:56 81.57.34.8 (pid 5926) cron: debut syndic
+Apr 04 00:51:27 81.57.34.8 (pid 8071) cron: debut syndic
+Apr 04 01:00:13 81.57.34.8 (pid 19167) cron: debut syndic
+Apr 04 01:01:58 81.57.34.8 (pid 21664) cron: debut syndic
+Apr 04 01:03:31 81.57.34.8 (pid 23199) cron: debut syndic
+Apr 04 01:05:08 81.57.34.8 (pid 24685) cron: debut syndic
+Apr 04 01:06:27 81.57.34.8 (pid 26121) cron: debut invalideur
+Apr 04 01:06:27 81.57.34.8 (pid 26121) cron: invalideur (19.772 ms) 1
+Apr 04 01:06:48 81.57.34.8 (pid 26367) cron: debut syndic
+Apr 05 00:20:15 81.57.34.8 (pid 3013) cron: debut invalideur
+Apr 05 00:20:15 81.57.34.8 (pid 3013) cron: invalideur (25.416 ms) 1
+Apr 05 00:20:18 81.57.34.8 (pid 3056) cron: debut maintenance
+Apr 05 00:20:18 81.57.34.8 (pid 3056) cron: maintenance (169.464 ms) 1
+Apr 05 00:20:46 81.57.34.8 (pid 3517) cron: debut syndic
+Apr 05 00:21:20 81.57.34.8 (pid 4356) cron: debut visites
+Apr 05 00:21:20 81.57.34.8 (pid 4356) cron: visites (40.030 ms) 1
+Apr 05 00:21:25 81.57.34.8 (pid 4415) cron: debut popularites
+Apr 05 00:21:25 81.57.34.8 (pid 4415) cron: popularites (24.989 ms) 1
+Apr 07 23:36:31 81.57.34.8 (pid 22449) cron: debut invalideur
+Apr 07 23:36:31 81.57.34.8 (pid 22449) cron: invalideur (61.435 ms) 1
+Apr 07 23:36:37 81.57.34.8 (pid 22555) cron: debut maintenance
+Apr 07 23:36:38 81.57.34.8 (pid 22555) cron: maintenance (195.594 ms) 1
+Apr 07 23:37:10 81.57.34.8 (pid 23282) cron: debut popularites
+Apr 07 23:37:10 81.57.34.8 (pid 23282) cron: popularites (101.071 ms) 1
+Apr 07 23:37:13 81.57.34.8 (pid 23418) cron: debut optimiser
+Apr 07 23:37:13 81.57.34.8 (pid 23418) cron: optimiser (67.668 ms) -1302140804
+Apr 07 23:50:23 81.57.34.8 (pid 7578) cron: debut syndic
+Apr 07 23:50:32 81.57.34.8 (pid 7862) cron: debut mise_a_jour
+Apr 07 23:50:32 81.57.34.8 (pid 7862) cron: mise_a_jour (117.563 ms) 1
+Apr 07 23:52:03 81.57.34.8 (pid 10302) cron: debut visites
+Apr 07 23:52:03 81.57.34.8 (pid 10302) cron: visites (24.575 ms) 1
+Apr 07 23:55:46 81.57.34.8 (pid 14057) cron: debut syndic
+Apr 11 09:32:27 78.250.26.214 (pid 9616) cron: debut invalideur
+Apr 11 09:32:27 78.250.26.214 (pid 9616) cron: invalideur (77.060 ms) 1
+Apr 11 09:33:09 78.250.26.214 (pid 10492) cron: debut visites
+Apr 11 09:33:09 78.250.26.214 (pid 10492) cron: visites (328.751 ms) 1
+Apr 11 09:33:20 78.250.26.214 (pid 10633) cron: debut syndic
+Apr 11 09:33:30 78.250.26.214 (pid 10819) cron: debut maintenance
+Apr 11 09:33:30 78.250.26.214 (pid 10819) cron: maintenance (167.369 ms) 1
+Apr 11 09:33:36 78.250.26.214 (pid 10896) cron: debut popularites
+Apr 11 09:33:36 78.250.26.214 (pid 10896) cron: popularites (73.320 ms) 1
+Apr 11 09:35:15 78.250.26.214 (pid 12472) cron: debut optimiser
+Apr 11 09:35:15 78.250.26.214 (pid 12472) cron: optimiser (62.585 ms) -1302491871
+Apr 11 10:06:00 78.250.26.214 (pid 16928) cron: debut mise_a_jour
+Apr 11 10:06:01 78.250.26.214 (pid 16928) cron: mise_a_jour (446.230 ms) 1
+Apr 11 10:06:12 90.2.241.153 (pid 14253) cron: debut syndic
+Apr 11 10:06:25 90.2.241.153 (pid 14462) cron: debut visites
+Apr 11 10:06:26 90.2.241.153 (pid 14462) cron: visites (66.029 ms) 1
+Apr 11 10:06:31 90.2.241.153 (pid 14621) cron: debut invalideur
+Apr 11 10:06:31 90.2.241.153 (pid 14621) cron: invalideur (31.168 ms) 1
+Apr 11 10:08:26 90.2.241.153 (pid 16997) cron: debut syndic
+Apr 11 10:10:00 90.2.241.153 (pid 18377) cron: debut syndic
+Apr 11 10:12:51 90.2.241.153 (pid 22484) cron: debut visites
+Apr 11 10:12:51 90.2.241.153 (pid 22484) cron: visites (6.792 ms) 1
+Apr 11 10:12:56 90.2.241.153 (pid 22519) cron: debut syndic
+Apr 11 10:15:27 90.2.241.153 (pid 25629) cron: debut syndic
+Apr 11 10:17:28 90.2.241.153 (pid 27938) cron: debut syndic
+Apr 11 10:19:28 90.2.241.153 (pid 30334) cron: debut visites
+Apr 11 10:19:28 90.2.241.153 (pid 30334) cron: visites (40.210 ms) 1
+Apr 11 10:19:41 90.2.241.153 (pid 30462) cron: debut syndic
+Apr 11 10:21:27 90.2.241.153 (pid 591) cron: debut syndic
+Apr 11 10:27:06 90.2.241.153 (pid 7771) cron: debut syndic
+Apr 11 10:27:20 90.2.241.153 (pid 8031) cron: debut visites
+Apr 11 10:27:20 90.2.241.153 (pid 8031) cron: visites (11.203 ms) 1
+Apr 11 10:27:36 90.2.241.153 (pid 8298) cron: debut invalideur
+Apr 11 10:27:36 90.2.241.153 (pid 8298) cron: invalideur (27.013 ms) 1
+Apr 11 10:29:38 90.2.241.153 (pid 11394) cron: debut syndic
+Apr 11 10:31:12 90.2.241.153 (pid 13814) cron: debut syndic
+Apr 11 10:33:09 90.2.241.153 (pid 16432) cron: debut visites
+Apr 11 10:33:09 90.2.241.153 (pid 16432) cron: visites (7.530 ms) 1
+Apr 11 10:33:24 90.2.241.153 (pid 16883) cron: debut syndic
+Apr 11 10:35:00 90.2.241.153 (pid 18859) cron: debut syndic
+Apr 11 10:37:24 90.2.241.153 (pid 22820) cron: debut syndic
+Apr 11 10:38:50 90.2.241.153 (pid 24663) cron: debut visites
+Apr 11 10:38:50 90.2.241.153 (pid 24663) cron: visites (27.279 ms) 1
+Apr 11 10:39:28 90.2.241.153 (pid 25299) cron: debut syndic
+Apr 11 10:41:10 90.2.241.153 (pid 27885) cron: debut syndic
+Apr 11 10:45:16 90.2.241.153 (pid 1233) cron: debut syndic
+Apr 11 10:45:49 90.2.241.153 (pid 1778) cron: debut visites
+Apr 11 10:45:49 90.2.241.153 (pid 1778) cron: visites (13.479 ms) 1
+Apr 11 10:48:14 90.2.241.153 (pid 5549) cron: debut syndic
+Apr 11 10:48:23 90.2.241.153 (pid 5852) cron: debut invalideur
+Apr 11 10:48:23 90.2.241.153 (pid 5852) cron: invalideur (91.674 ms) 1
+Apr 11 10:50:05 90.2.241.153 (pid 8336) cron: debut syndic
+Apr 11 10:51:02 90.2.241.153 (pid 9367) cron: debut visites
+Apr 11 10:51:02 90.2.241.153 (pid 9367) cron: visites (7.624 ms) 1
+Apr 11 10:51:42 90.2.241.153 (pid 10455) cron: debut syndic
+Apr 11 10:55:36 90.2.241.153 (pid 16114) cron: debut syndic
+Apr 11 10:56:16 90.2.241.153 (pid 17473) cron: debut visites
+Apr 11 10:56:16 90.2.241.153 (pid 17473) cron: visites (6.481 ms) 1
+Apr 11 10:58:54 90.2.241.153 (pid 21124) cron: debut syndic
+Apr 11 11:00:53 90.2.241.153 (pid 26025) cron: debut syndic
+Apr 11 11:01:18 90.2.241.153 (pid 26649) cron: debut visites
+Apr 11 11:01:18 90.2.241.153 (pid 26649) cron: visites (13.516 ms) 1
+Apr 11 11:02:26 90.2.241.153 (pid 28359) cron: debut syndic
+Apr 11 11:09:48 90.2.241.153 (pid 6680) cron: debut syndic
+Apr 11 11:10:59 90.2.241.153 (pid 8426) cron: debut visites
+Apr 11 11:10:59 90.2.241.153 (pid 8426) cron: visites (10.564 ms) 1
+Apr 11 11:12:03 90.2.241.153 (pid 10172) cron: debut invalideur
+Apr 11 11:12:03 90.2.241.153 (pid 10172) cron: invalideur (36.623 ms) 1
+Apr 11 11:12:09 90.2.241.153 (pid 10288) cron: debut syndic
+Apr 11 11:13:42 90.2.241.153 (pid 12210) cron: debut syndic
+Apr 11 11:15:32 90.2.241.153 (pid 14810) cron: debut syndic
+Apr 11 11:16:04 90.2.241.153 (pid 15700) cron: debut visites
+Apr 11 11:16:04 90.2.241.153 (pid 15700) cron: visites (5.832 ms) 1
+Apr 11 11:18:04 90.2.241.153 (pid 18476) cron: debut syndic
+Apr 11 11:19:49 90.2.241.153 (pid 20906) cron: debut syndic
+Apr 11 11:21:06 90.2.241.153 (pid 23022) cron: debut visites
+Apr 11 11:21:06 90.2.241.153 (pid 23022) cron: visites (7.816 ms) 1
+Apr 11 11:23:12 90.2.241.153 (pid 25941) cron: debut syndic
+Apr 12 12:36:10 90.24.156.97 (pid 32392) cron: debut syndic
+Apr 12 12:37:22 90.24.156.97 (pid 1543) cron: debut visites
+Apr 12 12:37:22 90.24.156.97 (pid 1543) cron: visites (150.891 ms) 1
+Apr 12 12:37:32 90.24.156.97 (pid 1774) cron: debut invalideur
+Apr 12 12:37:32 90.24.156.97 (pid 1774) cron: invalideur (76.841 ms) 1
+Apr 12 12:39:30 90.24.156.97 (pid 4889) cron: debut maintenance
+Apr 12 12:39:30 90.24.156.97 (pid 4889) cron: maintenance (171.265 ms) 1
+Apr 12 12:40:58 90.24.156.97 (pid 6550) cron: debut popularites
+Apr 12 12:40:58 90.24.156.97 (pid 6550) cron: popularites (134.882 ms) 1
+Apr 12 12:41:21 90.24.156.97 (pid 6977) cron: debut syndic
+Apr 12 17:13:22 90.24.156.97 (pid 30080) cron: debut visites
+Apr 12 17:13:22 90.24.156.97 (pid 30080) cron: visites (84.569 ms) 1
+Apr 12 17:13:28 90.24.156.97 (pid 30199) cron: debut syndic
+Apr 12 17:15:14 90.24.156.97 (pid 933) cron: debut invalideur
+Apr 12 17:15:14 90.24.156.97 (pid 933) cron: invalideur (24.624 ms) 1
+Apr 12 17:16:10 90.24.156.97 (pid 2551) cron: debut maintenance
+Apr 12 17:16:10 90.24.156.97 (pid 2551) cron: maintenance (55.760 ms) 1
+Apr 12 17:16:25 90.24.156.97 (pid 2919) cron: debut popularites
+Apr 12 17:16:25 90.24.156.97 (pid 2919) cron: popularites (14.352 ms) 1
+Apr 12 17:17:51 90.24.156.97 (pid 4606) cron: debut syndic
+Apr 12 17:19:18 90.24.156.97 (pid 6138) cron: debut visites
+Apr 12 17:19:18 90.24.156.97 (pid 6138) cron: visites (8.206 ms) 1
+Apr 12 17:46:30 90.24.156.97 (pid 10970) cron: debut syndic
+Apr 12 17:46:35 90.24.156.97 (pid 11093) cron: debut visites
+Apr 12 17:46:35 90.24.156.97 (pid 11093) cron: visites (20.429 ms) 1
+Apr 12 17:49:12 90.24.156.97 (pid 14437) cron: debut invalideur
+Apr 12 17:49:12 90.24.156.97 (pid 14437) cron: invalideur (45.051 ms) 1
+Apr 12 17:49:44 90.24.156.97 (pid 14878) cron: debut syndic
+Apr 12 17:53:01 90.24.156.97 (pid 19758) cron: debut syndic
+Apr 12 17:53:33 90.24.156.97 (pid 20353) cron: debut visites
+Apr 12 17:53:33 90.24.156.97 (pid 20353) cron: visites (6.937 ms) 1
+Apr 12 17:55:33 90.24.156.97 (pid 22639) cron: debut syndic
+Apr 12 17:57:25 90.24.156.97 (pid 25574) cron: debut syndic
+Apr 12 17:58:38 90.24.156.97 (pid 27103) cron: debut visites
+Apr 12 17:58:38 90.24.156.97 (pid 27103) cron: visites (19.125 ms) 1
+Apr 12 17:59:10 90.24.156.97 (pid 27699) cron: debut syndic
+Apr 12 18:00:50 90.24.156.97 (pid 31956) cron: debut syndic
+Apr 12 18:02:34 90.24.156.97 (pid 2257) cron: debut syndic
+Apr 12 18:04:17 90.24.156.97 (pid 4775) cron: debut visites
+Apr 12 18:04:17 90.24.156.97 (pid 4775) cron: visites (6.952 ms) 1
+Apr 12 18:04:25 90.24.156.97 (pid 4923) cron: debut syndic
+Apr 12 18:05:59 90.24.156.97 (pid 7522) cron: debut syndic
+Apr 12 18:07:52 90.24.156.97 (pid 10215) cron: debut syndic
+Apr 12 18:09:26 90.24.156.97 (pid 12306) cron: debut invalideur
+Apr 12 18:09:26 90.24.156.97 (pid 12306) cron: invalideur (249.623 ms) 1
+Apr 12 18:09:30 90.24.156.97 (pid 12374) cron: debut visites
+Apr 12 18:09:30 90.24.156.97 (pid 12374) cron: visites (6.952 ms) 1
+Apr 12 18:10:32 90.24.156.97 (pid 13862) cron: debut syndic
+Apr 12 18:13:33 90.24.156.97 (pid 18303) cron: debut syndic
+Apr 12 18:14:40 90.24.156.97 (pid 19804) cron: debut visites
+Apr 12 18:14:40 90.24.156.97 (pid 19804) cron: visites (6.193 ms) 1
+Apr 12 18:16:24 90.24.156.97 (pid 22081) cron: debut syndic
+Apr 12 18:19:28 90.24.156.97 (pid 26354) cron: debut syndic
+Apr 12 18:20:23 90.24.156.97 (pid 27542) cron: debut visites
+Apr 12 18:20:23 90.24.156.97 (pid 27542) cron: visites (25.157 ms) 1
+Apr 12 18:21:31 90.24.156.97 (pid 28777) cron: debut syndic
+Apr 12 18:23:10 90.24.156.97 (pid 30670) cron: debut syndic
+Apr 12 18:24:41 90.24.156.97 (pid 829) cron: debut syndic
+Apr 12 18:25:38 90.24.156.97 (pid 2306) cron: debut visites
+Apr 12 18:25:38 90.24.156.97 (pid 2306) cron: visites (6.988 ms) 1
+Apr 12 18:27:39 90.24.156.97 (pid 5056) cron: debut syndic
+Apr 12 18:29:12 90.24.156.97 (pid 7536) cron: debut syndic
+Apr 12 18:31:27 90.24.156.97 (pid 11014) cron: debut invalideur
+Apr 12 18:31:27 90.24.156.97 (pid 11014) cron: invalideur (63.209 ms) 1
+Apr 13 13:23:37 81.57.34.8 (pid 23282) cron: debut visites
+Apr 13 13:23:37 81.57.34.8 (pid 23282) cron: visites (161.179 ms) 1
+Apr 13 13:36:47 81.57.34.8 (pid 6572) cron: debut syndic
+Apr 13 13:36:57 81.57.34.8 (pid 6741) cron: debut invalideur
+Apr 13 13:36:57 81.57.34.8 (pid 6741) cron: invalideur (40.106 ms) 1
+Apr 13 14:12:54 81.57.34.8 (pid 19565) cron: debut maintenance
+Apr 13 14:12:54 81.57.34.8 (pid 19565) cron: maintenance (215.280 ms) 1
+Apr 13 14:12:57 81.57.34.8 (pid 19619) cron: debut popularites
+Apr 13 14:12:58 81.57.34.8 (pid 19619) cron: popularites (105.472 ms) 1
+Apr 13 14:13:06 81.57.34.8 (pid 19886) cron: debut optimiser
+Apr 13 14:13:06 81.57.34.8 (pid 19886) cron: optimiser (96.349 ms) -1302659300
+Apr 13 14:13:27 81.57.34.8 (pid 20368) cron: debut visites
+Apr 13 14:13:27 81.57.34.8 (pid 20368) cron: visites (9.482 ms) 1
+Apr 13 14:13:37 81.57.34.8 (pid 20547) cron: debut syndic
+Apr 13 14:13:40 81.57.34.8 (pid 20605) cron: debut invalideur
+Apr 13 14:13:40 81.57.34.8 (pid 20605) cron: invalideur (28.152 ms) 1
+Apr 13 14:15:44 81.57.34.8 (pid 22923) cron: debut syndic
+Apr 13 14:22:10 81.57.34.8 (pid 30899) cron: debut syndic
+Apr 13 14:22:13 81.57.34.8 (pid 30960) cron: debut visites
+Apr 13 14:22:13 81.57.34.8 (pid 30960) cron: visites (9.487 ms) 1
+Apr 13 14:26:30 81.57.34.8 (pid 4148) cron: debut syndic
+Apr 13 14:27:24 81.57.34.8 (pid 5377) cron: debut visites
+Apr 13 14:27:24 81.57.34.8 (pid 5377) cron: visites (9.707 ms) 1
+Apr 13 14:28:04 81.57.34.8 (pid 6485) cron: debut syndic
+Apr 13 14:55:03 81.57.34.8 (pid 11893) cron: debut syndic
+Apr 13 14:55:06 81.57.34.8 (pid 11930) cron: debut visites
+Apr 13 14:55:06 81.57.34.8 (pid 11930) cron: visites (8.500 ms) 1
+Apr 13 14:55:32 81.57.34.8 (pid 12537) cron: debut invalideur
+Apr 13 14:55:32 81.57.34.8 (pid 12537) cron: invalideur (40.547 ms) 1
+Apr 13 14:56:47 81.57.34.8 (pid 14324) cron: debut syndic
+Apr 13 14:59:32 81.57.34.8 (pid 18773) cron: debut syndic
+Apr 13 19:53:17 81.57.34.8 (pid 11899) cron: debut visites
+Apr 13 19:53:17 81.57.34.8 (pid 11899) cron: visites (26.474 ms) 1
+Apr 13 19:53:21 81.57.34.8 (pid 11931) cron: debut syndic
+Apr 13 19:53:27 81.57.34.8 (pid 12016) cron: debut invalideur
+Apr 13 19:53:27 81.57.34.8 (pid 12016) cron: invalideur (15.320 ms) 1
+Apr 13 19:53:31 81.57.34.8 (pid 12081) cron: debut maintenance
+Apr 13 19:53:31 81.57.34.8 (pid 12081) cron: maintenance (62.941 ms) 1
+Apr 13 19:54:19 81.57.34.8 (pid 12925) cron: debut popularites
+Apr 13 19:54:19 81.57.34.8 (pid 12925) cron: popularites (52.090 ms) 1
+Apr 13 19:55:21 81.57.34.8 (pid 13971) cron: debut syndic
+Apr 13 19:57:00 81.57.34.8 (pid 16609) cron: debut syndic
+Apr 13 19:58:18 81.57.34.8 (pid 17786) cron: debut visites
+Apr 13 19:58:18 81.57.34.8 (pid 17786) cron: visites (8.784 ms) 1
+Apr 13 19:58:39 81.57.34.8 (pid 18036) cron: debut syndic
+Apr 13 20:00:57 81.57.34.8 (pid 22837) cron: debut syndic
+Apr 13 20:02:28 81.57.34.8 (pid 25187) cron: debut syndic
+Apr 13 20:03:21 81.57.34.8 (pid 26087) cron: debut visites
+Apr 13 20:03:21 81.57.34.8 (pid 26087) cron: visites (302.045 ms) 1
+Apr 13 20:05:26 81.57.34.8 (pid 28296) cron: debut syndic
+Apr 13 20:09:57 81.57.34.8 (pid 986) cron: debut syndic
+Apr 13 20:14:11 81.57.34.8 (pid 6618) cron: debut visites
+Apr 13 20:14:11 81.57.34.8 (pid 6618) cron: visites (10.333 ms) 1
+Apr 13 20:15:17 81.57.34.8 (pid 7880) cron: debut syndic
+Apr 13 20:16:54 81.57.34.8 (pid 9763) cron: debut invalideur
+Apr 13 20:16:54 81.57.34.8 (pid 9763) cron: invalideur (51.064 ms) 1
+Apr 13 20:17:04 81.57.34.8 (pid 10292) cron: debut syndic
+Apr 13 20:18:40 81.57.34.8 (pid 11807) cron: debut syndic
+Apr 13 20:19:51 81.57.34.8 (pid 12947) cron: debut visites
+Apr 13 20:19:51 81.57.34.8 (pid 12947) cron: visites (41.061 ms) 1
+Apr 13 20:20:30 81.57.34.8 (pid 14113) cron: debut syndic
+Apr 13 20:22:01 81.57.34.8 (pid 16277) cron: debut syndic
+Apr 13 20:23:37 81.57.34.8 (pid 17746) cron: debut syndic
+Apr 13 20:24:57 81.57.34.8 (pid 18950) cron: debut visites
+Apr 13 20:24:57 81.57.34.8 (pid 18950) cron: visites (10.867 ms) 1
+Apr 13 20:25:31 81.57.34.8 (pid 19723) cron: debut syndic
+Apr 13 20:27:02 81.57.34.8 (pid 22034) cron: debut syndic
+Apr 13 20:28:35 81.57.34.8 (pid 24104) cron: debut syndic
+Apr 13 22:46:45 81.57.34.8 (pid 18298) cron: debut visites
+Apr 13 22:46:45 81.57.34.8 (pid 18298) cron: visites (102.976 ms) 1
+Apr 13 22:46:49 81.57.34.8 (pid 18317) cron: debut syndic
+Apr 13 22:46:55 81.57.34.8 (pid 18423) cron: debut invalideur
+Apr 13 22:46:55 81.57.34.8 (pid 18423) cron: invalideur (31.508 ms) 1
+Apr 14 19:16:35 81.57.34.8 (pid 29348) cron: debut maintenance
+Apr 14 19:16:35 81.57.34.8 (pid 29348) cron: maintenance (64.204 ms) 1
+Apr 14 19:16:40 81.57.34.8 (pid 29418) cron: debut popularites
+Apr 14 19:16:40 81.57.34.8 (pid 29418) cron: popularites (93.063 ms) 1
+Apr 15 00:59:27 81.57.34.8 (pid 21983) cron: debut syndic
+Apr 15 00:59:35 81.57.34.8 (pid 22058) cron: debut visites
+Apr 15 00:59:35 81.57.34.8 (pid 22058) cron: visites (74.168 ms) 1
+Apr 15 00:59:48 81.57.34.8 (pid 22171) cron: debut invalideur
+Apr 15 00:59:48 81.57.34.8 (pid 22171) cron: invalideur (35.366 ms) 1
+Apr 15 08:08:01 90.2.247.176 (pid 27772) cron: debut mise_a_jour
+Apr 15 08:08:01 90.2.247.176 (pid 27772) cron: mise_a_jour (129.876 ms) 1
+Apr 15 08:08:06 90.2.247.176 (pid 27989) cron: debut maintenance
+Apr 15 08:08:06 90.2.247.176 (pid 27989) cron: maintenance (187.764 ms) 1
+Apr 15 08:09:26 90.2.247.176 (pid 28927) cron: debut popularites
+Apr 15 08:09:26 90.2.247.176 (pid 28927) cron: popularites (81.189 ms) 1
+Apr 15 08:12:04 90.2.247.176 (pid 32415) cron: debut syndic
+Apr 15 08:12:08 90.2.247.176 (pid 32442) cron: debut visites
+Apr 15 08:12:08 90.2.247.176 (pid 32442) cron: visites (37.688 ms) 1
+Apr 15 08:14:17 90.2.247.176 (pid 1720) cron: debut invalideur
+Apr 15 08:14:17 90.2.247.176 (pid 1720) cron: invalideur (39.630 ms) 1
+Apr 15 08:14:45 90.2.247.176 (pid 1986) cron: debut optimiser
+Apr 15 08:14:45 90.2.247.176 (pid 1986) cron: optimiser (61.220 ms) -1302829549
+Apr 15 08:14:49 90.2.247.176 (pid 2025) cron: debut syndic
+Apr 15 23:29:12 81.57.34.8 (pid 24250) cron: debut syndic
+Apr 15 23:29:21 81.57.34.8 (pid 24415) cron: debut visites
+Apr 15 23:29:21 81.57.34.8 (pid 24415) cron: visites (130.754 ms) 1
+Apr 15 23:29:24 81.57.34.8 (pid 24471) cron: debut invalideur
+Apr 15 23:29:24 81.57.34.8 (pid 24471) cron: invalideur (17.514 ms) 1
+Apr 15 23:29:32 81.57.34.8 (pid 24624) cron: debut maintenance
+Apr 15 23:29:32 81.57.34.8 (pid 24624) cron: maintenance (99.675 ms) 1
+Apr 15 23:29:40 81.57.34.8 (pid 24796) cron: debut popularites
+Apr 15 23:29:40 81.57.34.8 (pid 24796) cron: popularites (142.767 ms) 1
+Apr 15 23:30:45 81.57.34.8 (pid 26855) cron: debut syndic
+Apr 15 23:34:00 81.57.34.8 (pid 29836) cron: debut syndic
+Apr 15 23:35:58 81.57.34.8 (pid 32115) cron: debut visites
+Apr 15 23:35:58 81.57.34.8 (pid 32115) cron: visites (9.785 ms) 1
+Apr 15 23:36:04 81.57.34.8 (pid 32444) cron: debut syndic
+Apr 15 23:38:52 81.57.34.8 (pid 3386) cron: debut syndic
+Apr 15 23:40:32 81.57.34.8 (pid 5259) cron: debut syndic
+Apr 15 23:42:45 81.57.34.8 (pid 8496) cron: debut visites
+Apr 15 23:42:45 81.57.34.8 (pid 8496) cron: visites (20.237 ms) 1
+Apr 15 23:43:09 81.57.34.8 (pid 8957) cron: debut syndic
+Apr 15 23:44:43 81.57.34.8 (pid 10451) cron: debut syndic
+Apr 15 23:46:51 81.57.34.8 (pid 13564) cron: debut syndic
+Apr 17 10:02:15 86.212.125.242 (pid 4604) cron: debut invalideur
+Apr 17 10:02:15 86.212.125.242 (pid 4604) cron: invalideur (21.314 ms) 1
+Apr 17 17:34:03 86.212.125.242 (pid 11830) cron: debut maintenance
+Apr 17 17:34:03 86.212.125.242 (pid 11830) cron: maintenance (239.660 ms) 1
+Apr 17 17:34:18 86.212.125.242 (pid 12138) cron: debut popularites
+Apr 17 17:34:18 86.212.125.242 (pid 12138) cron: popularites (130.405 ms) 1
+Apr 17 20:08:12 86.212.125.242 (pid 3186) cron: debut syndic
+Apr 17 20:08:53 86.212.125.242 (pid 4027) cron: debut invalideur
+Apr 17 20:08:53 86.212.125.242 (pid 4027) cron: invalideur (39.563 ms) 1
+Apr 17 20:08:58 86.212.125.242 (pid 4102) cron: debut visites
+Apr 17 20:08:58 86.212.125.242 (pid 4102) cron: visites (63.613 ms) 1
+Apr 17 20:09:04 86.212.125.242 (pid 4326) cron: debut maintenance
+Apr 17 20:09:04 86.212.125.242 (pid 4326) cron: maintenance (52.612 ms) 1
+Apr 17 20:09:39 86.212.125.242 (pid 4845) cron: debut popularites
+Apr 17 20:09:39 86.212.125.242 (pid 4845) cron: popularites (17.216 ms) 1
+Apr 17 20:10:41 86.212.125.242 (pid 6555) cron: debut syndic
+Apr 17 20:53:15 62.201.142.26 (pid 13058) cron: debut syndic
+Apr 17 20:53:18 62.201.142.26 (pid 13103) cron: debut visites
+Apr 17 20:53:18 62.201.142.26 (pid 13103) cron: visites (66.620 ms) 1
+Apr 17 20:53:23 62.201.142.26 (pid 13165) cron: debut invalideur
+Apr 17 20:53:23 62.201.142.26 (pid 13165) cron: invalideur (45.195 ms) 1
+Apr 17 23:18:24 86.212.125.242 (pid 19970) cron: debut syndic
+Apr 18 07:56:40 90.24.214.145 (pid 32410) cron: debut visites
+Apr 18 07:56:40 90.24.214.145 (pid 32410) cron: visites (74.175 ms) 1
+Apr 18 07:56:45 90.24.214.145 (pid 32559) cron: debut invalideur
+Apr 18 07:56:45 90.24.214.145 (pid 32559) cron: invalideur (29.110 ms) 1
+Apr 18 07:57:29 90.24.214.145 (pid 1393) cron: debut maintenance
+Apr 18 07:57:29 90.24.214.145 (pid 1393) cron: maintenance (172.200 ms) 1
+Apr 18 13:09:34 81.57.34.8 (pid 31536) cron: debut popularites
+Apr 18 13:09:34 81.57.34.8 (pid 31536) cron: popularites (188.459 ms) 1
+Apr 18 13:20:29 81.57.34.8 (pid 14882) cron: debut syndic
+Apr 18 13:20:41 81.57.34.8 (pid 15102) cron: debut visites
+Apr 18 13:20:41 81.57.34.8 (pid 15102) cron: visites (76.739 ms) 1
+Apr 18 20:10:01 90.24.214.145 (pid 31312) cron: debut mise_a_jour
+Apr 18 20:10:02 90.24.214.145 (pid 31312) cron: mise_a_jour (475.312 ms) 1
+Apr 20 10:51:49 83.202.105.233 (pid 3763) cron: debut maintenance
+Apr 20 10:51:50 83.202.105.233 (pid 3763) cron: maintenance (306.301 ms) 1
+Apr 20 10:52:21 83.202.105.233 (pid 4979) cron: debut syndic
+Apr 20 11:00:37 83.202.105.233 (pid 18491) cron: debut visites
+Apr 20 11:00:37 83.202.105.233 (pid 18491) cron: visites (192.235 ms) 1
+Apr 20 11:01:05 83.202.105.233 (pid 19284) cron: debut popularites
+Apr 20 11:01:05 83.202.105.233 (pid 19284) cron: popularites (112.420 ms) 1
+Apr 20 11:01:11 83.202.105.233 (pid 19411) cron: debut optimiser
+Apr 20 11:01:11 83.202.105.233 (pid 19411) cron: optimiser (51.238 ms) -1303267149
+Apr 20 11:05:50 83.202.105.233 (pid 25735) cron: debut invalideur
+Apr 20 11:05:50 83.202.105.233 (pid 25735) cron: invalideur (91.887 ms) 1
+Apr 20 11:06:15 83.202.105.233 (pid 26403) cron: debut syndic
+Apr 20 11:06:22 83.202.105.233 (pid 26519) cron: debut visites
+Apr 20 11:06:22 83.202.105.233 (pid 26519) cron: visites (6.553 ms) 1
+Apr 20 11:08:13 83.202.105.233 (pid 29016) cron: debut syndic
+Apr 20 11:17:17 83.202.105.233 (pid 10254) cron: debut syndic
+Apr 20 11:17:48 83.202.105.233 (pid 11142) cron: debut visites
+Apr 20 11:17:48 83.202.105.233 (pid 11142) cron: visites (5.654 ms) 1
+Apr 20 11:22:42 83.202.105.233 (pid 16652) cron: debut syndic
+Apr 20 11:23:08 83.202.105.233 (pid 17353) cron: debut visites
+Apr 20 11:23:08 83.202.105.233 (pid 17353) cron: visites (6.649 ms) 1
+Apr 20 11:25:17 83.202.105.233 (pid 19843) cron: debut syndic
+Apr 20 11:26:04 83.202.105.233 (pid 20743) cron: debut invalideur
+Apr 20 11:26:04 83.202.105.233 (pid 20743) cron: invalideur (80.760 ms) 1
+Apr 20 11:45:37 83.202.105.233 (pid 13481) cron: debut syndic
+Apr 20 11:45:41 83.202.105.233 (pid 13574) cron: debut visites
+Apr 20 11:45:41 83.202.105.233 (pid 13574) cron: visites (10.541 ms) 1
+Apr 20 11:47:39 83.202.105.233 (pid 16088) cron: debut invalideur
+Apr 20 11:47:39 83.202.105.233 (pid 16088) cron: invalideur (186.577 ms) 1
+Apr 20 11:47:57 83.202.105.233 (pid 16543) cron: debut syndic
+Apr 20 11:53:00 83.202.105.233 (pid 23964) cron: debut syndic
+Apr 20 11:53:15 83.202.105.233 (pid 24337) cron: debut visites
+Apr 20 11:53:15 83.202.105.233 (pid 24337) cron: visites (7.909 ms) 1
+Apr 20 11:56:13 83.202.105.233 (pid 28208) cron: debut syndic
+Apr 20 11:59:29 83.202.105.233 (pid 32434) cron: debut syndic
+Apr 20 11:59:37 83.202.105.233 (pid 32541) cron: debut visites
+Apr 20 11:59:37 83.202.105.233 (pid 32541) cron: visites (8.552 ms) 1
+Apr 20 12:01:49 83.202.105.233 (pid 5821) cron: debut syndic
+Apr 20 12:30:05 83.202.105.233 (pid 10082) cron: debut syndic
+Apr 20 12:40:38 83.202.105.233 (pid 24160) cron: debut visites
+Apr 20 12:40:38 83.202.105.233 (pid 24160) cron: visites (25.487 ms) 1
+Apr 20 12:41:00 83.202.105.233 (pid 24504) cron: debut invalideur
+Apr 20 12:41:01 83.202.105.233 (pid 24504) cron: invalideur (134.219 ms) 1
+Apr 20 12:41:05 83.202.105.233 (pid 24693) cron: debut syndic
+Apr 20 12:43:30 83.202.105.233 (pid 28083) cron: debut syndic
+Apr 20 12:51:19 83.202.105.233 (pid 5977) cron: debut syndic
+Apr 20 12:51:22 83.202.105.233 (pid 6022) cron: debut visites
+Apr 20 12:51:22 83.202.105.233 (pid 6022) cron: visites (13.255 ms) 1
+Apr 20 12:52:51 83.202.105.233 (pid 8076) cron: debut maintenance
+Apr 20 12:52:51 83.202.105.233 (pid 8076) cron: maintenance (54.666 ms) 1
+Apr 20 12:53:36 83.202.105.233 (pid 9029) cron: debut syndic
+Apr 20 20:42:32 83.202.105.233 (pid 15714) cron: debut syndic
+Apr 21 18:47:48 90.2.177.224 (pid 6724) cron: debut visites
+Apr 21 18:47:49 90.2.177.224 (pid 6724) cron: visites (152.222 ms) 1
+Apr 21 18:47:54 90.2.177.224 (pid 6783) cron: debut invalideur
+Apr 21 18:47:54 90.2.177.224 (pid 6783) cron: invalideur (49.575 ms) 1
+Apr 21 18:48:12 90.2.177.224 (pid 7336) cron: debut popularites
+Apr 21 18:48:13 90.2.177.224 (pid 7336) cron: popularites (106.784 ms) 1
+Apr 21 18:48:44 90.2.177.224 (pid 7845) cron: debut maintenance
+Apr 21 18:48:45 90.2.177.224 (pid 7845) cron: maintenance (190.932 ms) 1
+Apr 21 18:48:55 90.2.177.224 (pid 8010) cron: debut syndic
+Apr 21 18:58:55 90.2.177.224 (pid 18478) cron: debut syndic
+Apr 21 18:59:09 90.2.177.224 (pid 18736) cron: debut visites
+Apr 21 18:59:09 90.2.177.224 (pid 18736) cron: visites (16.408 ms) 1
+Apr 21 21:43:48 90.2.177.224 (pid 16305) cron: debut syndic
+Apr 21 21:43:52 90.2.177.224 (pid 16359) cron: debut visites
+Apr 21 21:43:52 90.2.177.224 (pid 16359) cron: visites (7.942 ms) 1
+Apr 21 21:44:07 90.2.177.224 (pid 16657) cron: debut invalideur
+Apr 21 21:44:07 90.2.177.224 (pid 16657) cron: invalideur (34.532 ms) 1
+Apr 21 21:44:29 90.2.177.224 (pid 16925) cron: debut mise_a_jour
+Apr 21 21:44:29 90.2.177.224 (pid 16925) cron: mise_a_jour (148.988 ms) 1
+Apr 21 21:44:50 90.2.177.224 (pid 17188) cron: debut popularites
+Apr 21 21:44:50 90.2.177.224 (pid 17188) cron: popularites (28.986 ms) 1
+Apr 21 21:45:22 90.2.177.224 (pid 18128) cron: debut maintenance
+Apr 21 21:45:23 90.2.177.224 (pid 18128) cron: maintenance (65.623 ms) 1
+Apr 21 21:47:32 90.2.177.224 (pid 20772) cron: debut syndic
+Apr 21 21:50:09 90.2.177.224 (pid 24065) cron: debut visites
+Apr 21 21:50:09 90.2.177.224 (pid 24065) cron: visites (20.637 ms) 1
+Apr 21 21:50:16 90.2.177.224 (pid 24167) cron: debut syndic
+Apr 21 21:53:21 90.2.177.224 (pid 27803) cron: debut syndic
+Apr 21 22:01:31 90.2.177.224 (pid 7212) cron: debut syndic
+Apr 21 22:01:36 90.2.177.224 (pid 7276) cron: debut visites
+Apr 21 22:01:36 90.2.177.224 (pid 7276) cron: visites (11.359 ms) 1
+Apr 21 22:03:19 90.2.177.224 (pid 9474) cron: debut syndic
+Apr 21 22:04:30 90.2.177.224 (pid 10462) cron: debut invalideur
+Apr 21 22:04:30 90.2.177.224 (pid 10462) cron: invalideur (54.450 ms) 1
+Apr 21 22:09:02 90.2.177.224 (pid 16078) cron: debut syndic
+Apr 25 17:50:59 86.212.126.80 (pid 17235) cron: debut visites
+Apr 25 17:50:59 86.212.126.80 (pid 17235) cron: visites (163.404 ms) 1
+Apr 25 17:51:23 86.212.126.80 (pid 17857) cron: debut syndic
+Apr 25 17:52:56 86.212.126.80 (pid 20097) cron: debut invalideur
+Apr 25 17:52:56 86.212.126.80 (pid 20097) cron: invalideur (90.216 ms) 1
+Apr 25 17:53:36 86.212.126.80 (pid 20918) cron: debut popularites
+Apr 25 17:53:36 86.212.126.80 (pid 20918) cron: popularites (217.337 ms) 1
+Apr 25 17:53:41 86.212.126.80 (pid 21051) cron: debut maintenance
+Apr 25 17:53:41 86.212.126.80 (pid 21051) cron: maintenance (231.181 ms) 1
+Apr 25 17:54:03 86.212.126.80 (pid 21728) cron: debut optimiser
+Apr 25 17:54:03 86.212.126.80 (pid 21728) cron: optimiser (99.360 ms) -1303690052
+Apr 25 17:54:39 86.212.126.80 (pid 22723) cron: debut mise_a_jour
+Apr 25 17:54:39 86.212.126.80 (pid 22723) cron: mise_a_jour (170.419 ms) 1
+Apr 25 17:54:49 86.212.126.80 (pid 22833) cron: debut syndic
+Apr 25 17:57:13 86.212.126.80 (pid 25582) cron: debut visites
+Apr 25 17:57:13 86.212.126.80 (pid 25582) cron: visites (10.783 ms) 1
+Apr 25 17:57:16 86.212.126.80 (pid 25627) cron: debut syndic
+Apr 25 17:59:24 86.212.126.80 (pid 28456) cron: debut syndic
+Apr 25 18:02:38 86.212.126.80 (pid 2071) cron: debut syndic
+Apr 25 18:02:42 86.212.126.80 (pid 2188) cron: debut visites
+Apr 25 18:02:42 86.212.126.80 (pid 2188) cron: visites (7.061 ms) 1
+Apr 25 18:05:43 86.212.126.80 (pid 5877) cron: debut syndic
+Apr 25 18:07:21 86.212.126.80 (pid 8245) cron: debut syndic
+Apr 25 18:10:06 86.212.126.80 (pid 11832) cron: debut visites
+Apr 25 18:10:06 86.212.126.80 (pid 11832) cron: visites (30.723 ms) 1
+Apr 25 18:10:39 86.212.126.80 (pid 12580) cron: debut syndic
+Apr 25 18:14:23 86.212.126.80 (pid 17291) cron: debut syndic
+Apr 25 18:15:17 86.212.126.80 (pid 18426) cron: debut invalideur
+Apr 25 18:15:17 86.212.126.80 (pid 18426) cron: invalideur (62.521 ms) 1
+Apr 25 18:15:39 86.212.126.80 (pid 18992) cron: debut visites
+Apr 25 18:15:39 86.212.126.80 (pid 18992) cron: visites (7.405 ms) 1
+Apr 25 18:16:20 86.212.126.80 (pid 19740) cron: debut syndic
+Apr 25 18:18:18 86.212.126.80 (pid 21972) cron: debut syndic
+Apr 25 18:19:53 86.212.126.80 (pid 23531) cron: debut syndic
+Apr 25 18:21:35 86.212.126.80 (pid 25400) cron: debut visites
+Apr 25 18:21:35 86.212.126.80 (pid 25400) cron: visites (9.491 ms) 1
+Apr 25 18:21:40 86.212.126.80 (pid 25554) cron: debut syndic
+Apr 25 18:23:44 86.212.126.80 (pid 27950) cron: debut syndic
+Apr 25 21:48:55 90.24.169.154 (pid 28428) cron: debut syndic
+Apr 25 21:48:59 90.24.169.154 (pid 28500) cron: debut visites
+Apr 25 21:48:59 90.24.169.154 (pid 28500) cron: visites (114.593 ms) 1
+Apr 25 21:49:30 90.24.169.154 (pid 29154) cron: debut invalideur
+Apr 25 21:49:30 90.24.169.154 (pid 29154) cron: invalideur (89.318 ms) 1
+Apr 25 21:49:43 90.24.169.154 (pid 29286) cron: debut popularites
+Apr 25 21:49:43 90.24.169.154 (pid 29286) cron: popularites (202.218 ms) 1
+Apr 25 21:49:57 90.24.169.154 (pid 29457) cron: debut maintenance
+Apr 25 21:49:57 90.24.169.154 (pid 29457) cron: maintenance (79.978 ms) 1
+Apr 25 21:50:29 90.24.169.154 (pid 30327) cron: debut syndic
+Apr 26 08:48:23 90.24.166.236 (pid 5982) cron: debut syndic
+Apr 26 08:48:27 90.24.166.236 (pid 6103) cron: debut visites
+Apr 26 08:48:27 90.24.166.236 (pid 6103) cron: visites (46.882 ms) 1
+Apr 26 08:49:11 90.24.166.236 (pid 7648) cron: debut invalideur
+Apr 26 08:49:11 90.24.166.236 (pid 7648) cron: invalideur (111.968 ms) 1
+Apr 26 08:49:21 90.24.166.236 (pid 7961) cron: debut popularites
+Apr 26 08:49:21 90.24.166.236 (pid 7961) cron: popularites (82.080 ms) 1
+Apr 26 08:49:40 90.24.166.236 (pid 8574) cron: debut maintenance
+Apr 26 08:49:40 90.24.166.236 (pid 8574) cron: maintenance (52.521 ms) 1
+Apr 26 10:41:32 90.24.166.236 (pid 4906) cron: debut syndic
+Apr 26 10:41:37 90.24.166.236 (pid 4996) cron: debut visites
+Apr 26 10:41:37 90.24.166.236 (pid 4996) cron: visites (11.715 ms) 1
+Apr 26 10:47:17 90.24.166.236 (pid 11431) cron: debut invalideur
+Apr 26 10:47:17 90.24.166.236 (pid 11431) cron: invalideur (88.885 ms) 1
+Apr 26 10:48:25 90.24.166.236 (pid 12919) cron: debut syndic
+Apr 26 10:48:28 90.24.166.236 (pid 12999) cron: debut visites
+Apr 26 10:48:28 90.24.166.236 (pid 12999) cron: visites (11.499 ms) 1
+Apr 26 19:27:36 90.24.166.236 (pid 11806) cron: debut popularites
+Apr 26 19:27:36 90.24.166.236 (pid 11806) cron: popularites (48.616 ms) 1
+Apr 27 12:22:20 90.24.150.130 (pid 5917) cron: debut maintenance
+Apr 27 12:22:20 90.24.150.130 (pid 5917) cron: maintenance (301.197 ms) 1
+Apr 27 12:23:11 90.24.150.130 (pid 6819) cron: debut syndic
+Apr 27 12:23:25 90.24.150.130 (pid 7127) cron: debut visites
+Apr 27 12:23:25 90.24.150.130 (pid 7127) cron: visites (101.987 ms) 1
+Apr 27 12:23:53 90.24.150.130 (pid 7577) cron: debut invalideur
+Apr 27 12:23:54 90.24.150.130 (pid 7577) cron: invalideur (829.245 ms) 1
+Apr 27 12:24:18 90.24.150.130 (pid 8106) cron: debut popularites
+Apr 27 12:24:18 90.24.150.130 (pid 8106) cron: popularites (117.027 ms) 1
+Apr 27 12:24:36 90.24.150.130 (pid 8394) cron: debut optimiser
+Apr 27 12:24:36 90.24.150.130 (pid 8394) cron: optimiser (61.182 ms) -1303865045
+Apr 27 12:24:51 90.24.150.130 (pid 8627) cron: debut syndic
+Apr 27 12:27:40 90.24.150.130 (pid 12550) cron: debut syndic
+Apr 27 12:28:39 90.24.150.130 (pid 14198) cron: debut visites
+Apr 27 12:28:39 90.24.150.130 (pid 14198) cron: visites (10.667 ms) 1
+Apr 27 12:29:32 90.24.150.130 (pid 15522) cron: debut syndic
+Apr 29 01:00:19 81.57.34.8 (pid 20227) cron: debut syndic
+Apr 29 01:00:22 81.57.34.8 (pid 20386) cron: debut visites
+Apr 29 01:00:23 81.57.34.8 (pid 20386) cron: visites (1 67.984 ms) 1
+Apr 29 01:09:29 81.57.34.8 (pid 32247) cron: debut invalideur
+Apr 29 01:09:30 81.57.34.8 (pid 32247) cron: invalideur (205.935 ms) 1
+Apr 29 01:09:35 81.57.34.8 (pid 32325) cron: debut maintenance
+Apr 29 01:09:35 81.57.34.8 (pid 32325) cron: maintenance (282.487 ms) 1
+Apr 29 01:09:42 81.57.34.8 (pid 32426) cron: debut popularites
+Apr 29 01:09:42 81.57.34.8 (pid 32426) cron: popularites (74.998 ms) 1
+Apr 29 01:28:06 81.57.34.8 (pid 23548) cron: debut mise_a_jour
+Apr 29 01:28:06 81.57.34.8 (pid 23548) cron: mise_a_jour (101.403 ms) 1
+Apr 29 01:29:14 81.57.34.8 (pid 24917) cron: debut syndic
+May 05 17:31:07 90.2.244.182 (pid 30219) cron: debut syndic
+May 05 17:31:24 90.2.244.182 (pid 30712) cron: debut optimiser
+May 05 17:31:24 90.2.244.182 (pid 30712) cron: optimiser (212.694 ms) -1304561594
+May 05 17:32:19 90.2.244.182 (pid 31544) cron: debut maintenance
+May 05 17:32:19 90.2.244.182 (pid 31544) cron: maintenance (232.619 ms) 1
+May 05 17:34:27 90.2.244.182 (pid 1743) cron: debut popularites
+May 05 17:34:27 90.2.244.182 (pid 1743) cron: popularites (238.088 ms) 1
+May 05 17:35:09 90.2.244.182 (pid 2645) cron: debut visites
+May 05 17:35:09 90.2.244.182 (pid 2645) cron: visites (239.808 ms) 1
+May 05 17:35:30 90.2.244.182 (pid 2919) cron: debut mise_a_jour
+May 05 17:35:30 90.2.244.182 (pid 2919) cron: mise_a_jour (147.304 ms) 1
+May 05 17:36:00 90.2.244.182 (pid 3308) cron: debut invalideur
+May 05 17:36:00 90.2.244.182 (pid 3308) cron: invalideur (47.848 ms) 1
+May 05 17:36:17 90.2.244.182 (pid 3840) cron: debut syndic
+May 05 17:39:59 90.2.244.182 (pid 7634) cron: debut syndic
+May 05 17:40:11 90.2.244.182 (pid 8182) cron: debut visites
+May 05 17:40:11 90.2.244.182 (pid 8182) cron: visites (9.970 ms) 1
+May 05 17:41:37 90.2.244.182 (pid 9438) cron: debut syndic
+May 05 21:28:22 81.57.34.8 (pid 32211) cron: debut syndic
+May 05 21:28:25 90.2.244.182 (pid 4929) cron: debut visites
+May 05 21:28:26 90.2.244.182 (pid 4929) cron: visites (62.037 ms) 1
+May 05 21:28:32 90.2.244.182 (pid 5001) cron: debut invalideur
+May 05 21:28:32 90.2.244.182 (pid 5001) cron: invalideur (82.372 ms) 1
+May 05 21:28:44 81.57.34.8 (pid 622) cron: debut maintenance
+May 05 21:28:44 81.57.34.8 (pid 622) cron: maintenance (84.024 ms) 1
+May 05 21:28:49 81.57.34.8 (pid 679) cron: debut popularites
+May 05 21:28:49 81.57.34.8 (pid 679) cron: popularites (18.740 ms) 1
+May 05 21:46:37 81.57.34.8 (pid 21819) cron: debut syndic
+May 05 21:46:53 81.57.34.8 (pid 22027) cron: debut visites
+May 05 21:46:53 81.57.34.8 (pid 22027) cron: visites (16.820 ms) 1
+May 05 22:18:58 90.2.244.182 (pid 29845) cron: debut syndic
+May 05 22:19:48 90.2.244.182 (pid 30646) cron: debut invalideur
+May 05 22:19:48 90.2.244.182 (pid 30646) cron: invalideur (100.573 ms) 1
+May 05 22:19:54 90.2.244.182 (pid 30719) cron: debut visites
+May 05 22:19:54 90.2.244.182 (pid 30719) cron: visites (18.410 ms) 1
+May 05 22:23:03 90.2.244.182 (pid 3091) cron: debut syndic
+May 05 22:24:47 90.2.244.182 (pid 4800) cron: debut syndic
+May 06 01:50:39 81.57.34.8 (pid 5465) cron: debut visites
+May 06 01:50:39 81.57.34.8 (pid 5465) cron: visites (123.187 ms) 1
+May 06 01:50:43 81.57.34.8 (pid 5506) cron: debut syndic
+May 06 01:50:54 81.57.34.8 (pid 5747) cron: debut invalideur
+May 06 01:50:54 81.57.34.8 (pid 5747) cron: invalideur (47.156 ms) 1
+May 06 01:51:02 81.57.34.8 (pid 5979) cron: debut maintenance
+May 06 01:51:02 81.57.34.8 (pid 5979) cron: maintenance (42.626 ms) 1
+May 06 01:51:05 81.57.34.8 (pid 6009) cron: debut popularites
+May 06 01:51:05 81.57.34.8 (pid 6009) cron: popularites (75.670 ms) 1
+May 06 01:52:15 81.57.34.8 (pid 7580) cron: debut syndic
+May 06 01:53:51 81.57.34.8 (pid 8973) cron: debut syndic
+May 08 21:25:36 83.202.104.248 (pid 23866) cron: debut visites
+May 08 21:25:37 83.202.104.248 (pid 23866) cron: visites (328.199 ms) 1
+May 08 21:25:58 83.202.104.248 (pid 24284) cron: debut invalideur
+May 08 21:25:59 83.202.104.248 (pid 24284) cron: invalideur (186.496 ms) 1
+May 08 21:26:11 83.202.104.248 (pid 24696) cron: debut maintenance
+May 08 21:26:11 83.202.104.248 (pid 24696) cron: maintenance (297.522 ms) 1
+May 18 22:41:21 81.57.34.8 (pid 19475) cron: debut invalideur
+May 18 22:41:21 81.57.34.8 (pid 19475) cron: invalideur (68.169 ms) 1
+May 18 22:41:34 81.57.34.8 (pid 19716) cron: debut maintenance
+May 18 22:41:34 81.57.34.8 (pid 19716) cron: maintenance (340.061 ms) 1
+May 18 22:41:37 81.57.34.8 (pid 19812) cron: debut popularites
+May 18 22:41:37 81.57.34.8 (pid 19812) cron: popularites (109.227 ms) 1
+May 18 22:41:53 81.57.34.8 (pid 20297) cron: debut syndic
+May 18 22:42:01 81.57.34.8 (pid 20666) cron: debut optimiser
+May 18 22:42:01 81.57.34.8 (pid 20666) cron: optimiser (94.223 ms) -1305679138
+May 18 22:42:04 81.57.34.8 (pid 20922) cron: debut visites
+May 18 22:42:04 81.57.34.8 (pid 20922) cron: visites (82.435 ms) 1
+May 30 14:40:18 90.2.188.225 (pid 17202) cron: debut syndic
+May 30 14:40:41 90.2.188.225 (pid 17847) cron: debut visites
+May 30 14:40:42 90.2.188.225 (pid 17847) cron: visites (880.117 ms) 1
+May 30 14:40:59 90.2.188.225 (pid 18111) cron: debut invalideur
+May 30 14:40:59 90.2.188.225 (pid 18111) cron: invalideur (126.439 ms) 1
+May 30 14:41:20 90.2.188.225 (pid 18874) cron: debut maintenance
+May 30 14:41:20 90.2.188.225 (pid 18874) cron: maintenance (213.222 ms) 1
+May 30 14:41:30 90.2.188.225 (pid 19016) cron: debut popularites
+May 30 14:41:30 90.2.188.225 (pid 19016) cron: popularites (128.997 ms) 1
+May 30 14:41:41 90.2.188.225 (pid 19267) cron: debut optimiser
+May 30 14:41:41 90.2.188.225 (pid 19267) cron: optimiser (59.338 ms) -1306716855
+May 30 14:41:47 90.2.188.225 (pid 19335) cron: debut mise_a_jour
+May 30 14:41:47 90.2.188.225 (pid 19335) cron: mise_a_jour (140.780 ms) 1
+May 30 14:41:51 90.2.188.225 (pid 19379) cron: debut syndic
+May 30 14:43:55 90.2.188.225 (pid 22484) cron: debut syndic
+May 30 14:45:50 90.2.188.225 (pid 25672) cron: debut syndic
+May 30 14:47:12 90.2.188.225 (pid 27859) cron: debut visites
+May 30 14:47:12 90.2.188.225 (pid 27859) cron: visites (18.889 ms) 1
+May 30 14:47:31 90.2.188.225 (pid 28351) cron: debut syndic
+May 30 14:54:13 90.2.188.225 (pid 6191) cron: debut syndic
+May 30 14:54:25 90.2.188.225 (pid 6584) cron: debut visites
+May 30 14:54:25 90.2.188.225 (pid 6584) cron: visites (22.186 ms) 1
+May 30 14:55:47 90.2.188.225 (pid 8513) cron: debut syndic
+May 30 14:59:04 90.2.188.225 (pid 13890) cron: debut syndic
+May 30 15:03:52 90.2.188.225 (pid 23581) cron: debut visites
+May 30 15:03:52 90.2.188.225 (pid 23581) cron: visites (100.002 ms) 1
+May 30 15:03:59 90.2.188.225 (pid 23872) cron: debut syndic
+May 30 15:04:19 90.2.188.225 (pid 24389) cron: debut invalideur
+May 30 15:04:20 90.2.188.225 (pid 24389) cron: invalideur (145.315 ms) 1
+May 30 15:42:20 90.2.188.225 (pid 16589) cron: debut syndic
+May 30 15:42:23 90.2.188.225 (pid 16654) cron: debut visites
+May 30 15:42:24 90.2.188.225 (pid 16654) cron: visites (8.273 ms) 1
+May 30 15:44:29 90.2.188.225 (pid 19388) cron: debut invalideur
+May 30 15:44:29 90.2.188.225 (pid 19388) cron: invalideur (86.348 ms) 1
+May 30 15:44:49 90.2.188.225 (pid 19695) cron: debut syndic
+May 30 15:46:43 90.2.188.225 (pid 22622) cron: debut syndic
+May 30 15:48:33 90.2.188.225 (pid 25203) cron: debut visites
+May 30 15:48:33 90.2.188.225 (pid 25203) cron: visites (17.300 ms) 1
+May 30 15:49:05 90.2.188.225 (pid 26054) cron: debut syndic
+May 30 15:50:52 90.2.188.225 (pid 28728) cron: debut syndic
+May 30 15:52:29 90.2.188.225 (pid 31022) cron: debut syndic
+May 30 16:00:22 90.2.188.225 (pid 11538) cron: debut visites
+May 30 16:00:22 90.2.188.225 (pid 11538) cron: visites (19.207 ms) 1
+May 30 16:00:26 90.2.188.225 (pid 11622) cron: debut syndic
+May 30 16:02:40 90.2.188.225 (pid 14413) cron: debut syndic
+May 30 16:04:17 90.2.188.225 (pid 16719) cron: debut syndic
+May 30 16:04:49 90.2.188.225 (pid 17615) cron: debut invalideur
+May 30 16:04:49 90.2.188.225 (pid 17615) cron: invalideur (128.694 ms) 1
+May 30 16:05:36 90.2.188.225 (pid 19043) cron: debut visites
+May 30 16:05:36 90.2.188.225 (pid 19043) cron: visites (13.382 ms) 1
+May 30 16:06:13 90.2.188.225 (pid 19808) cron: debut syndic
+May 30 16:09:10 90.2.188.225 (pid 23912) cron: debut syndic
+May 30 16:19:25 81.57.34.8 (pid 4267) cron: debut visites
+May 30 16:19:25 81.57.34.8 (pid 4267) cron: visites (43.748 ms) 1
+May 30 16:19:39 81.57.34.8 (pid 4462) cron: debut syndic
+May 30 16:21:37 81.57.34.8 (pid 7121) cron: debut syndic
+May 30 16:23:11 81.57.34.8 (pid 9311) cron: debut syndic
+May 30 16:25:14 81.57.34.8 (pid 12874) cron: debut visites
+May 30 16:25:14 81.57.34.8 (pid 12874) cron: visites (10.710 ms) 1
+May 30 16:25:19 81.57.34.8 (pid 12976) cron: debut syndic
+May 30 16:26:39 81.57.34.8 (pid 14650) cron: debut invalideur
+May 30 16:26:39 81.57.34.8 (pid 14650) cron: invalideur (99.493 ms) 1
+May 30 19:29:00 81.57.34.8 (pid 6095) cron: debut syndic
+May 30 19:29:03 81.57.34.8 (pid 6232) cron: debut visites
+May 30 19:29:03 81.57.34.8 (pid 6232) cron: visites (12.256 ms) 1
+May 30 19:29:49 90.2.188.225 (pid 15948) cron: debut maintenance
+May 30 19:29:49 90.2.188.225 (pid 15948) cron: maintenance (84.065 ms) 1
+May 30 19:29:54 90.2.188.225 (pid 16041) cron: debut popularites
+May 30 19:29:54 90.2.188.225 (pid 16041) cron: popularites (17.504 ms) 1
+May 30 19:30:06 90.2.188.225 (pid 16740) cron: debut invalideur
+May 30 19:30:07 90.2.188.225 (pid 16740) cron: invalideur (137.967 ms) 1
+May 30 19:30:36 81.57.34.8 (pid 8354) cron: debut syndic
+May 30 20:41:48 90.2.188.225 (pid 26143) cron: debut syndic
+May 30 20:41:50 90.2.188.225 (pid 26176) cron: debut visites
+May 30 20:41:51 90.2.188.225 (pid 26176) cron: visites (107.555 ms) 1
+May 30 20:42:02 90.2.188.225 (pid 26441) cron: debut invalideur
+May 30 20:42:02 90.2.188.225 (pid 26441) cron: invalideur (158.176 ms) 1
+May 30 20:44:54 81.57.34.8 (pid 10043) cron: debut syndic
+May 30 21:04:21 90.2.188.225 (pid 26798) cron: debut visites
+May 30 21:04:21 90.2.188.225 (pid 26798) cron: visites (28.078 ms) 1
+May 30 21:04:29 90.2.188.225 (pid 27100) cron: debut syndic
+May 30 21:04:44 90.2.188.225 (pid 27305) cron: debut invalideur
+May 30 21:04:44 90.2.188.225 (pid 27305) cron: invalideur (115.644 ms) 1
+May 30 21:06:33 90.2.188.225 (pid 29805) cron: debut syndic
+May 30 21:24:04 81.57.34.8 (pid 19560) cron: debut syndic
+May 30 21:24:07 81.57.34.8 (pid 19751) cron: debut visites
+May 30 21:24:07 81.57.34.8 (pid 19751) cron: visites (13.905 ms) 1
+May 30 22:08:46 90.2.188.225 (pid 2705) cron: debut invalideur
+May 30 22:08:46 90.2.188.225 (pid 2705) cron: invalideur (181.297 ms) 1
+May 30 22:08:51 90.2.188.225 (pid 2789) cron: debut syndic
+May 30 22:09:09 90.2.188.225 (pid 3344) cron: debut visites
+May 30 22:09:10 90.2.188.225 (pid 3344) cron: visites (55.714 ms) 1
+May 30 22:09:36 90.2.188.225 (pid 4182) cron: debut maintenance
+May 30 22:09:36 90.2.188.225 (pid 4182) cron: maintenance (42.912 ms) 1
+May 30 22:10:25 90.2.188.225 (pid 5612) cron: debut popularites
+May 30 22:10:25 90.2.188.225 (pid 5612) cron: popularites (18.538 ms) 1
+May 30 22:11:13 90.2.188.225 (pid 6737) cron: debut syndic
+May 30 22:45:42 90.2.188.225 (pid 28296) cron: debut syndic
+May 30 22:45:47 90.2.188.225 (pid 28368) cron: debut visites
+May 30 22:45:47 90.2.188.225 (pid 28368) cron: visites (22.797 ms) 1
+May 30 22:46:58 90.2.188.225 (pid 30407) cron: debut invalideur
+May 30 22:46:58 90.2.188.225 (pid 30407) cron: invalideur (43.134 ms) 1
+May 30 22:52:05 90.2.188.225 (pid 5835) cron: debut syndic
+May 30 22:52:09 90.2.188.225 (pid 5866) cron: debut visites
+May 30 22:52:09 90.2.188.225 (pid 5866) cron: visites (13.567 ms) 1
+May 30 22:54:00 90.2.188.225 (pid 8901) cron: debut syndic
+May 30 23:04:01 90.2.188.225 (pid 25621) cron: debut syndic
+May 30 23:04:27 90.2.188.225 (pid 26155) cron: debut visites
+May 30 23:04:27 90.2.188.225 (pid 26155) cron: visites (9.373 ms) 1
+May 30 23:11:58 90.2.188.225 (pid 5801) cron: debut syndic
+May 30 23:12:38 90.2.188.225 (pid 7091) cron: debut invalideur
+May 30 23:12:38 90.2.188.225 (pid 7091) cron: invalideur (417.746 ms) 1
+May 30 23:12:42 90.2.188.225 (pid 7341) cron: debut visites
+May 30 23:12:42 90.2.188.225 (pid 7341) cron: visites (20.884 ms) 1
+May 30 23:14:00 90.2.188.225 (pid 9057) cron: debut syndic
+May 30 23:15:49 90.2.188.225 (pid 11839) cron: debut syndic
+May 30 23:18:19 90.2.188.225 (pid 15847) cron: debut syndic
+May 30 23:19:06 90.2.188.225 (pid 16668) cron: debut visites
+May 30 23:19:06 90.2.188.225 (pid 16668) cron: visites (10.523 ms) 1
+May 30 23:22:54 90.2.188.225 (pid 22029) cron: debut syndic
+May 31 12:38:31 90.24.214.229 (pid 29773) cron: debut visites
+May 31 12:38:31 90.24.214.229 (pid 29773) cron: visites (174.175 ms) 1
+May 31 12:38:35 90.24.214.229 (pid 29843) cron: debut syndic
+May 31 12:42:31 90.24.214.229 (pid 2691) cron: debut invalideur
+May 31 12:42:31 90.24.214.229 (pid 2691) cron: invalideur (149.002 ms) 1
+May 31 12:42:48 90.24.214.229 (pid 2881) cron: debut maintenance
+May 31 12:42:48 90.24.214.229 (pid 2881) cron: maintenance (231.190 ms) 1
+May 31 12:42:56 90.24.214.229 (pid 3081) cron: debut popularites
+May 31 12:42:56 90.24.214.229 (pid 3081) cron: popularites (67.836 ms) 1
+May 31 12:44:12 90.24.214.229 (pid 4994) cron: debut syndic
+May 31 12:51:34 90.24.214.229 (pid 14602) cron: debut visites
+May 31 12:51:34 90.24.214.229 (pid 14602) cron: visites (11.243 ms) 1
+May 31 12:51:41 90.24.214.229 (pid 14707) cron: debut syndic
+May 31 12:54:52 90.24.214.229 (pid 18729) cron: debut syndic
+May 31 12:58:30 90.24.214.229 (pid 23631) cron: debut syndic
+May 31 12:58:42 90.24.214.229 (pid 23920) cron: debut visites
+May 31 12:58:42 90.24.214.229 (pid 23920) cron: visites (7.242 ms) 1
+May 31 18:44:07 90.24.214.229 (pid 29214) cron: debut syndic
+May 31 18:44:12 90.24.214.229 (pid 29288) cron: debut invalideur
+May 31 18:44:12 90.24.214.229 (pid 29288) cron: invalideur (102.531 ms) 1
+May 31 18:47:49 90.24.214.229 (pid 2105) cron: debut visites
+May 31 18:47:49 90.24.214.229 (pid 2105) cron: visites (26.694 ms) 1
+May 31 22:32:46 90.24.214.229 (pid 28067) cron: debut popularites
+May 31 22:32:47 90.24.214.229 (pid 28067) cron: popularites (932.527 ms) 1
+May 31 22:32:53 90.24.214.229 (pid 28351) cron: debut syndic
+May 31 22:33:06 90.24.214.229 (pid 28708) cron: debut visites
+May 31 22:33:06 90.24.214.229 (pid 28708) cron: visites (23.621 ms) 1
+Jun 01 14:13:10 86.212.121.108 (pid 15624) cron: debut invalideur
+Jun 01 14:13:11 86.212.121.108 (pid 15624) cron: invalideur (161.290 ms) 1
+Jun 01 14:13:15 86.212.121.108 (pid 15727) cron: debut syndic
+Jun 01 14:14:46 86.212.121.108 (pid 18094) cron: debut visites
+Jun 01 14:14:47 86.212.121.108 (pid 18094) cron: visites (627.236 ms) 1
+Jun 01 14:14:54 86.212.121.108 (pid 18271) cron: debut maintenance
+Jun 01 14:14:54 86.212.121.108 (pid 18271) cron: maintenance (216.942 ms) 1
+Jun 01 14:16:02 86.212.121.108 (pid 20372) cron: debut popularites
+Jun 01 14:16:02 86.212.121.108 (pid 20372) cron: popularites (105.203 ms) 1
+Jun 01 14:16:06 86.212.121.108 (pid 20470) cron: debut optimiser
+Jun 01 14:16:06 86.212.121.108 (pid 20470) cron: optimiser (72.096 ms) -1306891904
+Jun 01 14:18:02 86.212.121.108 (pid 23285) cron: debut syndic
+Jun 01 14:19:48 86.212.121.108 (pid 26049) cron: debut syndic
+Jun 01 14:20:43 86.212.121.108 (pid 27674) cron: debut visites
+Jun 01 14:20:43 86.212.121.108 (pid 27674) cron: visites (23.366 ms) 1
+Jun 01 14:21:21 86.212.121.108 (pid 28784) cron: debut syndic
+Jun 01 14:23:15 86.212.121.108 (pid 31909) cron: debut syndic
+Jun 01 14:24:57 86.212.121.108 (pid 2478) cron: debut syndic
+Jun 01 14:25:51 86.212.121.108 (pid 4150) cron: debut visites
+Jun 01 14:25:51 86.212.121.108 (pid 4150) cron: visites (17.172 ms) 1
+Jun 01 14:26:53 86.212.121.108 (pid 5723) cron: debut syndic
+Jun 01 14:29:05 86.212.121.108 (pid 9159) cron: debut syndic
+Jun 01 14:31:00 86.212.121.108 (pid 12629) cron: debut syndic
+Jun 01 14:31:05 86.212.121.108 (pid 12915) cron: debut visites
+Jun 01 14:31:05 86.212.121.108 (pid 12915) cron: visites (27.154 ms) 1
+Jun 01 14:44:16 86.212.121.108 (pid 2272) cron: debut syndic
+Jun 01 14:44:25 86.212.121.108 (pid 2561) cron: debut invalideur
+Jun 01 14:44:25 86.212.121.108 (pid 2561) cron: invalideur (176.489 ms) 1
+Jun 01 14:47:44 86.212.121.108 (pid 7443) cron: debut visites
+Jun 01 14:47:44 86.212.121.108 (pid 7443) cron: visites (62.703 ms) 1
+Jun 01 14:48:43 86.212.121.108 (pid 9391) cron: debut syndic
+Jun 01 14:54:48 86.212.121.108 (pid 19417) cron: debut syndic
+Jun 01 14:54:53 86.212.121.108 (pid 19483) cron: debut visites
+Jun 01 14:54:53 86.212.121.108 (pid 19483) cron: visites (9.737 ms) 1
+Jun 01 14:57:49 86.212.121.108 (pid 24219) cron: debut syndic
+Jun 01 15:00:44 86.212.121.108 (pid 31991) cron: debut syndic
+Jun 01 15:01:12 86.212.121.108 (pid 515) cron: debut visites
+Jun 01 15:01:12 86.212.121.108 (pid 515) cron: visites (11.534 ms) 1
+Jun 01 15:03:55 86.212.121.108 (pid 5171) cron: debut syndic
+Jun 01 15:08:12 86.212.121.108 (pid 11630) cron: debut invalideur
+Jun 01 15:08:12 86.212.121.108 (pid 11630) cron: invalideur (71.325 ms) 1
+Jun 01 15:08:17 86.212.121.108 (pid 11734) cron: debut syndic
+Jun 01 15:09:19 86.212.121.108 (pid 13573) cron: debut visites
+Jun 01 15:09:19 86.212.121.108 (pid 13573) cron: visites (60.222 ms) 1
+Jun 01 15:10:03 86.212.121.108 (pid 14775) cron: debut syndic
+Jun 01 15:12:37 86.212.121.108 (pid 19412) cron: debut syndic
+Jun 01 15:15:01 86.212.121.108 (pid 23248) cron: debut syndic
+Jun 01 15:15:06 86.212.121.108 (pid 23785) cron: debut visites
+Jun 01 15:15:06 86.212.121.108 (pid 23785) cron: visites (10.574 ms) 1
+Jun 02 16:52:50 90.24.222.185 (pid 12650) cron: debut syndic
+Jun 02 16:52:55 90.24.222.185 (pid 12721) cron: debut visites
+Jun 02 16:52:55 90.24.222.185 (pid 12721) cron: visites (158.658 ms) 1
+Jun 02 16:52:58 90.24.222.185 (pid 12786) cron: debut invalideur
+Jun 02 16:52:58 90.24.222.185 (pid 12786) cron: invalideur (114.875 ms) 1
+Jun 02 16:53:40 90.24.222.185 (pid 13454) cron: debut maintenance
+Jun 02 16:53:40 90.24.222.185 (pid 13454) cron: maintenance (216.665 ms) 1
+Jun 02 16:54:06 90.24.222.185 (pid 14113) cron: debut popularites
+Jun 02 16:54:06 90.24.222.185 (pid 14113) cron: popularites (108.980 ms) 1
+Jun 02 16:56:30 90.24.222.185 (pid 17071) cron: debut mise_a_jour
+Jun 02 16:56:30 90.24.222.185 (pid 17071) cron: mise_a_jour (190.206 ms) 1
+Jun 02 16:56:58 90.24.222.185 (pid 18167) cron: debut syndic
+Jun 03 13:34:44 90.24.157.24 (pid 30771) cron: debut visites
+Jun 03 13:34:44 90.24.157.24 (pid 30771) cron: visites (123.857 ms) 1
+Jun 03 13:34:52 90.24.157.24 (pid 30966) cron: debut syndic
+Jun 03 13:35:06 90.24.157.24 (pid 31648) cron: debut invalideur
+Jun 03 13:35:06 90.24.157.24 (pid 31648) cron: invalideur (110.172 ms) 1
+Jun 03 13:35:10 90.24.157.24 (pid 31755) cron: debut maintenance
+Jun 03 13:35:10 90.24.157.24 (pid 31755) cron: maintenance (207.916 ms) 1
+Jun 03 13:35:16 90.24.157.24 (pid 31869) cron: debut popularites
+Jun 03 13:35:16 90.24.157.24 (pid 31869) cron: popularites (106.380 ms) 1
+Jun 08 15:38:26 90.24.166.244 (pid 12551) cron: debut invalideur
+Jun 08 15:38:27 90.24.166.244 (pid 12551) cron: invalideur (275.128 ms) 1
+Jun 08 15:38:40 90.24.166.244 (pid 12795) cron: debut maintenance
+Jun 08 15:38:41 90.24.166.244 (pid 12795) cron: maintenance (338.161 ms) 1
+Jun 08 15:39:08 90.24.166.244 (pid 13645) cron: debut popularites
+Jun 08 15:39:08 90.24.166.244 (pid 13645) cron: popularites (145.172 ms) 1
+Jun 08 15:39:12 90.24.166.244 (pid 13659) cron: debut syndic
+Jun 08 15:39:21 90.24.166.244 (pid 13726) cron: debut visites
+Jun 08 15:39:21 90.24.166.244 (pid 13726) cron: visites (254.577 ms) 1
+Jun 08 15:39:57 90.24.166.244 (pid 13993) cron: debut optimiser
+Jun 08 15:39:57 90.24.166.244 (pid 13993) cron: optimiser (85.794 ms) -1307492376
+Jun 08 15:40:01 90.24.166.244 (pid 14027) cron: debut mise_a_jour
+Jun 08 15:40:01 90.24.166.244 (pid 14027) cron: mise_a_jour (139.603 ms) 1
+Jun 08 23:34:14 90.24.166.244 (pid 12851) cron: debut syndic
+Jun 08 23:34:42 90.24.166.244 (pid 13078) cron: debut visites
+Jun 08 23:34:42 90.24.166.244 (pid 13078) cron: visites (18.232 ms) 1
+Jun 08 23:34:47 90.24.166.244 (pid 13102) cron: debut invalideur
+Jun 08 23:34:47 90.24.166.244 (pid 13102) cron: invalideur (130.386 ms) 1
+Jun 08 23:35:18 90.24.166.244 (pid 13946) cron: debut maintenance
+Jun 08 23:35:19 90.24.166.244 (pid 13946) cron: maintenance (236.323 ms) 1
+Jun 08 23:35:22 90.24.166.244 (pid 14007) cron: debut popularites
+Jun 08 23:35:22 90.24.166.244 (pid 14007) cron: popularites (80.620 ms) 1
+Jun 08 23:37:59 90.24.166.244 (pid 16522) cron: debut syndic
+Jun 10 00:19:35 81.57.34.8 (pid 6327) cron: debut syndic
+Jun 10 00:19:40 81.57.34.8 (pid 6363) cron: debut visites
+Jun 10 00:19:40 81.57.34.8 (pid 6363) cron: visites (175.812 ms) 1
+Jun 10 00:19:45 81.57.34.8 (pid 6408) cron: debut invalideur
+Jun 10 00:19:45 81.57.34.8 (pid 6408) cron: invalideur (189.127 ms) 1
+Jun 10 00:19:50 81.57.34.8 (pid 6444) cron: debut maintenance
+Jun 10 00:19:51 81.57.34.8 (pid 6444) cron: maintenance (246.617 ms) 1
+Jun 10 00:20:00 81.57.34.8 (pid 6521) cron: debut popularites
+Jun 10 00:20:00 81.57.34.8 (pid 6521) cron: popularites (90.623 ms) 1
+Jun 10 00:21:16 81.57.34.8 (pid 7758) cron: debut syndic
+Jun 10 01:02:06 81.57.34.8 (pid 12235) cron: debut syndic
+Jun 10 01:02:14 81.57.34.8 (pid 12308) cron: debut visites
+Jun 10 01:02:14 81.57.34.8 (pid 12308) cron: visites (20.049 ms) 1
+Jun 12 13:20:53 81.57.34.8 (pid 13819) cron: debut syndic
+Jun 27 11:08:24 193.55.24.4 (pid 1092) cron: debut optimiser
+Jun 27 11:08:24 193.55.24.4 (pid 1092) cron: optimiser (227.135 ms) -1309144096
+Jun 27 11:08:28 193.55.24.4 (pid 1194) cron: debut maintenance
+Jun 27 11:08:29 193.55.24.4 (pid 1194) cron: maintenance (275.124 ms) 1
+Jun 27 11:08:43 193.55.24.4 (pid 1594) cron: debut popularites
+Jun 27 11:08:43 193.55.24.4 (pid 1594) cron: popularites (130.874 ms) 1
+Jun 27 11:09:30 193.55.24.4 (pid 2057) cron: debut mise_a_jour
+Jun 27 11:09:30 193.55.24.4 (pid 2057) cron: mise_a_jour (248.735 ms) 1
+Jun 27 11:11:37 193.55.24.4 (pid 3758) cron: debut syndic
+Jun 27 11:11:45 193.55.24.4 (pid 3804) cron: debut invalideur
+Jun 27 11:11:45 193.55.24.4 (pid 3804) cron: invalideur (253.004 ms) 1
+Jun 27 11:11:51 193.55.24.4 (pid 3873) cron: debut visites
+Jun 27 11:11:52 193.55.24.4 (pid 3873) cron: visites (478.561 ms) 1
+Jun 27 11:16:58 193.55.24.4 (pid 8907) cron: debut syndic
+Jun 27 12:04:04 193.55.24.4 (pid 25506) cron: debut visites
+Jun 27 12:04:04 193.55.24.4 (pid 25506) cron: visites (52.172 ms) 1
+Aug 12 16:12:42 90.84.146.232 (pid 5404) cron: debut invalideur
+Aug 12 16:12:42 90.84.146.232 (pid 5404) cron: invalideur (362.624 ms) 1
+Sep 08 00:22:44 81.57.34.8 (pid 28831) cron: debut syndic
+Sep 08 00:22:50 81.57.34.8 (pid 28872) cron: debut maintenance
+Sep 08 00:22:50 81.57.34.8 (pid 28872) cron: maintenance (301.577 ms) 1
+Sep 08 00:22:53 81.57.34.8 (pid 28911) cron: debut mise_a_jour
+Sep 08 00:22:54 81.57.34.8 (pid 28911) cron: mise_a_jour (683.292 ms) 1
+Sep 08 00:23:17 81.57.34.8 (pid 29319) cron: debut popularites
+Sep 08 00:23:17 81.57.34.8 (pid 29319) cron: popularites (78.430 ms) 1
+Sep 09 13:36:39 90.24.237.60 (pid 23996) cron: debut invalideur
+Sep 09 13:36:39 90.24.237.60 (pid 23996) cron: invalideur (372.109 ms) 1
+Sep 09 13:37:12 90.24.237.60 (pid 24613) cron: debut optimiser
+Sep 09 13:37:12 90.24.237.60 (pid 24613) cron: optimiser (168.699 ms) -1315527542
+Sep 09 13:37:21 90.24.237.60 (pid 24842) cron: debut syndic
+Sep 09 13:39:40 90.24.237.60 (pid 26739) cron: debut maintenance
+Sep 09 13:39:40 90.24.237.60 (pid 26739) cron: maintenance (219.879 ms) 1
+Sep 09 13:39:49 90.24.237.60 (pid 26856) cron: debut popularites
+Sep 09 13:39:49 90.24.237.60 (pid 26856) cron: popularites (177.721 ms) 1
+Sep 09 13:40:15 90.24.237.60 (pid 27523) cron: debut visites
+Sep 09 13:40:15 90.24.237.60 (pid 27523) cron: visites (262.380 ms) 1
+Sep 09 13:40:27 90.24.237.60 (pid 27699) cron: debut syndic
+Sep 09 13:42:00 90.24.237.60 (pid 28912) cron: debut syndic
+Sep 09 13:43:46 90.24.237.60 (pid 31759) cron: debut syndic
+Sep 09 13:46:56 90.24.237.60 (pid 2518) cron: debut visites
+Sep 09 13:46:56 90.24.237.60 (pid 2518) cron: visites (55.908 ms) 1
+Sep 09 13:48:37 90.24.237.60 (pid 4891) cron: debut syndic
+Sep 09 13:54:39 90.24.237.60 (pid 10453) cron: debut syndic
+Sep 09 13:54:54 90.24.237.60 (pid 10633) cron: debut visites
+Sep 09 13:54:54 90.24.237.60 (pid 10633) cron: visites (24.015 ms) 1
+Sep 09 13:59:23 90.24.237.60 (pid 15181) cron: debut syndic
+Sep 09 13:59:31 90.24.237.60 (pid 15250) cron: debut invalideur
+Sep 09 13:59:31 90.24.237.60 (pid 15250) cron: invalideur (187.953 ms) 1
+Sep 09 14:01:11 90.24.237.60 (pid 19185) cron: debut visites
+Sep 09 14:01:11 90.24.237.60 (pid 19185) cron: visites (98.345 ms) 1
+Sep 09 14:02:19 90.24.237.60 (pid 20191) cron: debut syndic
+Sep 25 16:02:48 81.57.34.8 (pid 24959) cron: debut optimiser
+Sep 25 16:02:48 81.57.34.8 (pid 24959) cron: optimiser (556.207 ms) -1316922453
+Sep 25 16:02:52 81.57.34.8 (pid 25030) cron: debut syndic
+Sep 25 16:03:00 81.57.34.8 (pid 25129) cron: debut visites
+Sep 25 16:03:01 81.57.34.8 (pid 25129) cron: visites (848.081 ms) 1
+Sep 25 16:03:09 81.57.34.8 (pid 25395) cron: debut invalideur
+Sep 25 16:03:09 81.57.34.8 (pid 25395) cron: invalideur (34.433 ms) 1
+Sep 25 16:03:16 81.57.34.8 (pid 25497) cron: debut maintenance
+Sep 25 16:03:16 81.57.34.8 (pid 25497) cron: maintenance (206.942 ms) 1
+Sep 25 17:28:48 81.57.34.8 (pid 27020) cron: debut popularites
+Sep 25 17:28:49 81.57.34.8 (pid 27020) cron: popularites (130.304 ms) 1
+Sep 25 17:28:56 81.57.34.8 (pid 27152) cron: debut mise_a_jour
+Sep 25 17:28:56 81.57.34.8 (pid 27152) cron: mise_a_jour (175.005 ms) 1
+Sep 25 17:29:33 81.57.34.8 (pid 28083) cron: debut syndic
+Sep 25 17:30:22 81.57.34.8 (pid 29166) cron: debut visites
+Sep 25 17:30:22 81.57.34.8 (pid 29166) cron: visites (248.184 ms) 1
+Sep 25 17:36:06 81.57.34.8 (pid 2307) cron: debut invalideur
+Sep 25 17:36:06 81.57.34.8 (pid 2307) cron: invalideur (33.952 ms) 1
+Sep 25 17:40:29 81.57.34.8 (pid 7513) cron: debut syndic
+Sep 25 17:43:37 81.57.34.8 (pid 10823) cron: debut visites
+Sep 25 17:43:37 81.57.34.8 (pid 10823) cron: visites (34.082 ms) 1
+Sep 25 17:46:20 81.57.34.8 (pid 14055) cron: debut syndic
+Sep 25 17:59:12 81.57.34.8 (pid 27957) cron: debut syndic
+Sep 25 17:59:26 81.57.34.8 (pid 28136) cron: debut visites
+Sep 25 17:59:26 81.57.34.8 (pid 28136) cron: visites (265.406 ms) 1
+Sep 25 18:00:44 81.57.34.8 (pid 31717) cron: debut invalideur
+Sep 25 18:00:44 81.57.34.8 (pid 31717) cron: invalideur (44.636 ms) 1
+Sep 25 18:06:34 81.57.34.8 (pid 5790) cron: debut syndic
+Sep 25 18:20:49 81.57.34.8 (pid 19754) cron: debut maintenance
+Sep 25 18:20:49 81.57.34.8 (pid 19754) cron: maintenance (56.083 ms) 1
+Sep 25 18:23:06 81.57.34.8 (pid 22324) cron: debut visites
+Sep 25 18:23:06 81.57.34.8 (pid 22324) cron: visites (179.584 ms) 1
+Sep 25 18:42:05 81.57.34.8 (pid 11900) cron: debut syndic
+Sep 25 18:42:11 81.57.34.8 (pid 11966) cron: debut invalideur
+Sep 25 18:42:11 81.57.34.8 (pid 11966) cron: invalideur (37.857 ms) 1
+Sep 25 19:12:44 81.57.34.8 (pid 17665) cron: debut visites
+Sep 25 19:12:45 81.57.34.8 (pid 17665) cron: visites (139.117 ms) 1
+Sep 25 19:12:52 81.57.34.8 (pid 17812) cron: debut syndic
+Sep 25 19:15:22 81.57.34.8 (pid 20510) cron: debut invalideur
+Sep 25 19:15:22 81.57.34.8 (pid 20510) cron: invalideur (22.029 ms) 1
+Sep 25 20:17:18 81.57.34.8 (pid 27828) cron: debut syndic
+Sep 25 20:17:25 81.57.34.8 (pid 27874) cron: debut visites
+Sep 25 20:17:25 81.57.34.8 (pid 27874) cron: visites (314.129 ms) 1
+Sep 25 20:17:31 81.57.34.8 (pid 27975) cron: debut popularites
+Sep 25 20:17:31 81.57.34.8 (pid 27975) cron: popularites (16.311 ms) 1
+Sep 25 20:17:46 81.57.34.8 (pid 28163) cron: debut invalideur
+Sep 25 20:17:46 81.57.34.8 (pid 28163) cron: invalideur (27.319 ms) 1
+Sep 25 20:38:54 81.57.34.8 (pid 17583) cron: debut syndic
+Sep 25 20:51:03 81.57.34.8 (pid 29913) cron: debut maintenance
+Sep 25 20:51:04 81.57.34.8 (pid 29913) cron: maintenance (176.780 ms) 1
+Sep 25 20:51:10 81.57.34.8 (pid 30122) cron: debut visites
+Sep 25 20:51:10 81.57.34.8 (pid 30122) cron: visites (113.771 ms) 1
+Sep 25 21:03:19 81.57.34.8 (pid 12559) cron: debut invalideur
+Sep 25 21:03:19 81.57.34.8 (pid 12559) cron: invalideur (32.713 ms) 1
+Sep 25 23:12:26 81.57.34.8 (pid 11408) cron: debut syndic
+Sep 25 23:13:17 81.57.34.8 (pid 12124) cron: debut visites
+Sep 25 23:13:17 81.57.34.8 (pid 12124) cron: visites (756.969 ms) 1
+Sep 25 23:13:23 81.57.34.8 (pid 12279) cron: debut invalideur
+Sep 25 23:13:24 81.57.34.8 (pid 12279) cron: invalideur (52.170 ms) 1
+Sep 25 23:13:43 81.57.34.8 (pid 12499) cron: debut popularites
+Sep 25 23:13:43 81.57.34.8 (pid 12499) cron: popularites (28.849 ms) 1
+Sep 25 23:18:07 81.57.34.8 (pid 16616) cron: debut maintenance
+Sep 25 23:18:07 81.57.34.8 (pid 16616) cron: maintenance (91.157 ms) 1
+Sep 25 23:18:16 81.57.34.8 (pid 16669) cron: debut syndic
+Sep 25 23:21:08 81.57.34.8 (pid 19863) cron: debut visites
+Sep 25 23:21:08 81.57.34.8 (pid 19863) cron: visites (32.752 ms) 1
+Sep 25 23:21:25 81.57.34.8 (pid 20062) cron: debut syndic
+Sep 25 23:26:24 81.57.34.8 (pid 24638) cron: debut syndic
+Sep 25 23:26:30 81.57.34.8 (pid 24714) cron: debut visites
+Sep 25 23:26:30 81.57.34.8 (pid 24714) cron: visites (63.288 ms) 1
+Sep 25 23:34:56 81.57.34.8 (pid 31767) cron: debut syndic
+Sep 25 23:35:14 81.57.34.8 (pid 32090) cron: debut visites
+Sep 25 23:35:14 81.57.34.8 (pid 32090) cron: visites (80.365 ms) 1
+Sep 25 23:47:03 81.57.34.8 (pid 11114) cron: debut visites
+Sep 25 23:47:03 81.57.34.8 (pid 11114) cron: visites (128.884 ms) 1
+Sep 25 23:50:14 81.57.34.8 (pid 14234) cron: debut syndic
+Sep 26 22:38:28 81.57.34.8 (pid 16498) cron: debut syndic
+Sep 26 23:58:15 81.57.34.8 (pid 19503) cron: debut visites
+Sep 26 23:58:15 81.57.34.8 (pid 19503) cron: visites (515.656 ms) 1
+Sep 26 23:58:22 81.57.34.8 (pid 19649) cron: debut invalideur
+Sep 26 23:58:22 81.57.34.8 (pid 19649) cron: invalideur (43.715 ms) 1
+Sep 26 23:58:31 81.57.34.8 (pid 19751) cron: debut popularites
+Sep 26 23:58:31 81.57.34.8 (pid 19751) cron: popularites (97.217 ms) 1
+Sep 26 23:58:53 81.57.34.8 (pid 19932) cron: debut maintenance
+Sep 26 23:58:53 81.57.34.8 (pid 19932) cron: maintenance (564.424 ms) 1
+Sep 26 23:59:18 81.57.34.8 (pid 20470) cron: debut syndic
+Sep 27 00:01:02 81.57.34.8 (pid 25841) cron: debut syndic
+Sep 27 00:02:34 81.57.34.8 (pid 26900) cron: debut syndic
+Sep 27 00:07:59 81.57.34.8 (pid 31050) cron: debut visites
+Sep 27 00:07:59 81.57.34.8 (pid 31050) cron: visites (31.163 ms) 1
+Sep 27 00:09:22 81.57.34.8 (pid 32721) cron: debut syndic
+Sep 27 00:16:48 81.57.34.8 (pid 7427) cron: debut syndic
+Sep 27 00:17:26 81.57.34.8 (pid 7842) cron: debut visites
+Sep 27 00:17:26 81.57.34.8 (pid 7842) cron: visites (27.991 ms) 1
+Sep 27 00:22:58 81.57.34.8 (pid 11186) cron: debut invalideur
+Sep 27 00:22:58 81.57.34.8 (pid 11186) cron: invalideur (60.695 ms) 1
+Sep 27 01:11:49 81.57.34.8 (pid 21335) cron: debut syndic
+Sep 27 01:15:17 81.57.34.8 (pid 24915) cron: debut visites
+Sep 27 01:15:17 81.57.34.8 (pid 24915) cron: visites (139.925 ms) 1
+Sep 27 01:17:39 81.57.34.8 (pid 26603) cron: debut invalideur
+Sep 27 01:17:39 81.57.34.8 (pid 26603) cron: invalideur (43.153 ms) 1
+Sep 28 20:06:05 81.57.34.8 (pid 8646) cron: debut syndic
+Sep 28 20:53:01 81.57.34.8 (pid 18878) cron: debut visites
+Sep 28 20:53:02 81.57.34.8 (pid 18878) cron: visites (733.530 ms) 1
+Sep 28 20:53:13 81.57.34.8 (pid 19107) cron: debut invalideur
+Sep 28 20:53:13 81.57.34.8 (pid 19107) cron: invalideur (64.297 ms) 1
+Sep 28 21:27:30 81.57.34.8 (pid 23825) cron: debut popularites
+Sep 28 21:27:30 81.57.34.8 (pid 23825) cron: popularites (106.431 ms) 1
+Sep 28 21:27:42 81.57.34.8 (pid 23930) cron: debut maintenance
+Sep 28 21:27:43 81.57.34.8 (pid 23930) cron: maintenance (273.545 ms) 1
+Sep 28 21:39:09 81.57.34.8 (pid 3474) cron: debut optimiser
+Sep 28 21:39:09 81.57.34.8 (pid 3474) cron: optimiser (113.582 ms) -1317180655
+Sep 28 21:39:14 81.57.34.8 (pid 3531) cron: debut mise_a_jour
+Sep 28 21:39:15 81.57.34.8 (pid 3531) cron: mise_a_jour (162.862 ms) 1
+Sep 28 21:39:24 81.57.34.8 (pid 3815) cron: debut syndic
+Sep 28 21:39:39 81.57.34.8 (pid 3983) cron: debut visites
+Sep 28 21:39:39 81.57.34.8 (pid 3983) cron: visites (25.830 ms) 1
+Sep 28 21:39:46 81.57.34.8 (pid 4043) cron: debut invalideur
+Sep 28 21:39:46 81.57.34.8 (pid 4043) cron: invalideur (81.978 ms) 1
+Sep 28 21:40:57 81.57.34.8 (pid 5414) cron: debut syndic
+Sep 28 21:42:42 81.57.34.8 (pid 6659) cron: debut syndic
+Sep 28 21:45:35 81.57.34.8 (pid 9200) cron: debut syndic
+Sep 28 21:45:49 81.57.34.8 (pid 9370) cron: debut visites
+Sep 28 21:45:50 81.57.34.8 (pid 9370) cron: visites (13.491 ms) 1
+Sep 28 21:47:55 81.57.34.8 (pid 11532) cron: debut syndic
+Sep 28 21:49:27 81.57.34.8 (pid 12787) cron: debut syndic
+Sep 28 21:53:00 81.57.34.8 (pid 15733) cron: debut visites
+Sep 28 21:53:00 81.57.34.8 (pid 15733) cron: visites (49.113 ms) 1
+Sep 28 21:54:09 81.57.34.8 (pid 16604) cron: debut syndic
+Sep 28 22:01:26 81.57.34.8 (pid 25131) cron: debut syndic
+Sep 28 22:01:56 81.57.34.8 (pid 25376) cron: debut visites
+Sep 28 22:01:56 81.57.34.8 (pid 25376) cron: visites (18.112 ms) 1
+Sep 28 22:03:39 81.57.34.8 (pid 26615) cron: debut invalideur
+Sep 28 22:03:39 81.57.34.8 (pid 26615) cron: invalideur (94.687 ms) 1
+Sep 28 22:04:53 81.57.34.8 (pid 27597) cron: debut syndic
+Sep 28 22:06:59 81.57.34.8 (pid 29075) cron: debut syndic
+Sep 28 22:07:16 81.57.34.8 (pid 29414) cron: debut visites
+Sep 28 22:07:16 81.57.34.8 (pid 29414) cron: visites (15.932 ms) 1
+Sep 28 22:09:05 81.57.34.8 (pid 30810) cron: debut syndic
+Sep 28 22:10:43 81.57.34.8 (pid 32193) cron: debut syndic
+Sep 28 22:12:22 81.57.34.8 (pid 1233) cron: debut syndic
+Sep 28 22:12:26 81.57.34.8 (pid 1281) cron: debut visites
+Sep 28 22:12:26 81.57.34.8 (pid 1281) cron: visites (31.564 ms) 1
+Sep 28 22:16:04 81.57.34.8 (pid 5310) cron: debut syndic
+Sep 28 22:17:31 81.57.34.8 (pid 6326) cron: debut visites
+Sep 28 22:17:31 81.57.34.8 (pid 6326) cron: visites (24.201 ms) 1
+Sep 28 22:17:34 81.57.34.8 (pid 6348) cron: debut syndic
+Sep 28 22:22:25 81.57.34.8 (pid 10501) cron: debut syndic
+Sep 28 22:22:34 81.57.34.8 (pid 10715) cron: debut visites
+Sep 28 22:22:34 81.57.34.8 (pid 10715) cron: visites (39.646 ms) 1
+Sep 28 22:23:44 81.57.34.8 (pid 11566) cron: debut invalideur
+Sep 28 22:23:44 81.57.34.8 (pid 11566) cron: invalideur (167.795 ms) 1
+Sep 28 22:23:58 81.57.34.8 (pid 11719) cron: debut syndic
+Sep 28 23:08:16 81.57.34.8 (pid 23485) cron: debut syndic
+Sep 28 23:08:22 81.57.34.8 (pid 23848) cron: debut visites
+Sep 28 23:08:22 81.57.34.8 (pid 23848) cron: visites (102.885 ms) 1
+Sep 28 23:08:31 81.57.34.8 (pid 24171) cron: debut invalideur
+Sep 28 23:08:31 81.57.34.8 (pid 24171) cron: invalideur (75.856 ms) 1
+Sep 28 23:12:05 81.57.34.8 (pid 27448) cron: debut syndic
+Sep 28 23:13:38 81.57.34.8 (pid 28483) cron: debut visites
+Sep 28 23:13:38 81.57.34.8 (pid 28483) cron: visites (14.359 ms) 1
+Sep 28 23:13:41 81.57.34.8 (pid 28521) cron: debut syndic
+Sep 28 23:16:40 81.57.34.8 (pid 31132) cron: debut syndic
+Sep 28 23:18:31 81.57.34.8 (pid 32399) cron: debut syndic
+Sep 28 23:18:58 81.57.34.8 (pid 548) cron: debut visites
+Sep 28 23:18:58 81.57.34.8 (pid 548) cron: visites (51.035 ms) 1
+Sep 28 23:20:17 81.57.34.8 (pid 2425) cron: debut syndic
+Sep 28 23:23:03 81.57.34.8 (pid 4595) cron: debut syndic
+Sep 28 23:24:13 81.57.34.8 (pid 5454) cron: debut visites
+Sep 28 23:24:13 81.57.34.8 (pid 5454) cron: visites (20.079 ms) 1
+Sep 28 23:24:36 81.57.34.8 (pid 5655) cron: debut syndic
+Sep 28 23:26:31 81.57.34.8 (pid 7539) cron: debut syndic
+Sep 28 23:28:30 81.57.34.8 (pid 8857) cron: debut popularites
+Sep 28 23:28:30 81.57.34.8 (pid 8857) cron: popularites (41.935 ms) 1
+Sep 28 23:29:17 81.57.34.8 (pid 9342) cron: debut maintenance
+Sep 28 23:29:17 81.57.34.8 (pid 9342) cron: maintenance (73.692 ms) 1
+Sep 28 23:29:24 81.57.34.8 (pid 9403) cron: debut syndic
+Sep 28 23:29:38 81.57.34.8 (pid 9651) cron: debut invalideur
+Sep 28 23:29:38 81.57.34.8 (pid 9651) cron: invalideur (164.543 ms) 1
+Sep 28 23:29:42 81.57.34.8 (pid 9831) cron: debut visites
+Sep 28 23:29:42 81.57.34.8 (pid 9831) cron: visites (13.949 ms) 1
+Sep 28 23:32:44 81.57.34.8 (pid 12452) cron: debut syndic
+Sep 28 23:34:24 81.57.34.8 (pid 14054) cron: debut syndic
+Sep 28 23:34:42 81.57.34.8 (pid 14206) cron: debut visites
+Sep 28 23:34:42 81.57.34.8 (pid 14206) cron: visites (9.516 ms) 1
+Sep 28 23:36:14 81.57.34.8 (pid 15271) cron: debut syndic
+Sep 28 23:37:45 81.57.34.8 (pid 16424) cron: debut syndic
+Sep 28 23:39:22 81.57.34.8 (pid 17673) cron: debut syndic
+Sep 29 00:52:10 81.57.34.8 (pid 16180) cron: debut visites
+Sep 29 00:52:10 81.57.34.8 (pid 16180) cron: visites (32.572 ms) 1
+Sep 29 00:52:13 81.57.34.8 (pid 16218) cron: debut syndic
+Sep 29 00:55:07 81.57.34.8 (pid 18481) cron: debut invalideur
+Sep 29 00:55:07 81.57.34.8 (pid 18481) cron: invalideur (44.244 ms) 1
+Sep 29 00:57:38 81.57.34.8 (pid 20478) cron: debut syndic
+Sep 29 00:59:47 81.57.34.8 (pid 22018) cron: debut visites
+Sep 29 00:59:47 81.57.34.8 (pid 22018) cron: visites (27.824 ms) 1
+Sep 29 00:59:50 81.57.34.8 (pid 22021) cron: debut syndic
+Sep 29 01:02:10 81.57.34.8 (pid 870) cron: debut syndic
+Sep 29 01:09:19 81.57.34.8 (pid 7053) cron: debut syndic
+Sep 29 01:09:42 81.57.34.8 (pid 7271) cron: debut visites
+Sep 29 01:09:42 81.57.34.8 (pid 7271) cron: visites (57.576 ms) 1
+Oct 04 23:07:47 81.57.34.8 (pid 12377) cron: debut invalideur
+Oct 04 23:07:48 81.57.34.8 (pid 12377) cron: invalideur (98.540 ms) 1
+Oct 04 23:07:57 81.57.34.8 (pid 12465) cron: debut popularites
+Oct 04 23:07:58 81.57.34.8 (pid 12465) cron: popularites (134.788 ms) 1
+Oct 04 23:16:14 81.57.34.8 (pid 20915) cron: debut syndic
+Oct 04 23:20:17 81.57.34.8 (pid 24820) cron: debut syndic
+Oct 04 23:20:23 81.57.34.8 (pid 24887) cron: debut visites
+Oct 04 23:20:23 81.57.34.8 (pid 24887) cron: visites (8.688 ms) 1
+Oct 04 23:23:24 81.57.34.8 (pid 27155) cron: debut syndic
+Oct 04 23:28:14 81.57.34.8 (pid 31940) cron: debut syndic
+Oct 04 23:28:17 81.57.34.8 (pid 31987) cron: debut visites
+Oct 04 23:28:17 81.57.34.8 (pid 31987) cron: visites (8.435 ms) 1
+Oct 04 23:36:01 81.57.34.8 (pid 7091) cron: debut syndic
+Oct 04 23:36:58 81.57.34.8 (pid 8109) cron: debut visites
+Oct 04 23:36:58 81.57.34.8 (pid 8109) cron: visites (11.917 ms) 1
+Oct 04 23:47:16 81.57.34.8 (pid 16144) cron: debut syndic
+Oct 05 21:27:52 81.57.34.8 (pid 13290) cron: debut maintenance
+Oct 05 21:27:52 81.57.34.8 (pid 13290) cron: maintenance (253.388 ms) 1
+Oct 05 21:27:54 81.57.34.8 (pid 13312) cron: debut visites
+Oct 05 21:27:54 81.57.34.8 (pid 13312) cron: visites (411.172 ms) 1
+Oct 05 21:27:57 81.57.34.8 (pid 13335) cron: debut invalideur
+Oct 05 21:27:57 81.57.34.8 (pid 13335) cron: invalideur (57.260 ms) 1
+Oct 05 21:28:20 81.57.34.8 (pid 13726) cron: debut syndic
+Oct 05 22:29:39 81.57.34.8 (pid 14738) cron: debut syndic
+Oct 05 22:29:51 81.57.34.8 (pid 14837) cron: debut visites
+Oct 05 22:29:51 81.57.34.8 (pid 14837) cron: visites (90.693 ms) 1
+Oct 05 22:30:17 81.57.34.8 (pid 15603) cron: debut invalideur
+Oct 05 22:30:17 81.57.34.8 (pid 15603) cron: invalideur (38.606 ms) 1
+Oct 05 22:31:19 81.57.34.8 (pid 16999) cron: debut syndic
+Oct 05 22:34:02 81.57.34.8 (pid 19740) cron: debut syndic
+Oct 05 22:34:53 81.57.34.8 (pid 20360) cron: debut visites
+Oct 05 22:34:53 81.57.34.8 (pid 20360) cron: visites (11.167 ms) 1
+Oct 05 22:35:34 81.57.34.8 (pid 21248) cron: debut syndic
+Oct 05 22:38:12 81.57.34.8 (pid 23461) cron: debut syndic
+Oct 05 22:40:22 81.57.34.8 (pid 26007) cron: debut syndic
+Oct 05 22:40:27 90.2.248.28 (pid 25861) cron: debut visites
+Oct 05 22:40:28 90.2.248.28 (pid 25861) cron: visites (100.334 ms) 1
+Oct 05 22:41:58 81.57.34.8 (pid 27927) cron: debut syndic
+Oct 06 01:22:03 81.57.34.8 (pid 14906) cron: debut syndic
+Oct 06 01:22:06 81.57.34.8 (pid 14926) cron: debut visites
+Oct 06 01:22:06 81.57.34.8 (pid 14926) cron: visites (71.666 ms) 1
+Oct 06 01:26:56 81.57.34.8 (pid 19141) cron: debut invalideur
+Oct 06 01:26:56 81.57.34.8 (pid 19141) cron: invalideur (45.488 ms) 1
+Oct 06 01:27:02 81.57.34.8 (pid 19481) cron: debut maintenance
+Oct 06 01:27:02 81.57.34.8 (pid 19481) cron: maintenance (88.192 ms) 1
+Oct 06 01:37:30 81.57.34.8 (pid 27316) cron: debut popularites
+Oct 06 01:37:30 81.57.34.8 (pid 27316) cron: popularites (89.392 ms) 1
+Oct 06 01:39:14 81.57.34.8 (pid 28438) cron: debut syndic
+Oct 06 01:46:24 81.57.34.8 (pid 2122) cron: debut syndic
+Oct 08 16:55:58 81.57.34.8 (pid 6515) cron: debut visites
+Oct 08 16:55:59 81.57.34.8 (pid 6515) cron: visites (467.340 ms) 1
+Oct 08 17:09:43 81.57.34.8 (pid 22221) cron: debut invalideur
+Oct 08 17:09:43 81.57.34.8 (pid 22221) cron: invalideur (256.430 ms) 1
+Oct 08 17:09:52 81.57.34.8 (pid 22378) cron: debut maintenance
+Oct 08 17:09:53 81.57.34.8 (pid 22378) cron: maintenance (279.861 ms) 1
+Oct 08 17:09:57 81.57.34.8 (pid 22456) cron: debut popularites
+Oct 08 17:09:57 81.57.34.8 (pid 22456) cron: popularites (89.519 ms) 1
+Oct 08 17:10:23 81.57.34.8 (pid 23252) cron: debut syndic
+Oct 08 17:10:30 81.57.34.8 (pid 23344) cron: debut mise_a_jour
+Oct 08 17:10:30 81.57.34.8 (pid 23344) cron: mise_a_jour (288.562 ms) 1
+Oct 08 17:40:25 81.57.34.8 (pid 12738) cron: debut optimiser
+Oct 08 17:40:26 81.57.34.8 (pid 12738) cron: optimiser (132.940 ms) -1318038644
+Oct 08 17:54:11 81.57.34.8 (pid 25618) cron: debut visites
+Oct 08 17:54:11 81.57.34.8 (pid 25618) cron: visites (76.353 ms) 1
+Oct 08 17:54:21 81.57.34.8 (pid 25711) cron: debut syndic
+Oct 09 04:32:44 81.57.34.8 (pid 9641) cron: debut invalideur
+Oct 09 04:32:44 81.57.34.8 (pid 9641) cron: invalideur (71.959 ms) 1
+Oct 09 04:32:52 81.57.34.8 (pid 9704) cron: debut syndic
+Oct 09 05:20:50 81.57.34.8 (pid 18709) cron: debut visites
+Oct 09 05:20:51 81.57.34.8 (pid 18709) cron: visites (246.061 ms) 1
+Oct 09 05:21:04 81.57.34.8 (pid 18958) cron: debut maintenance
+Oct 09 05:21:04 81.57.34.8 (pid 18958) cron: maintenance (231.394 ms) 1
+Oct 09 05:21:21 81.57.34.8 (pid 19099) cron: debut popularites
+Oct 09 05:21:21 81.57.34.8 (pid 19099) cron: popularites (71.329 ms) 1
+Oct 09 05:21:28 81.57.34.8 (pid 19161) cron: debut syndic
+Oct 09 05:21:46 81.57.34.8 (pid 19324) cron: debut invalideur
+Oct 09 05:21:46 81.57.34.8 (pid 19324) cron: invalideur (62.664 ms) 1
+Oct 09 05:23:05 81.57.34.8 (pid 20237) cron: debut syndic
+Oct 10 14:53:52 90.24.190.168 (pid 12793) cron: debut syndic
+Oct 10 14:54:06 90.24.190.168 (pid 13088) cron: debut visites
+Oct 10 14:54:06 90.24.190.168 (pid 13088) cron: visites (57.517 ms) 1
+Oct 10 14:54:10 90.24.190.168 (pid 13116) cron: debut invalideur
+Oct 10 14:54:10 90.24.190.168 (pid 13116) cron: invalideur (65.501 ms) 1
+Oct 10 14:54:17 90.24.190.168 (pid 13184) cron: debut maintenance
+Oct 10 14:54:17 90.24.190.168 (pid 13184) cron: maintenance (168.121 ms) 1
+Oct 10 14:54:26 90.24.190.168 (pid 13231) cron: debut popularites
+Oct 10 14:54:26 90.24.190.168 (pid 13231) cron: popularites (12.946 ms) 1
+Oct 10 14:55:42 90.24.190.168 (pid 14307) cron: debut syndic
+Oct 13 00:18:07 81.57.34.8 (pid 29140) cron: debut visites
+Oct 13 00:18:07 81.57.34.8 (pid 29140) cron: visites (638.071 ms) 1
+Oct 13 00:22:02 81.57.34.8 (pid 654) cron: debut invalideur
+Oct 13 00:22:02 81.57.34.8 (pid 654) cron: invalideur (129.106 ms) 1
+Oct 13 00:22:05 81.57.34.8 (pid 735) cron: debut maintenance
+Oct 13 00:22:05 81.57.34.8 (pid 735) cron: maintenance (359.705 ms) 1
+Oct 13 00:22:27 81.57.34.8 (pid 911) cron: debut popularites
+Oct 13 00:22:27 81.57.34.8 (pid 911) cron: popularites (82.500 ms) 1
+Oct 13 00:22:43 81.57.34.8 (pid 1072) cron: debut mise_a_jour
+Oct 13 00:22:43 81.57.34.8 (pid 1072) cron: mise_a_jour (130.625 ms) 1
+Oct 15 15:56:33 81.57.34.8 (pid 6176) cron: debut optimiser
+Oct 15 15:56:33 81.57.34.8 (pid 6176) cron: optimiser (268.544 ms) -1318636965
+Oct 15 15:57:43 81.57.34.8 (pid 7509) cron: debut syndic
+Oct 15 15:58:17 81.57.34.8 (pid 8225) cron: debut visites
+Oct 15 15:58:18 81.57.34.8 (pid 8225) cron: visites (1 368.038 ms) 1
+Oct 15 15:58:22 81.57.34.8 (pid 8303) cron: debut invalideur
+Oct 15 15:58:23 81.57.34.8 (pid 8303) cron: invalideur (223.384 ms) 1
+Oct 15 15:58:26 81.57.34.8 (pid 8362) cron: debut maintenance
+Oct 15 15:58:26 81.57.34.8 (pid 8362) cron: maintenance (257.438 ms) 1
+Oct 15 15:58:41 81.57.34.8 (pid 8543) cron: debut popularites
+Oct 15 15:58:41 81.57.34.8 (pid 8543) cron: popularites (116.449 ms) 1
+Oct 15 16:00:14 81.57.34.8 (pid 13896) cron: debut syndic
+Oct 15 16:02:19 81.57.34.8 (pid 15830) cron: debut syndic
+Oct 22 17:51:18 81.57.34.8 (pid 8371) cron: debut popularites
+Oct 22 17:51:19 81.57.34.8 (pid 8371) cron: popularites (197.317 ms) 1
+Oct 22 19:01:11 81.57.34.8 (pid 11024) cron: debut mise_a_jour
+Oct 22 19:01:11 81.57.34.8 (pid 11024) cron: mise_a_jour (195.935 ms) 1
+Oct 22 19:01:23 81.57.34.8 (pid 11138) cron: debut optimiser
+Oct 22 19:01:23 81.57.34.8 (pid 11138) cron: optimiser (300.566 ms) -1319252796
+Oct 23 04:49:12 81.57.34.8 (pid 22500) cron: debut syndic
+Oct 23 04:49:15 81.57.34.8 (pid 22508) cron: debut visites
+Oct 23 04:49:15 81.57.34.8 (pid 22508) cron: visites (434.461 ms) 1
+Oct 23 04:49:58 81.57.34.8 (pid 22966) cron: debut invalideur
+Oct 23 04:49:58 81.57.34.8 (pid 22966) cron: invalideur (317.581 ms) 1
+Oct 23 04:50:05 81.57.34.8 (pid 23443) cron: debut maintenance
+Oct 23 04:50:06 81.57.34.8 (pid 23443) cron: maintenance (282.856 ms) 1
+Oct 23 04:50:09 81.57.34.8 (pid 23522) cron: debut popularites
+Oct 23 04:50:10 81.57.34.8 (pid 23522) cron: popularites (75.109 ms) 1
+Oct 23 04:52:20 81.57.34.8 (pid 24957) cron: debut syndic
+Oct 23 15:11:04 81.57.34.8 (pid 3208) cron: debut syndic
+Oct 23 15:13:14 81.57.34.8 (pid 5327) cron: debut visites
+Oct 23 15:13:14 81.57.34.8 (pid 5327) cron: visites (90.745 ms) 1
+Oct 23 15:13:39 81.57.34.8 (pid 5787) cron: debut invalideur
+Oct 23 15:13:39 81.57.34.8 (pid 5787) cron: invalideur (45.473 ms) 1
+Oct 23 15:13:43 81.57.34.8 (pid 5821) cron: debut maintenance
+Oct 23 15:13:43 81.57.34.8 (pid 5821) cron: maintenance (275.459 ms) 1
+Oct 28 18:49:32 81.57.34.8 (pid 18456) cron: debut syndic
+Oct 28 19:09:29 90.24.191.165 (pid 8850) cron: debut visites
+Oct 28 19:09:29 90.24.191.165 (pid 8850) cron: visites (46.493 ms) 1
+Oct 28 19:09:36 90.24.191.165 (pid 8909) cron: debut invalideur
+Oct 28 19:09:36 90.24.191.165 (pid 8909) cron: invalideur (118.449 ms) 1
+Oct 28 19:10:02 90.24.191.165 (pid 9081) cron: debut maintenance
+Oct 28 19:10:02 90.24.191.165 (pid 9081) cron: maintenance (275.312 ms) 1
+Oct 28 19:11:15 90.24.191.165 (pid 10317) cron: debut popularites
+Oct 28 19:11:15 90.24.191.165 (pid 10317) cron: popularites (20.598 ms) 1
+Oct 28 19:11:25 90.24.191.165 (pid 10404) cron: debut syndic
+Oct 28 19:13:13 90.24.191.165 (pid 11670) cron: debut syndic
+Oct 28 19:14:44 90.24.191.165 (pid 13004) cron: debut visites
+Oct 28 19:14:44 90.24.191.165 (pid 13004) cron: visites (28.545 ms) 1
+Oct 28 19:33:29 90.24.191.165 (pid 30935) cron: debut syndic
+Oct 28 19:33:59 90.24.191.165 (pid 31188) cron: debut visites
+Oct 28 19:33:59 90.24.191.165 (pid 31188) cron: visites (102.367 ms) 1
+Oct 28 19:34:56 90.24.191.165 (pid 31785) cron: debut invalideur
+Oct 28 19:34:56 90.24.191.165 (pid 31785) cron: invalideur (157.874 ms) 1
+Oct 28 19:35:14 90.24.191.165 (pid 32324) cron: debut syndic
+Oct 28 19:44:09 90.24.191.165 (pid 7575) cron: debut syndic
+Oct 28 19:44:18 90.24.191.165 (pid 7648) cron: debut visites
+Oct 28 19:44:18 90.24.191.165 (pid 7648) cron: visites (9.431 ms) 1
+Oct 29 05:14:17 81.57.34.8 (pid 24049) cron: debut syndic
+Oct 29 05:14:24 81.57.34.8 (pid 24097) cron: debut visites
+Oct 29 05:14:25 81.57.34.8 (pid 24097) cron: visites (77.912 ms) 1
+Oct 29 05:15:40 81.57.34.8 (pid 21943) cron: debut invalideur
+Oct 29 05:15:40 81.57.34.8 (pid 21943) cron: invalideur (138.700 ms) 1
+Oct 29 05:16:14 81.57.34.8 (pid 25843) cron: debut maintenance
+Oct 29 05:16:14 81.57.34.8 (pid 25843) cron: maintenance (30.482 ms) 1
+Jan 03 21:52:00 90.2.178.149 (pid 21056) cron: debut optimiser
+Jan 03 21:52:00 90.2.178.149 (pid 21056) cron: optimiser (231.883 ms) -1325560795
+Jan 03 21:52:24 90.2.178.149 (pid 21456) cron: debut mise_a_jour
+Jan 03 21:52:24 90.2.178.149 (pid 21456) cron: mise_a_jour (193.198 ms) 1
+Jan 03 21:52:34 90.2.178.149 (pid 21538) cron: debut popularites
+Jan 03 21:52:34 90.2.178.149 (pid 21538) cron: popularites (112.158 ms) 1
+Jan 03 21:53:52 90.2.178.149 (pid 22451) cron: debut syndic
+Jan 03 21:54:04 90.2.178.149 (pid 22726) cron: debut visites
+Jan 03 21:54:05 90.2.178.149 (pid 22726) cron: visites (953.200 ms) 1
+Jan 03 21:55:50 90.2.178.149 (pid 24113) cron: debut invalideur
+Jan 03 21:55:50 90.2.178.149 (pid 24113) cron: invalideur (294.026 ms) 1
+Jan 03 22:01:45 90.2.178.149 (pid 29778) cron: debut maintenance
+Jan 03 22:01:45 90.2.178.149 (pid 29778) cron: maintenance (182.166 ms) 1
+Feb 29 16:33:25 213.215.22.226 (pid 9622) cron: debut invalideur
+Feb 29 16:33:26 213.215.22.226 (pid 9622) cron: invalideur (453.092 ms) 1
+Feb 29 16:33:36 213.215.22.226 (pid 9772) cron: debut mise_a_jour
+Feb 29 16:33:36 213.215.22.226 (pid 9772) cron: mise_a_jour (199.735 ms) 1
+Feb 29 16:34:15 213.215.22.226 (pid 10348) cron: debut popularites
+Feb 29 16:34:15 213.215.22.226 (pid 10348) cron: popularites (216.220 ms) 1
+Feb 29 16:34:19 213.215.22.226 (pid 10392) cron: debut syndic
+Feb 29 16:34:31 213.215.22.226 (pid 10615) cron: debut visites
+Feb 29 16:34:31 213.215.22.226 (pid 10615) cron: visites (627.936 ms) 1
+Jul 29 03:29:02 81.57.34.8 (pid 3477) cron: debut syndic
+Jul 29 03:29:10 81.57.34.8 (pid 3541) cron: debut optimiser
+Jul 29 03:29:10 81.57.34.8 (pid 3541) cron: optimiser (637.779 ms) -1375061976
+Jul 29 03:29:48 81.57.34.8 (pid 4071) cron: debut mise_a_jour
+Jul 29 03:29:48 81.57.34.8 (pid 4071) cron: mise_a_jour (145.434 ms) 1
+Aug 28 17:17:58 92.163.16.155 (pid 20378) cron: debut popularites
+Aug 28 17:17:58 92.163.16.155 (pid 20378) cron: popularites (244.259 ms) 1
+Aug 28 17:18:04 92.163.16.155 (pid 20654) cron: debut optimiser
+Aug 28 17:18:05 92.163.16.155 (pid 20654) cron: optimiser (618.231 ms) -1377650583
+Aug 28 17:18:10 92.163.16.155 (pid 20766) cron: debut syndic
+Aug 28 17:18:14 92.163.16.155 (pid 20794) cron: debut visites
+Aug 28 17:18:16 92.163.16.155 (pid 20794) cron: visites (2 134.330 ms) 1
+Aug 28 17:19:11 92.163.16.155 (pid 21640) cron: debut mise_a_jour
+Aug 28 17:19:11 92.163.16.155 (pid 21640) cron: mise_a_jour (278.372 ms) 1
+Aug 28 17:19:21 92.163.16.155 (pid 21744) cron: debut invalideur
+Aug 28 17:19:21 92.163.16.155 (pid 21744) cron: invalideur (252.491 ms) 1
+Aug 28 17:19:29 92.163.16.155 (pid 21818) cron: debut maintenance
+Aug 28 17:19:29 92.163.16.155 (pid 21818) cron: maintenance (324.267 ms) 1
+Aug 28 17:24:15 92.163.16.155 (pid 26619) cron: debut syndic
+Aug 28 17:37:27 92.163.16.155 (pid 7080) cron: debut visites
+Aug 28 17:37:27 92.163.16.155 (pid 7080) cron: visites (71.468 ms) 1
+Aug 28 17:37:33 92.163.16.155 (pid 7133) cron: debut syndic
+Jun 30 13:57:50 81.57.34.8 (pid 1996) cron: debut maintenance
+Jun 30 13:57:50 81.57.34.8 (pid 1996) cron: maintenance (416.829 ms) 1
+Jun 30 13:57:57 81.57.34.8 (pid 2085) cron: debut popularites
+Jun 30 13:57:57 81.57.34.8 (pid 2085) cron: popularites (41.663 ms) 1
+Jun 30 13:58:01 81.57.34.8 (pid 2205) cron: debut syndic
+Jun 30 13:58:09 81.57.34.8 (pid 2493) cron: debut optimiser
+Jun 30 13:58:09 81.57.34.8 (pid 2493) cron: optimiser (37.541 ms) -1404098857
+Jun 30 13:58:13 81.57.34.8 (pid 2620) cron: debut mise_a_jour
+Jun 30 13:58:13 81.57.34.8 (pid 2620) cron: mise_a_jour (86.256 ms) 1
+Jun 30 16:09:19 86.212.39.101 (pid 26495) cron: debut syndic
+Jun 30 16:09:46 86.212.39.101 (pid 27073) cron: debut visites
+Jun 30 16:09:46 86.212.39.101 (pid 27073) cron: visites (4.286 ms) 1
+Jun 30 16:44:57 86.212.39.101 (pid 27445) cron: debut visites
+Jun 30 16:44:57 86.212.39.101 (pid 27445) cron: visites (28.171 ms) 1
+Jun 30 16:45:00 86.212.39.101 (pid 27479) cron: debut invalideur
+Jun 30 16:45:01 86.212.39.101 (pid 27479) cron: invalideur (448.254 ms) 1
+Jul 02 19:25:51 81.57.34.8 (pid 29413) cron: debut maintenance
+Jul 02 19:25:51 81.57.34.8 (pid 29413) cron: maintenance (393.936 ms) 1
+Jul 02 19:26:00 81.57.34.8 (pid 29521) cron: debut popularites
+Jul 02 19:26:00 81.57.34.8 (pid 29521) cron: popularites (87.326 ms) 1
+Jul 02 19:27:05 81.57.34.8 (pid 31132) cron: debut syndic
+Jul 02 19:27:09 81.57.34.8 (pid 31170) cron: debut optimiser
+Jul 02 19:27:09 81.57.34.8 (pid 31170) cron: optimiser (107.453 ms) -1404272183
+Jul 02 19:27:13 81.57.34.8 (pid 31244) cron: debut visites
+Jul 02 19:27:13 81.57.34.8 (pid 31244) cron: visites (12.746 ms) 1
+Jul 02 19:33:37 81.57.34.8 (pid 11254) cron: debut invalideur
+Jul 02 19:33:37 81.57.34.8 (pid 11254) cron: invalideur (90.115 ms) 1
+Jul 02 19:33:47 81.57.34.8 (pid 11348) cron: debut syndic
+Jul 02 19:33:50 81.57.34.8 (pid 11389) cron: debut visites
+Jul 02 19:33:50 81.57.34.8 (pid 11389) cron: visites (4.136 ms) 1
+Jul 02 19:37:23 81.57.34.8 (pid 17413) cron: debut syndic
+Jul 02 19:56:24 81.57.34.8 (pid 17917) cron: debut syndic
+Jul 29 20:16:35 80.216.160.141 (pid 7205) cron: debut popularites
+Jul 29 20:16:35 80.216.160.141 (pid 7205) cron: popularites (115.676 ms) 1
+Jul 29 20:17:18 80.216.160.141 (pid 7833) cron: debut syndic
+Jul 29 20:17:29 80.216.160.141 (pid 7939) cron: debut mise_a_jour
+Jul 29 20:17:29 80.216.160.141 (pid 7939) cron: mise_a_jour (132.434 ms) 1
+Jul 29 20:17:34 80.216.160.141 (pid 7960) cron: debut visites
+Jul 29 20:17:34 80.216.160.141 (pid 7960) cron: visites (111.790 ms) 1
+Jul 29 20:18:17 80.216.160.141 (pid 8694) cron: debut optimiser
+Jul 29 20:18:17 80.216.160.141 (pid 8694) cron: optimiser (26.246 ms) -1406603550
+Feb 22 01:35:24 92.145.244.183 (pid 4778) cron: debut syndic
+Feb 22 01:35:32 92.145.244.183 (pid 4808) cron: debut visites
+Feb 22 01:35:32 92.145.244.183 (pid 4808) cron: visites (461.612 ms) 1
+Feb 22 01:35:43 92.145.244.183 (pid 4902) cron: debut maintenance
+Feb 22 01:35:43 92.145.244.183 (pid 4902) cron: maintenance (202.888 ms) 1
+Feb 22 01:35:57 92.145.244.183 (pid 4962) cron: debut popularites
+Feb 22 01:35:57 92.145.244.183 (pid 4962) cron: popularites (40.505 ms) 1
+Feb 22 01:36:03 92.145.244.183 (pid 5283) cron: debut invalideur
+Feb 22 01:36:03 92.145.244.183 (pid 5283) cron: invalideur (209.198 ms) 1
+Oct 19 21:52:13 90.44.229.233 (pid 21789) cron: debut invalideur
+Oct 19 21:52:13 90.44.229.233 (pid 21789) cron: invalideur (384.574 ms) 1
+Oct 19 21:53:01 90.44.229.233 (pid 22497) cron: debut maintenance
+Oct 19 21:53:02 90.44.229.233 (pid 22497) cron: maintenance (1 548.375 ms) 1
+Oct 19 21:53:33 90.44.229.233 (pid 23278) cron: debut optimiser
+Oct 19 21:53:33 90.44.229.233 (pid 23278) cron: optimiser (59.989 ms) -1476845662
+Oct 19 21:55:04 90.44.229.233 (pid 26148) cron: debut syndic
+Oct 19 21:56:04 90.44.229.233 (pid 27707) cron: debut popularites
+Oct 19 21:56:04 90.44.229.233 (pid 27707) cron: popularites (38.763 ms) 1
+Oct 19 22:05:31 90.44.229.233 (pid 9649) cron: debut mise_a_jour
+Oct 19 22:05:31 90.44.229.233 (pid 9649) cron: mise_a_jour (149.953 ms) 1
+Oct 19 22:05:44 90.44.229.233 (pid 9854) cron: debut visites
+Oct 19 22:05:44 90.44.229.233 (pid 9854) cron: visites (189.410 ms) 1
+Oct 19 22:06:30 90.44.229.233 (pid 10920) cron: debut syndic
+Oct 20 07:52:39 88.141.113.234 (pid 2625) cron: debut syndic
+Oct 20 07:53:00 88.141.113.234 (pid 2919) cron: debut visites
+Oct 20 07:53:00 88.141.113.234 (pid 2919) cron: visites (197.220 ms) 1
+Oct 20 07:53:11 88.141.113.234 (pid 3284) cron: debut invalideur
+Oct 20 07:53:11 88.141.113.234 (pid 3284) cron: invalideur (271.007 ms) 1
+Oct 20 07:53:25 88.141.113.234 (pid 3320) cron: debut maintenance
+Oct 20 07:53:26 88.141.113.234 (pid 3320) cron: maintenance (356.868 ms) 1
+Oct 20 07:53:42 88.141.113.234 (pid 3656) cron: debut popularites
+Oct 20 07:53:42 88.141.113.234 (pid 3656) cron: popularites (53.652 ms) 1
+Oct 20 07:55:59 88.141.113.234 (pid 7306) cron: debut syndic

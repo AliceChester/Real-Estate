@@ -1,0 +1,126 @@
+a:11:{s:5:"texte";s:3632:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<title>Plan du site - Mon site SPIP</title>
+
+<?php echo recuperer_fond( 'inc-head', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/plan.html','html_0802583f7fdfe85b314ce1017bdcf904','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<meta name="robots" content="none" />
+</head>
+
+<body class="page_plan">
+<div id="page">
+	
+	
+	<?php echo recuperer_fond( 'inc-entete', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/plan.html','html_0802583f7fdfe85b314ce1017bdcf904','',14,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+	
+    <div id="conteneur">
+    <div id="contenu">
+        
+        
+        <div id="hierarchie"><a href="http://realestatecaretaking.com/">Accueil du site</a> &gt; <strong class="on">Plan du site</strong></div>
+    
+        <div class="cartouche">
+            <h1>Plan du site</h1>
+        </div>
+        
+        
+        
+        <h2><a href="-Anglais-.html">Anglais</a></h2>
+        
+        
+        
+        <h3>Articles</h3>
+        <ul>
+            
+            <li><a href="home.html">Home</a></li>
+            
+            <li><a href="about-us.html">About us</a></li>
+            
+            <li><a href="Services,4.html">Services</a></li>
+            
+            <li><a href="Nouvel-article.html">Testimonials &amp; resources</a></li>
+            
+            <li><a href="contact-us.html">Contact us</a></li>
+            
+            <li><a href="Maintenance-and-Repair-Oversight.html">Maintenance and Repair Oversight</a></li>
+            
+            <li><a href="Regular-Inspections.html">Regular Inspections</a></li>
+            
+        </ul>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <h2><a href="-Francais-.html">Français</a></h2>
+        
+        
+        
+        <h3>Articles</h3>
+        <ul>
+            
+            <li><a href="accueil.html">Accueil</a></li>
+            
+            <li><a href="qui-sommes-nous.html">Qui sommes nous&nbsp;?</a></li>
+            
+            <li><a href="Services.html">Services</a></li>
+            
+            <li><a href="Temoignages-liens.html">Témoignages &amp; liens</a></li>
+            
+            <li><a href="contactez-nous.html">Contactez-nous</a></li>
+            
+        </ul>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+	</div><!--#contenu-->
+	</div><!--#conteneur-->
+
+    
+    <div id="navigation">
+
+        
+        <?php echo recuperer_fond( 'inc-rubriques', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/plan.html','html_0802583f7fdfe85b314ce1017bdcf904','',90,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('squelettes-dist/plan.html', 'html_0802583f7fdfe85b314ce1017bdcf904', '', 92, 'fr'));
+if ($lang_select) lang_select();
+?>
+
+    </div><!--#navigation-->
+	
+	
+	<div id="extra">
+	&nbsp;
+	</div><!--#extra-->
+
+	
+	<?php echo recuperer_fond( 'inc-pied', array('skel' => 'squelettes-dist/plan.html',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/plan.html','html_0802583f7fdfe85b314ce1017bdcf904','',102,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</div><!--#page-->
+</body>
+</html>";s:9:"squelette";s:37:"html_0802583f7fdfe85b314ce1017bdcf904";s:6:"source";s:25:"squelettes-dist/plan.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/plan%2Fspip-plan-fr--5ea571a77e73";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:4:"plan";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2016-10-20 15:09:58";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-10-20 15:09:58";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1476968998;s:2:"gz";b:0;}

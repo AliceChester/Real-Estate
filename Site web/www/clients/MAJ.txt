@@ -1,0 +1,20 @@
+Pour mettre à jour votre version de THELIA, il suffit d'écraser vos répertoires :
+
+- admin
+- classes
+- fonctions
+- install
+- lib
+
+Par ceux de cette nouvelle archive.
+
+Utilisateurs de Mac OS X : Lors d'un replacement d'un répertoire, le finder supprime d'abord celui-ci avant de copier le nouveau.
+Soyez donc prudent avec votre fichier classes/Cnx.class.php lorsque vous écrasez le répertoire classes.
+
+Sauvegardez-le préalablement.
+
+Avant une mise à jour, il est de toutes façons toujours conseillé de procéder à une sauvegarde.
+
+Pour terminer connectez-vous à l'adresse suivante http://www.votrethelia.com/install/
+
+Par sécurité, renommez le répertoire admin en lui donnant un nom personnalisé

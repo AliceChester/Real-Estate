@@ -1,0 +1,32 @@
+<div class="listwhite boutonwhite">
+
+<BOUCLE_menu_rubrique_invisible(RUBRIQUES) {racine} {titre_mot = invisible} {doublons}>
+</BOUCLE_menu_rubrique_invisible>
+
+<B_rubriques>
+
+	<ul>
+	
+		<BOUCLE_rubriques(RUBRIQUES) {racine} {par num titre, titre}{doublons}>
+			
+			<li>
+
+			<a href="#URL_PAGE{rubrique,id_rubrique=#ID_RUBRIQUE}"[ class="(#EXPOSE)"]>
+			[(#TITRE|couper{80}|texte_backend)]
+			</a>	
+
+		</li>
+	
+		</BOUCLE_rubriques>
+
+	
+	</ul>
+
+</B_rubriques>
+</div>
+
+
+
+
+
+

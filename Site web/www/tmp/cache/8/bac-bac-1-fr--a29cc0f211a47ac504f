@@ -1,0 +1,32 @@
+a:11:{s:5:"texte";s:842:"<?xml 
+version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Mon site SPIP</title>
+	<link>http://realestatecaretaking.com/</link>
+	
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+
+
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '14',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<?php echo recuperer_fond( 'inc-rss-item', array('id_article' => '13',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/backend.html','html_6e2efe63dd9202a6371932853505f2fb','',25,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+
+
+</channel>
+
+</rss>
+";s:9:"squelette";s:37:"html_6e2efe63dd9202a6371932853505f2fb";s:6:"source";s:28:"squelettes-dist/backend.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"8/bac-bac-1-fr--a29cc0f211a47ac504f";}s:7:"entetes";a:2:{s:12:"Content-Type";s:23:"text/xml; charset=utf-8";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:7:"backend";s:11:"id_rubrique";s:1:"1";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2016-08-25 14:52:31";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-08-25 14:52:31";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1472129551;s:2:"gz";b:0;}

@@ -1,0 +1,66 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+<THELIA SI CONNECTE>
+
+				
+							<THELIA_CONTENU type="CONTENU"  id="#CONTENU_ID">	
+
+			<h2>#TITRE</h2><br/>
+			
+           <p> #DESCRIPTION</p>
+		   
+		   
+				<T_DOCUMENT>
+				<div class="telechargements">
+					<h2>T&eacute;l&eacute;chargement(s)</h2>
+					<ul>
+                		<THELIA_DOCUMENT type="DOCUMENT" contenu="#CONTENU_ID">
+                		<li><a href="#FICHIER">#FILTRE_egalite(#TITRE||||cliquez-ici) #TITRE</a></li>
+						</THELIA_DOCUMENT>
+					</ul>
+				</div>
+				</T_DOCUMENT>
+				<//T_DOCUMENT>
+
+		</THELIA_CONTENU>
+		
+				
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>	
+
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>Forfait</nom>
+ 	<version>1.0</version>
+ 	<prefix>forfait</prefix>
+	<type>classique</type>
+ 	<auteur>Yoan De Macedo - yoan@octolys.fr</auteur>
+ 	<thelia>1.4.0</thelia>
+ 	<description>Gestion du port via un forfait par zone.</description>
+	<lien></lien>
+	<documentation>Readme.txt</documentation>
+ 	<etat>production</etat>
+	<install></install>
+</plugin>

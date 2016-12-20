@@ -1,0 +1,23 @@
+﻿
+#background {
+
+  zoom: 1; /* HasLayout */ 
+  background: none; 
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( 
+    src="IMG/fonds/background-accueil.png", sizingMethod="scale"); 
+	position: static;
+	}
+
+.multi {
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='pix/monImageTransparente.png', sizingMethod='image');
+}
+
+
+.menu-top {
+top: 20px;
+left: -15px;
+}
+
+.logo {
+left: 15px;
+}

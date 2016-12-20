@@ -1,0 +1,224 @@
+a:11:{s:5:"texte";s:3930:"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+
+<head>
+
+<title>Français - Mon site SPIP</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;"/>
+<?php echo recuperer_fond( 'inc/inc-head', array('lang' => 'fr'), array("compil"=>array('plugins/cimobile/squel_mobiles/iphone/rubrique.html','html_b548784a4287390135f056f58f3ef2e7','',20,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Syndiquer cette rubrique" href="http://realestatecaretaking.com/spip.php?page=backend&amp;id_rubrique=2" />
+
+</head>
+
+
+
+<body class="page_rubrique">
+
+<div id="page">
+
+
+	
+<?php echo recuperer_fond( 'inc/inc-entete', array('lang' => 'fr'), array("compil"=>array('plugins/cimobile/squel_mobiles/iphone/rubrique.html','html_b548784a4287390135f056f58f3ef2e7','',36,$GLOBALS['spip_lang'])), _request("connect"));
+?>	
+
+
+	
+<div id="lign-som">
+	<div id="lign-droite">
+		<div id="centre">Français</div>
+		<a href="http://realestatecaretaking.com/spip.php?page=recherche">
+		<div id="droite">Rechercher</div></a>
+	</div>
+	<a href="javascript:history.back()"><div id="gauche">
+	Retour</div></a>
+</div>
+
+
+    
+
+ 
+
+<div class="cartouche">
+            
+
+            
+<h1 class="crayon rubrique-titre-2 ">Français</h1>
+            
+<p><small>Dernier ajout : 28 septembre 2011.</small></p>
+        
+</div>
+
+        
+
+
+
+      
+<br class="nettoyeur" />  
+
+
+        
+
+        
+<div id="group">Articles</div>
+<div class="menu articles">
+            
+<a name='pagination_articles' id='pagination_articles'></a>
+                       
+<ul>
+                
+
+                
+<li>
+                                       
+<a href="http://realestatecaretaking.com/spip.php?page=article&amp;id_article=29"><h3>Témoignages &amp; liens</h3></a>
+                                   
+</li>
+                
+
+                
+<li>
+                                       
+<a href="http://realestatecaretaking.com/spip.php?page=article&amp;id_article=7"><h3>Services</h3></a>
+                                   
+</li>
+                
+
+                
+<li>
+                                       
+<a href="http://realestatecaretaking.com/spip.php?page=article&amp;id_article=8"><h3>Contactez-nous</h3></a>
+                                   
+</li>
+                
+
+                
+<li>
+                                       
+<a href="http://realestatecaretaking.com/spip.php?page=article&amp;id_article=6"><h3>Qui sommes nous&nbsp;?</h3></a>
+                                   
+</li>
+                
+
+                
+<li>
+                                       
+<a href="http://realestatecaretaking.com/spip.php?page=article&amp;id_article=3"><h3>Accueil</h3></a>
+                                   
+</li>
+                
+
+            
+</ul>
+            
+
+        
+</div>
+        
+
+
+        
+
+
+
+
+
+        
+        
+
+
+
+        
+
+
+        
+
+
+        
+
+
+        
+
+
+        
+
+
+  
+
+
+        
+
+
+        
+
+
+
+	
+
+    
+<div id="conteneur">
+
+
+  
+
+</div><!--#conteneur-->
+    
+
+
+<div id="conteneur"> 
+<div id="group">Rubriques</div>
+<br>
+</div><!--#conteneur-->
+
+
+   
+  
+<?php echo recuperer_fond( 'inc/inc-rubriques', array('id_rubrique' => '2',
+	'lang' => 'fr'), array("compil"=>array('plugins/cimobile/squel_mobiles/iphone/rubrique.html','html_b548784a4287390135f056f58f3ef2e7','',303,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<div id="group"></div>
+
+
+<div class="hfeed" id="conteneur">
+  	
+<div id="ticket">
+	
+<div class="menu aticles">
+	
+<ul>
+		
+<a rel="contents" href="http://realestatecaretaking.com/spip.php?page=sommaire"><h4>ACCUEIL</h4></a>
+
+					
+</ul>
+
+</div>
+		
+
+</div><!--#conteneur-->
+	
+		
+
+</div><!--#page-->
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+";s:9:"squelette";s:37:"html_b548784a4287390135f056f58f3ef2e7";s:6:"source";s:51:"plugins/cimobile/squel_mobiles/iphone/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"9/rub-rub-2-fr--12420c047ebe15586ac";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";s:4:"3600";}s:5:"duree";i:3600;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:8:"rubrique";s:11:"id_rubrique";s:1:"2";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2014-08-05 03:46:50";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2014-08-05 03:46:50";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1407203210;s:2:"gz";b:0;}

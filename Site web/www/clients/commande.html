@@ -1,0 +1,89 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+					 <div class="contenu">
+	<THELIA SI CONNECTE>				
+
+ 
+	  	
+		<div class="contenu">
+			<h2 style="margin-bottom: 8px">Choisissez un mode de paiement : </h2>
+			<div class="choixDuReglement">
+            	
+
+<T_PAIEMENT>
+<form  method="get" action="commande.php"> 
+
+
+<input type="hidden" name="action" value="paiement" />
+			   
+
+			
+
+	<table>
+		<tbody>
+<THELIA_PAIEMENT type="PAIEMENT">
+    <tr>
+        <td><input type="radio" class="radio" name="type_paiement" value="#ID" #FILTRE_egalite(#TITRE||CB||checked="checked")></td>
+        <td><label>#TITRE : </label></td>
+        <td><img src="#LOGO" /></td>
+    </tr>
+</THELIA_PAIEMENT>
+</tbody>
+</table>
+</T_PAIEMENT>
+	<//T_PAIEMENT>			
+
+
+				<div class="boutons">
+
+				   <p> <input type="submit" value="Continuer" class="submit lien-#suite" /></p>
+
+				</div>
+
+
+
+</form>
+
+                
+			</div>
+		</div>
+</div>
+			
+			
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+					
+					</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

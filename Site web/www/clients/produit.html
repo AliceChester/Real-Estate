@@ -1,0 +1,105 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+<THELIA SI CONNECTE>
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+
+				<THELIA_PROD type="PRODUIT" ref="#PRODUIT_REF">
+				<h2>#TITRE</h2>
+				<table>
+					<tbody>
+					<tr>
+					<td>
+						<div class="blocDImages">
+							<THELIA_img type="IMAGE" num="1" produit="#ID" largeur="342">
+							<THELIA_ZOOM type="IMAGE"  num="1" id="#ID" largeur="500">
+							<a href="#IMAGE" rel="superbox[gallery][my_gallery]" class="grandeImage">
+							</THELIA_ZOOM>
+							<img style="width: 280px; padding-right: 14px;"src="#IMAGE" alt="#PRODTITRE" title="#PRODTITRE"/>
+							</a>
+							</THELIA_img>
+							<T_vignette>
+
+								<THELIA_vignette type="IMAGE" produit="#ID" debut="2" hauteur="81">
+
+									<THELIA_ZOOM_VIGNETTE type="IMAGE"  num="1" id="#ID" largeur="500">
+									<a href="#IMAGE" rel="superbox[gallery][my_gallery]"></a>
+									</THELIA_ZOOM_VIGNETTE>
+
+									
+
+								</THELIA_vignette>
+
+							</T_vignette>
+							<//T_vignette>
+						</div>
+					</td>
+					<td>
+
+               #DESCRIPTION 
+			   <THELIA_stock type="PRODUIT" ref="#REF" stockmini="1">
+                	<p><a class="acheter" href="#PANIER"><span><span>Ajouter au panier</span></span></a></p>
+                </THELIA_stock>
+
+
+            	<//T_CONTENU>
+			</div><br/>
+
+				<T_DOCUMENT>
+				<div class="telechargements">
+					<h2>T&eacute;l&eacute;chargement(s)</h2>
+					<ul>
+                		<THELIA_DOCUMENT type="DOCUMENT" produit="#PRODUIT_ID">
+                		<li><a href="#FICHIER">#FILTRE_egalite(#TITRE||||cliquez-ici) #TITRE</a></li>
+						</THELIA_DOCUMENT>
+					</ul>
+				</div>
+				</T_DOCUMENT>
+				<//T_DOCUMENT>
+			<//T_ACC></td>
+</tr>
+</tbody>
+</table>
+<div style="padding-left: 5px">#POSTSCRIPTUM<br/>
+
+
+</div>
+
+</THELIA_PROD>
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>	
+
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

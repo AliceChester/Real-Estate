@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>Moneybookers</nom>
+ 	<version>1.0</version>
+ 	<prefix>Moneybookers</prefix>
+	<type>classique</type>
+ 	<auteur>Benoit PASCAL - benpass2@hotmail.com</auteur>
+ 	<thelia>1.4.0</thelia>
+ 	<description>Module de paiement Moneybookers.</description>
+	<lien>http://contrib.thelia.fr/spip.php?article224</lien>
+	<documentation>Readme.txt</documentation>
+ 	<etat>production</etat>
+	<install></install>
+</plugin>

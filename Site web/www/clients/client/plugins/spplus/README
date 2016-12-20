@@ -1,0 +1,53 @@
+Plugin SPPLUS
+=============
+
+Le plugin SPPLUS permet de gérer les paiements en ligne avec la Caisse d'Epargne.
+
+
+
+Installation
+============
+
+1- Uploadez le fichier php_spplus.so fourni par SPPLUS dans le répertoire /client/plugins/spplus de votre boutique Thelia.
+
+2- Editez le fichier config.php avec les valeurs de clé et de siret fournis de façon cryptée par e-mail par SPPLUS.
+
+
+Configuration
+=============
+
+1- Dans l'administration SPPLUS, renseignez l'URL de retour paiement Internaute avec l'adresse : http://www.votre-boutique.com/client/plugins/spplus/redir.php
+
+2- Toujours dans l'administration SPPLUS, activez la Notification complémentaire.
+
+3- Sur la ligne Méthode d'envoi, sélectionnez Get
+
+4- Renommez confirmation.php en personnalisant le nom du fichier (sécurité)
+
+5- Renseignez l'URL 1 pour la notification complémentaire avec l'adresse : http://www.votre-boutique.com/client/plugins/spplus/confirmation_blabla.php
+
+
+
+Activation
+==========
+
+1- Dans l'administration Thelia, activez le plugin SPPLUS.
+
+
+Notes
+=====
+
+SPPLUS, pour la mise en production, demande et vérifie que le logo SPPLUS soit présent. Par défaut sur la page paiement.php c'est logo.jpg (visuel CB) qui est appelé. A vous de faire la modification du fichier logo.gif en jpg avec la couleur de fond de votre choix pour que le logo SPPLUS soit correctement affiché.
+
+Les serveurs SPPLUS attendent que la page confirmation.php renvoi spcheckok d'où la présence de la ligne : echo spcheckok; . Il est impératif de la laisser sous peine d'avoir un dysfonctionnement lors du passage en production.
+
+Il ne vous reste plus qu'à personnaliser vos pages merci.html et regret.html avec vos messages.
+
+Information
+============
+
+Le retour de paiement n'est pas une information suffisante. Vérifiez toujours sur l'interface de votre banque qu'un paiement est bien passé en paiement
+avant de le considérer réellement comme "payé"
+
+Vérifiez que les répertoires de votre site ne sont pas listable (ex http://www.votresite.com/client/plugins/).
+Si tel est le cas veuillez ajouter un fichier htaccess afin de sécuriser le tout.

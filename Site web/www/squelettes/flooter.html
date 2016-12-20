@@ -1,0 +1,33 @@
+
+		
+		
+		
+<BOUCLE_pan(ARTICLES){id_article}>
+#SET{article_global,#ID_ARTICLE}
+</BOUCLE_pan>
+
+<div id="flooter">
+<div class="menu menu-bas">
+	<ul>
+<BOUCLE_menurubbas(RUBRIQUES){lang}{racine}>
+<BOUCLE_menuartbas(ARTICLES){id_rubrique}{par num titre}{lang}>
+                                <li class="[(#ID_ARTICLE|choixsiegal{#GET{article_global},hover, no})]"><a href="#URL_ARTICLE">#TITRE</a></li>
+</BOUCLE_menuartbas>
+</BOUCLE_menurubbas>
+	</ul>
+</div>
+<div class="copyright"><a href="http://realestatecaretaking.com/spip.php?<multi>[en]article1[fr]article3</multi>&cimobile=bberry"><multi>[en]Mobile and tablet version[fr]Version mobile et tablette</multi></a><br/>
+ © COPYRIGHT Real Estate Caretaking - <a class="simple" href="spip.php?article27">Mentions légales</a></div>
+</div>
+</div>
+
+
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+</body>
+</html>

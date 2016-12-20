@@ -1,0 +1,77 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+<THELIA SI CONNECTE>
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<h2>Contenu de mon panier</h2>
+			<T_CONTENU_PANIER>
+			<table width="100%" border="0" cellpadding="3" cellspacing="0">
+                <tr>
+                    <th colspan="2">::intitulefacture::</th>
+					<th align="center">Total</th>
+					<th align="center">Vider</th>
+                </tr>
+				<THELIA_CONTENU_PANIER type="PANIER">
+				<tr>
+                  <td colspan="2" class="ligne">#TITRE </td>
+				  <td align="center" class="ligne">#TOTAL &euro;</td>
+				  <td class="ligne" align="center"><a href="#SUPPRURL">Supprimer</a></td>
+				</tr>
+                </THELIA_CONTENU_PANIER>
+                <tr>
+                	<th colspan="2">&nbsp;</th>
+					<th class="soustitre" style="font-size: 13px" align="right">TOTAL DU PANIER :</th>
+					<th class="soustitre" style="font-size: 13px" align="center" class="total">#PANIER_TOTAL&euro;</th>
+				</tr>
+			</table>
+            <div class="queFaire"><br/>
+				<a class="bouton" href="index.php"><span><span>Retour &agrave; la boutique</span></span></a>
+				<a class="bouton" href="commande.php?action=transport&amp;id=1"><span><span>Finaliser ma commande</span></span></a>
+			</div>
+			</T_CONTENU_PANIER>
+			<h4>Votre panier est vide</h4>
+            <div class="queFaire">
+				<a class="bouton" href="index.php"><span><span>Retour &agrave; la boutique</span></span></a>
+			</div>		
+			<//T_CONTENU_PANIER>
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>	
+
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"
+
+
+
+			
+			
+		

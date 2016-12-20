@@ -1,0 +1,79 @@
+/* 
+ * Copyright (c) 2007 Copyright (c) Octolys Development
+ * Ce template a été réalisé par http://www.scopika.com & http://www.fredodo.com
+ * Il est soumis à la licence GPL
+ */
+
+/* Ce fichier définit le style visuel pour les différents éléments des pages.
+ * Dans l'ordre, vous trouverez les règles qui définissent l'apparence pour:
+ * - Eléments HTML en général
+ * - Page
+ * - Entête
+ * - Chemin
+ * - Produit petit & grand
+ * - Pied de page
+ * - Menu général
+ * - Signature
+ * - Nombre de pages
+ * - les styles particuliers pour les pages intérieures
+ */
+
+
+/* Eléments HTML en général
+-------------------------------------------------------- */
+
+
+/* Personnalisation du zoom de la fiche produit (produit.html)
+-------------------------------------------------------- */
+
+#superbox-overlay {
+	width: 100%;
+	overflow: visible;
+	position: relative;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	background:#000;
+}
+
+#superbox-container .loading {
+	width:32px;
+	height:32px;
+	text-indent:-9999px;
+	background-image:url(_gfx/loader.gif);
+	background-position:center 0;
+	background-repeat:no-repeat;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	width: 100%;
+}
+
+#superbox .close a {
+	float:right;
+	padding:0 5px;
+	line-height:20px;
+	color:#fff;
+	background:#BB7700;
+	cursor:pointer;
+}
+
+#superbox .nextprev a {
+	float:left;
+	margin-right:5px;
+	padding:0 5px;
+	line-height:20px;
+	background:#BB7700;
+	cursor:pointer;
+	color:#fff;
+}
+
+#superbox .nextprev .disabled {
+	background:#ccc;
+	cursor:default;
+}
+
+#superbox .close a:hover {
+	color:#fff;
+	background:#BB7700;
+	text-decoration:none;
+}

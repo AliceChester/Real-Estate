@@ -1,0 +1,9 @@
+May 12 01:56:01 208.167.230.19 (pid 5191) MySQL server has gone away - query inconnue
+[-- rotate --]
+May 12 01:58:59 208.167.230.19 (pid 6013) Erreur 2006 de mysql: MySQL server has gone away
+
+SELECT rubriques.id_rubrique, rubriques.lang, rubriques.titre
+FROM `realestaspip`.spip_rubriques AS `rubriques`
+WHERE (rubriques.statut = 'publie')
+	AND (rubriques.lang = 'fr')
+	AND (rubriques.id_parent = 0)

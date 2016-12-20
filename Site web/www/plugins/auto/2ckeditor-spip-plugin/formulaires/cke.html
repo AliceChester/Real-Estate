@@ -1,0 +1,68 @@
+<!-- titre=Configuration de CKEDITOR  -->
+<!-- nom=ckeditor -->
+<!-- depot=metapack -->
+#CACHE{0}
+[<p class="formulaire_erreur">(#ENV*{message_erreur})</p>]
+[<p class="formulaire_message">(#ENV*{message_ok})</p>]
+<form method="post" action="#ENV{action}"><div>
+		#ACTION_FORMULAIRE{#ENV{action}}
+<fieldset>
+	<legend><:ckeditor:configuration_styles:></legend>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="formats"><strong><:ckeditor:formats:></strong></label>
+		<input type="text" name="formats"[ value="(#ENV{formats})"] style="width:100%;"/>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_formats:>
+		</div>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="styles"><strong><:ckeditor:styles:></strong></label><br/>
+		<blockquote><textarea name="styles" rows="10" cols="50">[(#ENV{styles})]</textarea></blockquote>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_styles:>
+		 </div>
+	</div>
+</fieldset>
+<fieldset>
+	<legend><:ckeditor:configuration_des_couleurs:></legend>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="liste_couleurs"><strong><:ckeditor:listes_des_couleurs_presentees:></strong></label><br/>
+		<blockquote><textarea name="liste_couleurs" rows="4" cols="50">[(#ENV{liste_couleurs})]</textarea></blockquote>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_couleurs:>
+		</div>
+		<input name="autres_couleurs" type="checkbox"[ (#ENV{autres_couleurs}|oui)checked]/>
+		<label for="autres_couleurs"><strong><:ckeditor:autoriser_autres_couleurs:></strong></label>
+	</div>
+</fieldset>
+<fieldset>
+	<legend><:ckeditor:configuration_des_polices:></legend>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="webfonts"><strong><:ckeditor:liste_google_webfonts:></strong></label>
+		<input type="text" name="webfonts"[ value="(#ENV{webfonts})"] style="width:100%;"/>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_webfonts:>
+		</div>
+		<input type="checkbox" name="fontkit"[ (#ENV{fontkit}|?{'checked',''})] />
+		<label for="fontkit"><strong><:ckeditor:utilise_fontkit:></strong></label>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_fontkit:>
+		</div>
+		<input type="checkbox" name="insertcsspublic"[ (#ENV{insertcsspublic}|?{'checked',''})] />
+		<label for="insertcsspublic"><strong><:ckeditor:inserer_la_css_public:></strong></label>
+		<br/>
+		<input type="checkbox" name="insertcssprive"[ (#ENV{insertcssprive}|?{'checked',''})] />
+		<label for="insertcssprive"><strong><:ckeditor:inserer_la_css_prive:></strong></label>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:aide_inserer_la_css:>
+		</div>
+
+	</div>
+</fieldset>
+	<div style='margin-bottom:15px;'>
+		<input type="submit" name="_cfg_ok" value="<:ckeditor:ok:>" />
+		<input type="submit" name="_cfg_delete" value="<:ckeditor:supprimer:>" />
+	</div>
+
+
+</div></form>

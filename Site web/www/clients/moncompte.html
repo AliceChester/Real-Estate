@@ -1,0 +1,63 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+<THELIA_CLIENT type="CLIENT" id="#CLIENT_ID">
+<h2>
+#FILTRE_egalite(Mme||#CLIENT_RAISON||::chere::)
+#FILTRE_egalite(Mlle||#CLIENT_RAISON||::chere::)
+#FILTRE_egalite(M||#CLIENT_RAISON||::cher::) #CLIENT_RAISON #CLIENT_PRENOM #CLIENT_NOM</h2>
+::bienvenue::<br/>
+</THELIA_CLIENT><br/>
+        <ul>
+<THELIA_PROD type="PRODUIT" >
+	#FILTRE_different(#STOCK||0||#FILTRE_egalite(#CLIENT_REF||#CHAPO||<li><a href="#URL">#TITRE</a></li>))
+</THELIA_PROD>
+
+<THELIA_contassocie type="CONTENU" >
+#FILTRE_egalite(#CLIENT_REF||#CHAPO||<li><a href="#URL">#TITRE</a></li>)
+</THELIA_contassocie> 
+			
+        </ul>
+<br/>
+<h2>::comptedetails::</h2>
+<br/>
+
+		<ul>
+			<li><a href="compte_modifier.php">::informations-perso::</a></li>
+			<li><a href="commande_visualiser.php">::visualiser-commandes::</a></li>
+			<THELIA_CONTENU_PANIER type="PANIER">
+			#FILTRE_different(#QUANTITE||0||<li><a href="panier.php">::monpanier:: : "#QUANTITE"</a></li>)
+			</THELIA_CONTENU_PANIER>
+
+			<li><p><a href="#URLDECONNEXION">::deconnexion::</a></p></li>
+		</ul>
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

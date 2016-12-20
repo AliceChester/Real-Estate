@@ -1,0 +1,213 @@
+Feb 22 01:36:02 92.145.244.183 (pid 5204) calcul (0.160 ms) [../prive/cfg] script=configurer_images, nom=filtres_images, lang=fr, date='2015-02-22 01:36:02', date_default=1, date_redac='2015-02-22 01:36:02', date_redac_default=1 (39 octets)
+Feb 22 01:36:02 92.145.244.183 (pid 5204) calcul (0.165 ms) [../prive/cfg] script=configurer_porte_plume, nom=porte_plume, lang=fr, date='2015-02-22 01:36:02', date_default=1, date_redac='2015-02-22 01:36:02', date_redac_default=1 (39 octets)
+Feb 22 01:36:02 92.145.244.183 (pid 5204) calcul (0.165 ms) [../prive/cfg] script=configurer_safehtml, nom=safehtml, lang=fr, date='2015-02-22 01:36:02', date_default=1, date_redac='2015-02-22 01:36:02', date_redac_default=1 (39 octets)
+Feb 22 01:36:02 92.145.244.183 (pid 5204) calcul (0.157 ms) [../prive/cfg] script=configurer_msie_compat, nom=msie_compat, lang=fr, date='2015-02-22 01:36:02', date_default=1, date_redac='2015-02-22 01:36:02', date_redac_default=1 (39 octets)
+Feb 22 01:36:02 92.145.244.183 (pid 5204) calcul (0.157 ms) [../prive/cfg] script=configurer_vertebres, nom=vertebres, lang=fr, date='2015-02-22 01:36:02', date_default=1, date_redac='2015-02-22 01:36:02', date_redac_default=1 (39 octets)
+Feb 22 01:36:03 92.145.244.183 (pid 5283) spip_register_globals(1)
+Feb 22 01:36:03 92.145.244.183 (pid 5283) cron: debut invalideur
+Feb 22 01:36:03 92.145.244.183 (pid 5283) Taille du CACHE estimee (9): 8.1 Mo
+Feb 22 01:36:03 92.145.244.183 (pid 5283) cron: invalideur (209.198 ms) 1
+Feb 22 01:36:19 92.145.244.183 (pid 5389) spip_register_globals(1)
+Oct 07 13:03:49 80.12.33.17 (pid 9555) spip_register_globals(1)
+Oct 07 13:03:49 80.12.33.17 (pid 9555) renouvellement de l'alea_ephemere
+Oct 07 13:03:49 80.12.33.17 (pid 9555) redirige 302: http://www.realestatecaretaking.com/spip.php?page=login&url=%2Fecrire%2F%3Fexec%3Dforms_reponses%26id_form%3D1
+Oct 19 21:52:09 90.44.229.233 (pid 21769) spip_register_globals(1)
+Oct 19 21:52:09 90.44.229.233 (pid 21769) renouvellement de l'alea_ephemere
+Oct 19 21:52:09 90.44.229.233 (pid 21769) ajoute session ../tmp/sessions/2_d12f3dad03dd76786019a7bf8a78b175.php cookie 86400
+Oct 19 21:52:10 90.44.229.233 (pid 21769) calcul (4.456 ms) [../prive/style_vieilles_def] couleur_claire=C5E41C, couleur_foncee=9DBA00, ltr=left, lang=fr, date='2016-10-19 21:52:10', date_default=1, date_redac='2016-10-19 21:52:10', date_redac_default=1 (2091 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (53.141 ms) [../prive/style_prive_formulaires] couleur_claire=C5E41C, couleur_foncee=9DBA00, ltr=left, lang=fr, date='2016-10-19 21:52:11', date_default=1, date_redac='2016-10-19 21:52:11', date_redac_default=1 (11382 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (3.113 ms) [../plugins/auto/spip-bonux/prive/style_prive_plugin_bonux] couleur_claire=C5E41C, couleur_foncee=9DBA00, ltr=left, lang=fr, date='2016-10-19 21:52:11', date_default=1, date_redac='2016-10-19 21:52:11', date_redac_default=1 (2972 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (0.168 ms) [../plugins/auto/spip-bonux/prive/style_prive_plugin_bonux_recherche] couleur_claire=C5E41C, couleur_foncee=9DBA00, ltr=left, lang=fr, date='2016-10-19 21:52:11', date_default=1, date_redac='2016-10-19 21:52:11', date_redac_default=1 (445 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (68.715 ms) [../plugins/auto/spip-bonux/style_prive_plugins] couleur_claire=C5E41C, couleur_foncee=9DBA00, ltr=left, lang=fr, date='2016-10-19 21:52:11', date_default=1, date_redac='2016-10-19 21:52:11', date_redac_default=1 (7603 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (350.147 ms) [../prive/style_prive] ltr=left, couleur_claire=C5E41C, couleur_foncee=9DBA00, v=15375, p=16db, lang=fr, date='2016-10-19 21:52:10', date_default=1, date_redac='2016-10-19 21:52:10', date_redac_default=1 (74260 octets)
+Oct 19 21:52:11 90.44.229.233 (pid 21769) calcul (36.200 ms) [../extensions/porte_plume/barre_outils_icones.css] lang=fr, date='2016-10-19 21:52:11', date_default=1, date_redac='2016-10-19 21:52:11', date_redac_default=1 (5868 octets)
+Oct 19 21:52:12 90.44.229.233 (pid 21769) calcul (16.364 ms) [../extensions/porte_plume/porte_plume_start.js] lang=fr, date='2016-10-19 21:52:12', date_default=1, date_redac='2016-10-19 21:52:12', date_redac_default=1 (13949 octets)
+Oct 19 21:52:12 90.44.229.233 (pid 21769) calcul (18.821 ms) [../plugins/ckeditor-spip-plugin/ckeditor4spip.js] lang=fr, date='2016-10-19 21:52:12', date_default=1, date_redac='2016-10-19 21:52:12', date_redac_default=1 (12499 octets)
+Oct 19 21:52:13 90.44.229.233 (pid 21787) spip_register_globals(1)
+Oct 19 21:52:13 90.44.229.233 (pid 21789) spip_register_globals(1)
+Oct 19 21:52:13 90.44.229.233 (pid 21789) cron: debut invalideur
+Oct 19 21:52:13 90.44.229.233 (pid 21789) Taille du CACHE estimee (8): 7.8 Mo
+Oct 19 21:52:13 90.44.229.233 (pid 21789) cron: invalideur (384.574 ms) 1
+Oct 19 21:53:00 90.44.229.233 (pid 22496) spip_register_globals(1)
+Oct 19 21:53:01 90.44.229.233 (pid 22497) spip_register_globals(1)
+Oct 19 21:53:01 90.44.229.233 (pid 22497) cron: debut maintenance
+Oct 19 21:53:02 90.44.229.233 (pid 22497) cron: maintenance (1 548.375 ms) 1
+Oct 19 21:53:32 90.44.229.233 (pid 23276) spip_register_globals(1)
+Oct 19 21:53:33 90.44.229.233 (pid 23277) spip_register_globals(1)
+Oct 19 21:53:33 90.44.229.233 (pid 23278) spip_register_globals(1)
+Oct 19 21:53:33 90.44.229.233 (pid 23278) cron: debut optimiser
+Oct 19 21:53:33 90.44.229.233 (pid 23278) debut d'optimisation de la table spip_documents_liens
+Oct 19 21:53:33 90.44.229.233 (pid 23278) fin d'optimisation de la table spip_documents_liens
+Oct 19 21:53:33 90.44.229.233 (pid 23278) Optimisation des tables: aucun lien mort
+Oct 19 21:53:33 90.44.229.233 (pid 23278) cron: optimiser (59.989 ms) -1476845662
+Oct 19 21:55:03 90.44.229.233 (pid 25905) spip_register_globals(1)
+Oct 19 21:55:04 90.44.229.233 (pid 26077) spip_register_globals(1)
+Oct 19 21:55:04 90.44.229.233 (pid 26148) spip_register_globals(1)
+Oct 19 21:55:04 90.44.229.233 (pid 26148) cron: debut syndic
+Oct 19 21:55:40 90.44.229.233 (pid 27100) spip_register_globals(1)
+Oct 19 21:55:40 90.44.229.233 (pid 27100) redirige 302: http://www.realestatecaretaking.com/spip.php?page=login&url=%2Fecrire%2F%3Fbonjour%3Doui&var_erreur=cookie
+Oct 19 21:56:03 90.44.229.233 (pid 27693) spip_register_globals(1)
+Oct 19 21:56:04 90.44.229.233 (pid 27703) spip_register_globals(1)
+Oct 19 21:56:04 90.44.229.233 (pid 27707) spip_register_globals(1)
+Oct 19 21:56:04 90.44.229.233 (pid 27707) cron: debut popularites
+Oct 19 21:56:04 90.44.229.233 (pid 27707) Popularite: purger referer depuis 2016-10-16
+Oct 19 21:56:04 90.44.229.233 (pid 27707) cron: popularites (38.763 ms) 1
+Oct 19 22:05:30 90.44.229.233 (pid 9645) spip_register_globals(1)
+Oct 19 22:05:30 90.44.229.233 (pid 9646) spip_register_globals(1)
+Oct 19 22:05:31 90.44.229.233 (pid 9649) spip_register_globals(1)
+Oct 19 22:05:31 90.44.229.233 (pid 9649) cron: debut mise_a_jour
+Oct 19 22:05:31 90.44.229.233 (pid 9649) Recuperer /spip/archives.xml sur files.spip.org:80 par Resource id #64
+Oct 19 22:05:31 90.44.229.233 (pid 9649) Verification version SPIP : 3.1.3
+Oct 19 22:05:31 90.44.229.233 (pid 9649) cron: mise_a_jour (149.953 ms) 1
+Oct 19 22:05:40 90.44.229.233 (pid 9841) spip_register_globals(1)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (1.735 ms) [../prive/cfg] script=configurer_cfg, nom=auto/cfg, lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (39 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (1.486 ms) [../prive/cfg] script=configurer_cimobile, nom=cimobile, lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (39 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (3.019 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1526 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (23.322 ms) [../plugins/ckeditor-spip-plugin/formulaires/cka] taille=500, vignette=200, editmode=ckeditor, skin=kama, spellchecklang=fr_FR, formulaire_args=I9PU+Ktjn45X1554l3JwdzuKteX.., action=/ecrire/?exec=admin_plugin, form=cka, id=new, editable=' ', lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (3002 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.944 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_b] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1668 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.833 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckb] tool_Source=1, tool_SpipSave=1, tool_ZpipPreview=1, tool_Cut=1, tool_Copy=1, tool_Paste=1, tool_PasteText=1, tool_Scayt=1, tool_Undo=1, tool_Redo=1, tool_Find=1, tool_Replace=1, tool_SelectAll=1, tool_RemoveFormat=1, tool_Bold=1, tool_Italic=1, tool_Underline=1, tool_Subscript=1, tool_Superscript=1, tool_BulletedList=1, tool_Outdent=1, tool_Blockquote=1, tool_JustifyLeft=1, tool_JustifyCenter=1, tool_JustifyRight=1, tool_JustifyBlock=1, tool_Spip=1, tool_Link=1, tool_Unlink=1, tool_Image=1, tool_Table=1, tool_HorizontalRule=1, tool_SpecialChar=1, tool_Styles=1, tool_Format=1, tool_Font=1, tool_FontSize=1, tool_TextColor=1, tool_BGColor=1, tool_Maximize=1, tool_ShowBlocks=1, formulaire_args=I9Ne/+tzn0/e3JG8u5MhOX0NilY.., action=/ecrire/?exec=admin_plugin, form=ckb, id=new, editable=' ', lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (2672 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.934 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_c] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1656 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (3.016 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckc] protectedtags=docXX;embXX;imgXX, conversion=partielle, spiplinks=on, insertall=on, crayons=on, forums=on, cisf=on, crayons_tb=Full, forums_tb=Full, cisf_tb=Full, partie_publique=on, class_publique=inserer_barre_edition, publique_tb=Full, partie_prive=on, class_prive=inserer_barre_edition, prive_tb=Full, cktoolslenlarge=490, cktoolslenetroit=430, cklanguage=auto, entermode=ENTER_P, shiftentermode=ENTER_BR, formulaire_args=I9Ne/+tzn0/e3JEuChZS2zDxkK9.., action=/ecrire/?exec=admin_plugin, form=ckc, id=new, editable=' ', lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (13594 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.909 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_d] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1678 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.907 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckd] utilise_upload=on, autorise_parcours=on, autorise_telechargement=on, autorise_mkdir=on, base_dir=IMG/UserFiles, images_dir=Images, images_extensions_autorisees='jpeg; jpg; gif; png', flash_dir=Flash, flash_extensions_autorisees='swf; flv', files_dir=Files, files_extensions_autorisees='txt; csv; pdf', formulaire_args=I9Ne+6tzn0/e/JEUvS5zOUVPAdb.., action=/ecrire/?exec=admin_plugin, form=ckd, id=new, editable=' ', lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (3590 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.814 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_e] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1654 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.953 ms) [../plugins/ckeditor-spip-plugin/formulaires/cke] formats=h2;div;p;br, formatsclass=spip, webfonts='Nobile, Cantarell', insertcsspublic=on, insertcssprive=on, styles='Sous-titre: span { font-fam..', fontsizes=8/8px;9/9px;10/10px;11/11px.., liste_couleurs=#BB7700, autres_couleurs=on, formulaire_args=I9Pe+Ktjn49X157h2hLciQc/48m.., action=/ecrire/?exec=admin_plugin, form=cke, id=new, editable=' ', lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (6199 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.639 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_f] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1583 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.432 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_g] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1570 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (0.415 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_h] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (1474 octets)
+Oct 19 22:05:43 90.44.229.233 (pid 9841) calcul (11.039 ms) [../plugins/auto/crayons/fonds/cfg_crayons] lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (606 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (49.642 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=1, lang=fr, date='2016-10-19 22:05:43', date_default=1, date_redac='2016-10-19 22:05:43', date_redac_default=1 (3452 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (0.853 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=' ', lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (3452 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.406 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] barretypo=on, msgAbandon=on, filet=on, yellow_fade=on, upload=on, editable=' ', formulaire_args=I9Ne/+tzn0/e3JFcpO+bQTTOkK9.., action=/ecrire/?exec=admin_plugin, form=configurer_crayons, id=new, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (3761 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (5.428 ms) [../plugins/auto/forms_et_tables_2_0/fonds/cfg_forms_et_tables] lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (2818 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.397 ms) [../prive/cfg] script=configurer_couteau_suisse, nom=auto/couteau_suisse, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.411 ms) [../prive/cfg] script=configurer_pages, nom=auto/pages, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.275 ms) [../prive/cfg] script=configurer_spip_bonux, nom=auto/spip-bonux, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.441 ms) [../prive/cfg] script=configurer_compresseur, nom=compresseur, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.645 ms) [../prive/cfg] script=configurer_images, nom=filtres_images, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.455 ms) [../prive/cfg] script=configurer_porte_plume, nom=porte_plume, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.553 ms) [../prive/cfg] script=configurer_safehtml, nom=safehtml, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.304 ms) [../prive/cfg] script=configurer_msie_compat, nom=msie_compat, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9841) calcul (1.609 ms) [../prive/cfg] script=configurer_vertebres, nom=vertebres, lang=fr, date='2016-10-19 22:05:44', date_default=1, date_redac='2016-10-19 22:05:44', date_redac_default=1 (39 octets)
+Oct 19 22:05:44 90.44.229.233 (pid 9854) spip_register_globals(1)
+Oct 19 22:05:44 90.44.229.233 (pid 9854) cron: debut visites
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/1e6a0312e5
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/6b442673d3
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/80bbc3c721
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/9f3b9d47e4
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/a8235d5662
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/bbfe2476dc
+Oct 19 22:05:44 90.44.229.233 (pid 9854) traite la session ../tmp/visites/f89ed81ccc
+Oct 19 22:05:44 90.44.229.233 (pid 9854) cron: visites (189.410 ms) 1
+Oct 19 22:06:29 90.44.229.233 (pid 10851) spip_register_globals(1)
+Oct 19 22:06:30 90.44.229.233 (pid 10920) spip_register_globals(1)
+Oct 19 22:06:30 90.44.229.233 (pid 10920) cron: debut syndic
+Oct 19 22:06:47 90.44.229.233 (pid 11119) spip_register_globals(1)
+Oct 19 22:06:47 90.44.229.233 (pid 11119) langues utilisees: en,fr
+Oct 19 22:06:48 90.44.229.233 (pid 11121) spip_register_globals(1)
+Oct 19 22:07:01 90.44.229.233 (pid 11254) spip_register_globals(1)
+Oct 19 22:07:02 90.44.229.233 (pid 11308) spip_register_globals(1)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) spip_register_globals(1)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (2.485 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1526 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (3.927 ms) [../plugins/ckeditor-spip-plugin/formulaires/cka] taille=500, vignette=200, editmode=ckeditor, skin=kama, spellchecklang=fr_FR, formulaire_args=I9PU+Ktjn45X1554l3JwdzuKteX.., action=/ecrire/?exec=cfg, form=cka, id=new, editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (2984 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.287 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_b] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1668 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (2.662 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckb] tool_Source=1, tool_SpipSave=1, tool_ZpipPreview=1, tool_Cut=1, tool_Copy=1, tool_Paste=1, tool_PasteText=1, tool_Scayt=1, tool_Undo=1, tool_Redo=1, tool_Find=1, tool_Replace=1, tool_SelectAll=1, tool_RemoveFormat=1, tool_Bold=1, tool_Italic=1, tool_Underline=1, tool_Subscript=1, tool_Superscript=1, tool_BulletedList=1, tool_Outdent=1, tool_Blockquote=1, tool_JustifyLeft=1, tool_JustifyCenter=1, tool_JustifyRight=1, tool_JustifyBlock=1, tool_Spip=1, tool_Link=1, tool_Unlink=1, tool_Image=1, tool_Table=1, tool_HorizontalRule=1, tool_SpecialChar=1, tool_Styles=1, tool_Format=1, tool_Font=1, tool_FontSize=1, tool_TextColor=1, tool_BGColor=1, tool_Maximize=1, tool_ShowBlocks=1, formulaire_args=I9Ne/+tzn0/e3JG8u5MhOX0NilY.., action=/ecrire/?exec=cfg, form=ckb, id=new, editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (2654 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.282 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_c] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1656 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (8.348 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckc] protectedtags=docXX;embXX;imgXX, conversion=partielle, spiplinks=on, insertall=on, crayons=on, forums=on, cisf=on, crayons_tb=Full, forums_tb=Full, cisf_tb=Full, partie_publique=on, class_publique=inserer_barre_edition, publique_tb=Full, partie_prive=on, class_prive=inserer_barre_edition, prive_tb=Full, cktoolslenlarge=490, cktoolslenetroit=430, cklanguage=auto, entermode=ENTER_P, shiftentermode=ENTER_BR, formulaire_args=I9Ne/+tzn0/e3JEuChZS2zDxkK9.., action=/ecrire/?exec=cfg, form=ckc, id=new, editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (13567 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.281 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_d] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1678 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.880 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckd] utilise_upload=on, autorise_parcours=on, autorise_telechargement=on, autorise_mkdir=on, base_dir=IMG/UserFiles, images_dir=Images, images_extensions_autorisees='jpeg; jpg; gif; png', flash_dir=Flash, flash_extensions_autorisees='swf; flv', files_dir=Files, files_extensions_autorisees='txt; csv; pdf', formulaire_args=I9Ne+6tzn0/e/JEUvS5zOUVPAdb.., action=/ecrire/?exec=cfg, form=ckd, id=new, editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (3572 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.285 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_e] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1654 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (1.039 ms) [../plugins/ckeditor-spip-plugin/formulaires/cke] formats=h2;div;p;br, formatsclass=spip, webfonts='Nobile, Cantarell', insertcsspublic=on, insertcssprive=on, styles='Sous-titre: span { font-fam..', fontsizes=8/8px;9/9px;10/10px;11/11px.., liste_couleurs=#BB7700, autres_couleurs=on, formulaire_args=I9Pe+Ktjn49X157h2hLciQc/48m.., action=/ecrire/?exec=cfg, form=cke, id=new, editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (6181 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (3.259 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_f] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1583 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.398 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_g] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1570 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.357 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_h] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (1474 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.834 ms) [../plugins/auto/crayons/fonds/cfg_crayons] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (606 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (6.911 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=1, lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (3452 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.911 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=' ', lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (3452 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (1.364 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] barretypo=on, msgAbandon=on, filet=on, yellow_fade=on, upload=on, editable=' ', formulaire_args=I9Ne/+tzn0/e3JFcpO+bQTTOkK9.., action=/ecrire/?exec=cfg, form=configurer_crayons, id=new, lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (3743 octets)
+Oct 19 22:07:24 90.44.229.233 (pid 11977) calcul (0.514 ms) [../plugins/auto/forms_et_tables_2_0/fonds/cfg_forms_et_tables] lang=fr, date='2016-10-19 22:07:24', date_default=1, date_redac='2016-10-19 22:07:24', date_redac_default=1 (2809 octets)
+Oct 19 22:07:25 90.44.229.233 (pid 11984) spip_register_globals(1)
+Oct 20 07:52:23 88.141.113.234 (pid 2276) spip_register_globals(1)
+Oct 20 07:52:23 88.141.113.234 (pid 2276) redirige 302: http://www.realestatecaretaking.com/spip.php?page=login&url=%2Fecrire%2F%3Fbonjour%3Doui&var_erreur=cookie
+Oct 20 07:52:37 88.141.113.234 (pid 2617) spip_register_globals(1)
+Oct 20 07:52:38 88.141.113.234 (pid 2624) spip_register_globals(1)
+Oct 20 07:52:39 88.141.113.234 (pid 2625) spip_register_globals(1)
+Oct 20 07:52:39 88.141.113.234 (pid 2625) cron: debut syndic
+Oct 20 07:52:49 88.141.113.234 (pid 2713) spip_register_globals(1)
+Oct 20 07:52:56 88.141.113.234 (pid 2730) spip_register_globals(1)
+Oct 20 07:52:56 88.141.113.234 (pid 2731) spip_register_globals(1)
+Oct 20 07:52:58 88.141.113.234 (pid 2917) spip_register_globals(1)
+Oct 20 07:53:00 88.141.113.234 (pid 2919) spip_register_globals(1)
+Oct 20 07:53:00 88.141.113.234 (pid 2919) cron: debut visites
+Oct 20 07:53:00 88.141.113.234 (pid 2919) traite la session ../tmp/visites/1c956d7251
+Oct 20 07:53:00 88.141.113.234 (pid 2919) traite la session ../tmp/visites/bb50361fd7
+Oct 20 07:53:00 88.141.113.234 (pid 2919) traite la session ../tmp/visites/e29f08a693
+Oct 20 07:53:00 88.141.113.234 (pid 2919) cron: visites (197.220 ms) 1
+Oct 20 07:53:10 88.141.113.234 (pid 3281) spip_register_globals(1)
+Oct 20 07:53:11 88.141.113.234 (pid 3284) spip_register_globals(1)
+Oct 20 07:53:11 88.141.113.234 (pid 3284) cron: debut invalideur
+Oct 20 07:53:11 88.141.113.234 (pid 3284) Taille du CACHE estimee (9): 11.5 Mo
+Oct 20 07:53:11 88.141.113.234 (pid 3284) ../tmp/cache/9/ : 36/36 caches supprimes [taille moyenne 8424.7777777778]
+Oct 20 07:53:11 88.141.113.234 (pid 3284) cache restant estime : 11.2 Mo, ratio 1.12
+Oct 20 07:53:11 88.141.113.234 (pid 3284) cron: invalideur (271.007 ms) 1
+Oct 20 07:53:21 88.141.113.234 (pid 3312) spip_register_globals(1)
+Oct 20 07:53:25 88.141.113.234 (pid 3320) spip_register_globals(1)
+Oct 20 07:53:25 88.141.113.234 (pid 3320) cron: debut maintenance
+Oct 20 07:53:26 88.141.113.234 (pid 3320) cron: maintenance (356.868 ms) 1
+Oct 20 07:53:35 88.141.113.234 (pid 3509) spip_register_globals(1)
+Oct 20 07:53:36 88.141.113.234 (pid 3511) spip_register_globals(1)
+Oct 20 07:53:40 88.141.113.234 (pid 3651) spip_register_globals(1)
+Oct 20 07:53:42 88.141.113.234 (pid 3656) spip_register_globals(1)
+Oct 20 07:53:42 88.141.113.234 (pid 3656) cron: debut popularites
+Oct 20 07:53:42 88.141.113.234 (pid 3656) Popularite: purger referer depuis 2016-10-19
+Oct 20 07:53:42 88.141.113.234 (pid 3656) cron: popularites (53.652 ms) 1
+Oct 20 07:53:56 88.141.113.234 (pid 3831) spip_register_globals(1)
+Oct 20 07:54:01 88.141.113.234 (pid 4079) spip_register_globals(1)
+Oct 20 07:54:06 88.141.113.234 (pid 4458) spip_register_globals(1)
+Oct 20 07:54:13 88.141.113.234 (pid 4486) spip_register_globals(1)
+Oct 20 07:55:03 88.141.113.234 (pid 6289) spip_register_globals(1)
+Oct 20 07:55:04 88.141.113.234 (pid 6373) spip_register_globals(1)
+Oct 20 07:55:56 88.141.113.234 (pid 7223) spip_register_globals(1)
+Oct 20 07:55:58 88.141.113.234 (pid 7300) spip_register_globals(1)
+Oct 20 07:55:59 88.141.113.234 (pid 7306) spip_register_globals(1)
+Oct 20 07:55:59 88.141.113.234 (pid 7307) spip_register_globals(1)
+Oct 20 07:55:59 88.141.113.234 (pid 7306) cron: debut syndic
+Oct 20 07:56:09 88.141.113.234 (pid 7988) spip_register_globals(1)
+Oct 20 07:56:18 88.141.113.234 (pid 8153) spip_register_globals(1)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) spip_register_globals(1)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (19.229 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1526 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (7.054 ms) [../plugins/ckeditor-spip-plugin/formulaires/cka] taille=500, vignette=200, editmode=ckeditor, skin=kama, spellchecklang=fr_FR, formulaire_args=I9PU+Ktjn45X1554l3JwdzuKteX.., action=/ecrire/?exec=cfg, form=cka, id=new, editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (2984 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.943 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_b] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1668 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.778 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckb] tool_Source=1, tool_SpipSave=1, tool_ZpipPreview=1, tool_Cut=1, tool_Copy=1, tool_Paste=1, tool_PasteText=1, tool_Scayt=1, tool_Undo=1, tool_Redo=1, tool_Find=1, tool_Replace=1, tool_SelectAll=1, tool_RemoveFormat=1, tool_Bold=1, tool_Italic=1, tool_Underline=1, tool_Subscript=1, tool_Superscript=1, tool_BulletedList=1, tool_Outdent=1, tool_Blockquote=1, tool_JustifyLeft=1, tool_JustifyCenter=1, tool_JustifyRight=1, tool_JustifyBlock=1, tool_Spip=1, tool_Link=1, tool_Unlink=1, tool_Image=1, tool_Table=1, tool_HorizontalRule=1, tool_SpecialChar=1, tool_Styles=1, tool_Format=1, tool_Font=1, tool_FontSize=1, tool_TextColor=1, tool_BGColor=1, tool_Maximize=1, tool_ShowBlocks=1, formulaire_args=I9Ne/+tzn0/e3JG8u5MhOX0NilY.., action=/ecrire/?exec=cfg, form=ckb, id=new, editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (2654 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.824 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_c] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1656 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (4.314 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckc] protectedtags=docXX;embXX;imgXX, conversion=partielle, spiplinks=on, insertall=on, crayons=on, forums=on, cisf=on, crayons_tb=Full, forums_tb=Full, cisf_tb=Full, partie_publique=on, class_publique=inserer_barre_edition, publique_tb=Full, partie_prive=on, class_prive=inserer_barre_edition, prive_tb=Full, cktoolslenlarge=490, cktoolslenetroit=430, cklanguage=auto, entermode=ENTER_P, shiftentermode=ENTER_BR, formulaire_args=I9Ne/+tzn0/e3JEuChZS2zDxkK9.., action=/ecrire/?exec=cfg, form=ckc, id=new, editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (13567 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.759 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_d] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1678 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.902 ms) [../plugins/ckeditor-spip-plugin/formulaires/ckd] utilise_upload=on, autorise_parcours=on, autorise_telechargement=on, autorise_mkdir=on, base_dir=IMG/UserFiles, images_dir=Images, images_extensions_autorisees='jpeg; jpg; gif; png', flash_dir=Flash, flash_extensions_autorisees='swf; flv', files_dir=Files, files_extensions_autorisees='txt; csv; pdf', formulaire_args=I9Ne+6tzn0/e/JEUvS5zOUVPAdb.., action=/ecrire/?exec=cfg, form=ckd, id=new, editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (3572 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.882 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_e] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1654 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.991 ms) [../plugins/ckeditor-spip-plugin/formulaires/cke] formats=h2;div;p;br, formatsclass=spip, webfonts='Nobile, Cantarell', insertcsspublic=on, insertcssprive=on, styles='Sous-titre: span { font-fam..', fontsizes=8/8px;9/9px;10/10px;11/11px.., liste_couleurs=#BB7700, autres_couleurs=on, formulaire_args=I9Pe+Ktjn49X157h2hLciQc/48m.., action=/ecrire/?exec=cfg, form=cke, id=new, editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (6181 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (3.392 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_f] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1583 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.397 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_g] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1570 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.398 ms) [../plugins/ckeditor-spip-plugin/fonds/cfg_ckeditor_h] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (1474 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (1.363 ms) [../plugins/auto/crayons/fonds/cfg_crayons] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (606 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (23.319 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=1, lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (3452 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (0.843 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] editable=' ', lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (3452 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (1.489 ms) [../plugins/auto/crayons/formulaires/configurer_crayons] barretypo=on, msgAbandon=on, filet=on, yellow_fade=on, upload=on, editable=' ', formulaire_args=I9Ne/+tzn0/e3JFcpO+bQTTOkK9.., action=/ecrire/?exec=cfg, form=configurer_crayons, id=new, lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (3743 octets)
+Oct 20 07:56:46 88.141.113.234 (pid 8550) calcul (5.859 ms) [../plugins/auto/forms_et_tables_2_0/fonds/cfg_forms_et_tables] lang=fr, date='2016-10-20 07:56:46', date_default=1, date_redac='2016-10-20 07:56:46', date_redac_default=1 (2809 octets)
+Oct 20 07:56:47 88.141.113.234 (pid 8555) spip_register_globals(1)
+Oct 20 07:57:34 88.141.113.234 (pid 9389) spip_register_globals(1)
+Oct 20 07:57:34 88.141.113.234 (pid 9490) spip_register_globals(1)
+Oct 20 07:57:34 88.141.113.234 (pid 9493) spip_register_globals(1)
+Oct 20 07:57:34 88.141.113.234 (pid 9490) Recuperer /aide/fr-aide.html sur www.spip.net:80 par Resource id #55
+Oct 20 07:57:34 88.141.113.234 (pid 9493) Recuperer /aide/fr-aide.html sur www.spip.net:80 par Resource id #55
+Oct 20 07:57:34 88.141.113.234 (pid 9490) creation ../tmp/cache/aide/
+Oct 20 17:51:52 88.141.113.234 (pid 18539) spip_register_globals(1)
+Oct 20 17:51:53 88.141.113.234 (pid 18539) renouvellement de l'alea_ephemere
+Oct 20 17:51:53 88.141.113.234 (pid 18539) ajoute session ../tmp/sessions/2_772e606e8334f290097bb52fed705029.php cookie 86400
+Oct 20 17:51:55 88.141.113.234 (pid 18722) spip_register_globals(1)
+Oct 20 17:51:55 88.141.113.234 (pid 18723) spip_register_globals(1)
+Oct 20 18:44:51 88.141.113.234 (pid 5008) spip_register_globals(1)
+Oct 20 18:44:56 88.141.113.234 (pid 5090) spip_register_globals(1)
+Oct 20 18:44:56 88.141.113.234 (pid 5091) spip_register_globals(1)
+Oct 24 08:58:45 157.55.39.19 (pid 27346) spip_register_globals(1)
+Oct 24 08:58:46 157.55.39.19 (pid 27346) renouvellement de l'alea_ephemere
+Oct 24 08:58:46 157.55.39.19 (pid 27346) redirige 302: http://www.realestatecaretaking.com/spip.php?page=login&url=%2Fecrire%2F%3Fbonjour%3Doui&var_erreur=cookie

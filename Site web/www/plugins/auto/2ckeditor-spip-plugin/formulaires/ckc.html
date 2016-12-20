@@ -1,0 +1,115 @@
+<!-- titre=Configuration de CKEDITOR  -->
+<!-- nom=ckeditor -->
+<!-- depot=metapack -->
+#CACHE{0}
+[<p class="formulaire_erreur">(#ENV*{message_erreur})</p>]
+[<p class="formulaire_message">(#ENV*{message_ok})</p>]
+<form method="post" action="#ENV{action}"><div>
+		#ACTION_FORMULAIRE{#ENV{action}}
+<fieldset>
+	<legend><:ckeditor:config_avancee:></legend>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="protectedtags"><strong><:ckeditor:balises_spip_autoriser:></strong></label>
+		<input type="text" name="protectedtags"[ value="(#ENV{protectedtags})"] size="55%"/>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:balises_spip_autoriser_descriptif:>
+		 </div>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label><strong><:ckeditor:options_html2spip:></strong></label><br/>
+<?php
+	include_spip('inc/ckeditor_constantes') ;
+	if (find_in_path('lib/'._CKE_HTML2SPIP_VERSION)) {
+?>
+		<input type="checkbox" name="html2spip"[ (#ENV{html2spip}|?{'checked'})]><:ckeditor:utiliser_html2spip:></input>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:utiliser_html2spip_descriptif:>
+		 </div>
+		<label for="identitytags"><strong><:ckeditor:html2spip_identite:></strong></label>
+		<input type="text" name="html2spip_identite"[ value="(#ENV{html2spip_identite})"] size="55%"/><br/>
+		<input type="checkbox" name="html2spip_limite"[ (#ENV{html2spip_limite}|?{'checked'})]><:ckeditor:html2spip_limite:></input><br/>
+<?php
+	} else {
+?>
+	<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+		<:ckeditor:aide_html2spip_non_trouvee:>
+	</div>
+<?php
+	}
+?>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label><strong><:ckeditor:options_spip:></strong></label><br/>
+		<input type="checkbox" name="spiplinks"[ (#ENV{spiplinks}|?{'checked'})]><:ckeditor:autoriser_liens_spip:></input><br/>
+		<input type="checkbox" name="insertall"[ (#ENV{insertall}|?{'checked'})]><:ckeditor:autoriser_insertion_documents:></input><br/>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+			<strong><:ckeditor:largeur_barre_outils:></strong><br/>
+			<label for='cktoolslenlarge'><:ckeditor:large:></label>
+			<input type="text" name="cktoolslenlarge"[ value="(#ENV{cktoolslenlarge})"] size="5"/><br/>
+			<label for='cktoolslenetroit'><:ckeditor:etroit:></label>
+			<input type="text" name="cktoolslenetroit"[ value="(#ENV{cktoolslenetroit})"] size="5"/><br/>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for='cklanguage'><strong><:ckeditor:langue_ckeditor:></strong></label>
+		<select name='cklanguage'>
+			[(#ENV{cklanguage}|ck_lang_options)]
+		</select>
+	</div>
+	<div style='margin-bottom:5px; clear:both;'>
+		<label for="entermode"><strong><:ckeditor:entermode:></strong></label>
+		<select name="entermode">
+			<option value="ENTER_P"[ (#ENV{entermode}|=={'ENTER_P'}|?{'selected'})]><:ckeditor:enter_p:></option>
+			<option value="ENTER_BR"[ (#ENV{entermode}|=={'ENTER_BR'}|?{'selected'})]><:ckeditor:enter_br:></option>
+			<option value="ENTER_DIV"[ (#ENV{entermode}|=={'ENTER_DIV'}|?{'selected'})]><:ckeditor:enter_div:></option>
+ 		</select>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for="shiftentermode"><strong><:ckeditor:shiftentermode:></strong></label>
+		<select name="shiftentermode">
+			<option value="ENTER_P"[ (#ENV{shiftentermode}|=={'ENTER_P'}|?{'selected'})]><:ckeditor:enter_p:></option>
+			<option value="ENTER_BR"[ (#ENV{shiftentermode}|=={'ENTER_BR'}|?{'selected'})]><:ckeditor:enter_br:></option>
+			<option value="ENTER_DIV"[ (#ENV{shiftentermode}|=={'ENTER_DIV'}|?{'selected'})]><:ckeditor:enter_div:></option>
+		</select>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<ul>
+				<li><:ckeditor:explique_p:></li>
+				<li><:ckeditor:explique_div:></li>
+			</ul>
+		</div>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label><strong><:ckeditor:options_css:></strong></label><br/>
+		<div style='margin-left:15px;'>
+			<label for='sitecss'><strong><:ckeditor:css_site:></strong></label><br/>
+			<input type="text" name="csssite"[ value="(#ENV{csssite})"] size="50" />
+			<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+				<:ckeditor:aide_css_site:>
+			</div>
+		</div>
+		<div style='margin-left:15px;'>
+			<label for='contextes'><strong><:ckeditor:liste_de_contextes:></strong></label><br/>
+			<input type="text" name="contextes"[ value="(#ENV{contextes})"] size="50" /><br/>
+			<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+				<:ckeditor:aide_contextes:>
+			</div>
+		</div>
+	</div>
+	<div style='margin-bottom:15px; clear:both;'>
+		<label for='siteurl'><strong><:ckeditor:url_site:></strong></label><br/>
+		<input type="text" name="siteurl"[ value="(#ENV{siteurl})"] size="50" /><br/>
+		<div style='border:1px solid #555;background-color:#eee;margin:3px 15px 0px 15px;padding:3px;'>
+			<:ckeditor:normalement_detectee:>
+		</div>
+	</div>
+
+</fieldset>
+	<div style='margin-bottom:15px;'>
+		<input type="submit" name="_cfg_ok" value="<:ckeditor:ok:>" />
+		<input type="submit" name="_cfg_delete" value="<:ckeditor:supprimer:>" />
+		<input type="submit" name="_cfg_reinit" value="<:ckeditor:reinitialiser_le_plugin:>" onclick="javascript:return confirm('<:ckeditor:confirme_reinitialiser_plugin:>');"/>
+	</div>
+
+
+</div>
+</form>

@@ -1,0 +1,403 @@
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - 
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Table 'realestaspip.meta' doesn't exist - query inconnue
+Apr 03 19:13:33 81.57.34.8 (pid 22104) Table 'realestaspip.sites' doesn't exist - SHOW CREATE TABLE `sites`
+Apr 03 19:13:37 81.57.34.8 (pid 22141) Table 'realestaspip.sites' doesn't exist - SHOW CREATE TABLE `sites`
+Apr 03 19:17:32 81.57.34.8 (pid 27993) Table 'realestaspip.sites' doesn't exist - SHOW CREATE TABLE `sites`
+Apr 03 19:25:53 81.57.34.8 (pid 6411) Table 'realestaspip.sites' doesn't exist - SHOW CREATE TABLE `sites`
+Apr 03 19:25:57 81.57.34.8 (pid 6501) Table 'realestaspip.sites' doesn't exist - SHOW CREATE TABLE `sites`
+Apr 04 00:45:51 81.57.34.8 (pid 2301) Table 'realestaspip.spip_forms' doesn't exist - SHOW FULL COLUMNS FROM `realestaspip`.spip_forms
+Apr 04 00:51:26 81.57.34.8 (pid 8002) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 04 00:51:26 81.57.34.8 (pid 8002) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 04 00:51:26 81.57.34.8 (pid 8002) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 07 23:56:16 81.57.34.8 (pid 14824) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 07 23:56:16 81.57.34.8 (pid 14824) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 07 23:56:16 81.57.34.8 (pid 14824) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 13 14:55:52 81.57.34.8 (pid 12807) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 13 14:55:52 81.57.34.8 (pid 12807) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 13 19:58:04 81.57.34.8 (pid 17473) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 13 19:58:04 81.57.34.8 (pid 17473) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:29:38 81.57.34.8 (pid 24748) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:29:38 81.57.34.8 (pid 24748) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:29:38 81.57.34.8 (pid 24748) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:30:51 81.57.34.8 (pid 26886) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:30:51 81.57.34.8 (pid 26886) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:30:51 81.57.34.8 (pid 26886) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:35:57 81.57.34.8 (pid 32036) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:35:57 81.57.34.8 (pid 32036) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Apr 15 23:35:57 81.57.34.8 (pid 32036) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+May 05 21:47:55 81.57.34.8 (pid 23261) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+May 05 21:47:55 81.57.34.8 (pid 23261) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+May 06 01:51:24 81.57.34.8 (pid 6260) Duplicate entry 'Services' for key 'PRIMARY' - INSERT INTO spip_urls (url,type,id_objet) VALUES ('Services','article',4)
+May 06 01:53:34 81.57.34.8 (pid 8795) Duplicate entry 'Services' for key 'PRIMARY' - INSERT INTO spip_urls (url,type,id_objet) VALUES ('Services','article',4)
+May 30 16:23:39 81.57.34.8 (pid 9825) Duplicate entry 'Services' for key 'PRIMARY' - INSERT INTO spip_urls (url,type,id_objet) VALUES ('Services','article',7)
+Sep 25 16:02:59 81.57.34.8 (pid 25071) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 16:02:59 81.57.34.8 (pid 25071) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 16:02:59 81.57.34.8 (pid 25071) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:13:15 81.57.34.8 (pid 12042) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:13:15 81.57.34.8 (pid 12042) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:13:16 81.57.34.8 (pid 12042) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:21:24 81.57.34.8 (pid 19992) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:21:25 81.57.34.8 (pid 19992) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 25 23:21:25 81.57.34.8 (pid 19992) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 21:39:06 81.57.34.8 (pid 3220) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 21:39:06 81.57.34.8 (pid 3220) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 23:24:35 81.57.34.8 (pid 5593) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Sep 28 23:24:35 81.57.34.8 (pid 5593) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 23:24:35 81.57.34.8 (pid 5593) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 23:24:35 81.57.34.8 (pid 5593) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 28 23:26:59 81.57.34.8 (pid 7773) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Sep 28 23:26:59 81.57.34.8 (pid 7773) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 29 01:09:41 81.57.34.8 (pid 7223) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Sep 29 01:09:41 81.57.34.8 (pid 7223) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Sep 29 01:09:41 81.57.34.8 (pid 7223) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Sep 29 01:09:41 81.57.34.8 (pid 7223) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:07:56 81.57.34.8 (pid 12402) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:07:56 81.57.34.8 (pid 12402) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:07:56 81.57.34.8 (pid 12402) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:07:56 81.57.34.8 (pid 12402) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:20:22 81.57.34.8 (pid 24828) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:20:22 81.57.34.8 (pid 24828) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:20:22 81.57.34.8 (pid 24828) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:20:22 81.57.34.8 (pid 24828) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:23:23 81.57.34.8 (pid 27127) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:23:23 81.57.34.8 (pid 27127) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:23:23 81.57.34.8 (pid 27127) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:23:23 81.57.34.8 (pid 27127) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:24:31 81.57.34.8 (pid 28300) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:24:31 81.57.34.8 (pid 28300) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:24:31 81.57.34.8 (pid 28300) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:24:31 81.57.34.8 (pid 28300) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:28:13 81.57.34.8 (pid 31920) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:28:13 81.57.34.8 (pid 31920) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:28:13 81.57.34.8 (pid 31920) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:28:13 81.57.34.8 (pid 31920) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:36:00 81.57.34.8 (pid 7032) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:36:00 81.57.34.8 (pid 7032) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:36:00 81.57.34.8 (pid 7032) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:36:00 81.57.34.8 (pid 7032) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:36:57 81.57.34.8 (pid 8071) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:36:57 81.57.34.8 (pid 8071) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:36:57 81.57.34.8 (pid 8071) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:36:57 81.57.34.8 (pid 8071) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:47:15 81.57.34.8 (pid 16092) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:47:15 81.57.34.8 (pid 16092) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 04 23:47:15 81.57.34.8 (pid 16092) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 04 23:47:15 81.57.34.8 (pid 16092) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 05 22:30:21 81.57.34.8 (pid 15608) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 05 22:30:22 81.57.34.8 (pid 15608) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 05 22:30:22 81.57.34.8 (pid 15608) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 05 22:30:22 81.57.34.8 (pid 15608) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 05 22:38:18 81.57.34.8 (pid 23467) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 05 22:38:18 81.57.34.8 (pid 23467) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 05 22:38:18 81.57.34.8 (pid 23467) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 05 22:38:18 81.57.34.8 (pid 23467) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:27:01 81.57.34.8 (pid 19253) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:27:01 81.57.34.8 (pid 19253) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:27:01 81.57.34.8 (pid 19253) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:27:01 81.57.34.8 (pid 19253) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:37:29 81.57.34.8 (pid 27286) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:37:29 81.57.34.8 (pid 27286) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:37:29 81.57.34.8 (pid 27286) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:37:29 81.57.34.8 (pid 27286) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:39:13 81.57.34.8 (pid 28415) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:39:13 81.57.34.8 (pid 28415) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:39:13 81.57.34.8 (pid 28415) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:39:13 81.57.34.8 (pid 28415) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:45:26 81.57.34.8 (pid 1468) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:45:26 81.57.34.8 (pid 1468) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:45:26 81.57.34.8 (pid 1468) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:45:26 81.57.34.8 (pid 1468) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:46:23 81.57.34.8 (pid 2072) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:46:23 81.57.34.8 (pid 2072) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 06 01:46:23 81.57.34.8 (pid 2072) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 06 01:46:23 81.57.34.8 (pid 2072) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 08 17:54:21 81.57.34.8 (pid 25647) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 08 17:54:21 81.57.34.8 (pid 25647) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 08 17:54:21 81.57.34.8 (pid 25647) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 08 17:54:21 81.57.34.8 (pid 25647) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 09 04:32:50 81.57.34.8 (pid 9659) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Oct 09 04:32:51 81.57.34.8 (pid 9659) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 09 04:32:51 81.57.34.8 (pid 9659) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 09 04:32:51 81.57.34.8 (pid 9659) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Oct 09 05:21:19 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='image'
+WHERE mime_type REGEXP '^image/'
+Oct 09 05:21:19 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='image'
+WHERE mime_type REGEXP '^image/'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='audio'
+WHERE mime_type REGEXP '^audio/'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='audio'
+WHERE mime_type REGEXP '^audio/'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type REGEXP '^video/'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type REGEXP '^video/'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type='application/ogg' OR mime_type='application/x-shockwave-flash'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type='application/ogg' OR mime_type='application/x-shockwave-flash'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='image'
+WHERE mime_type='application/illustrator'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='image'
+WHERE mime_type='application/illustrator'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type='application/mp4'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE mime_type='application/mp4'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - 
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE extension REGEXP '^dist_'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Unknown column 'media' in 'field list' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1054 de mysql: Unknown column 'media' in 'field list'
+
+UPDATE `realestaspip`.spip_types_documents
+SET media='video'
+WHERE extension REGEXP '^dist_'
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Duplicate column name 'media' - ALTER TABLE `realestaspip`.spip_types_documents ADD media varchar(10) DEFAULT 'file' NOT NULL
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Duplicate column name 'media' - query inconnue
+Oct 09 05:21:20 81.57.34.8 (pid 19076) Erreur 1060 de mysql: Duplicate column name 'media'
+ALTER TABLE `realestaspip`.spip_types_documents ADD media varchar(10) DEFAULT 'file' NOT NULL
+Oct 09 05:22:40 81.57.34.8 (pid 19898) Duplicate entry 'dist_daily' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_daily','Dailymotion','embed','oui')
+Oct 09 05:22:40 81.57.34.8 (pid 19898) Duplicate entry 'dist_vimeo' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_vimeo','Vimeo','embed','oui')
+Oct 09 05:22:40 81.57.34.8 (pid 19898) Duplicate entry 'dist_youtu' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_youtu','Youtube','embed','oui')
+Oct 09 05:22:40 81.57.34.8 (pid 19898) Duplicate entry 'dist_cubox' for key 'PRIMARY' - INSERT INTO spip_types_documents (extension,titre,inclus,upload) VALUES ('dist_cubox','CultureBox','embed','oui')
+Feb 29 16:33:35 213.215.22.226 (pid 9647) Table 'realestaspip.POUR' doesn't exist - SHOW CREATE TABLE `POUR`
+Feb 29 16:33:35 213.215.22.226 (pid 9647) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Feb 29 16:33:35 213.215.22.226 (pid 9647) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`
+Feb 29 16:33:35 213.215.22.226 (pid 9647) Table 'realestaspip.CONDITION' doesn't exist - SHOW CREATE TABLE `CONDITION`

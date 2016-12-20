@@ -1,0 +1,256 @@
+﻿html, head {
+margin: 0;
+height: 100%;
+width: 100%;
+}
+
+body {
+margin:0px;
+padding:0px;
+font-family: 'Nobile', arial, serif;
+font-size: 12px;
+margin-top: 0;
+height: 100%;
+}
+
+* {
+margin: 0;
+border-collapse: collapse;
+}
+		
+a:link { color: #764B00; text-decoration: underline }
+a:visited { color: #764B00; text-decoration: underline }
+a:hover { color: #BB7700;  text-decoration: underline }		
+
+
+.menu ul li a:link { color: #b3b3b3; text-decoration: none; }
+.menu ul li a:visited { color: #b3b3b3; text-decoration: none; }
+.menu ul li a:hover { color: #BB7700;  text-decoration: none; }	
+
+.menu ul li.hover a:link { color: #BB7700; text-decoration: none; }
+.menu ul li.hover a:visited { color: #BB7700; text-decoration: none; }
+.menu ul li.hover a:hover { color: #BB7700;  text-decoration: none; }
+
+	
+
+img		{
+		border: none;
+		}
+
+.logo {
+position: relative;
+float: left;
+width: 300px;
+z-index: 3;
+top: 8px;
+left: 14px;
+}
+
+.menu-top {
+float: right;
+width: auto;
+position: relative;
+top: 23px;
+z-index: 5;
+left: -12px;
+text-transform: uppercase; 
+
+}
+
+.menu-bas{
+
+
+position: relative;
+float: left;
+text-align: center;
+width: 100%;
+z-index: 5;
+text-transform: uppercase; 
+
+padding-bottom: 3px;
+}
+
+.menu li {
+	font-weight: bold;
+	color: #CCCCCC;
+    display: inline;
+    font-family: Cantarell;
+    padding-left: 5px;
+	font-size: 12px;
+}
+
+
+
+.menu ul{
+margin: 0;
+padding: 0;
+}
+
+#globbing {
+
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  width: 1020px;
+}
+
+
+#back-line {
+background-image: url("IMG/back-line3.jpg");
+    background-repeat: repeat-x;
+    height: 61px;
+	position: absolute;
+	top: 50%;
+	margin-top: -66px;
+    width: 100%;
+}
+
+
+		
+#background {
+background-image: url("IMG/fonds/background-accueil.png");
+width: 1017px;
+height: 467px;
+z-index: 1;
+position: relative;
+
+float: right;
+}
+
+.surfacetxt {
+background-color: #FFFFFF;
+height: 345px;
+width: 	512px;
+position: relative;
+top: 110px;
+left: -85px;
+text-align: justify;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2 {
+font-style: italic;
+color: #bb7700;
+font-size: 19px;
+font-family: Georgia;
+margin-bottom:0;
+font-weight: normal;
+}
+
+.soustitre, .intertitre {
+font-family: cantarell;
+color: rgb(187, 119, 0);
+font-size: 16px;
+}
+
+.copyright {
+float: left;
+position: relative;
+text-align: center;
+width: 100%;
+font-size: 10px;
+z-index: 15;
+font-family: Cantarell;
+}
+
+b, .texte_en_gras {
+color: #764b00;
+font-weight: normal;
+}
+
+
+
+p {
+padding: 0;
+}
+
+li {
+ list-style-image : url(IMG/li.jpg);
+}
+
+ul {
+padding-left: 40px;
+}
+
+.spip_forms {
+border: 0;
+font-family: 'Nobile', arial, serif;
+}
+
+.spip_form_ok { 
+background: none;
+color: #BB7700;
+}
+
+
+li {
+text-align: left;
+}
+
+#formulaire_login ul li.obligatoire {
+color: #000;
+}
+
+#formulaire_login ul li label {
+display: block;
+padding-top: 2px;
+}
+
+#formulaire_login ul li .choix label { display: inline;}
+#formulaire_login ul li .choix { padding-top: 4px;}
+.accès {
+position: absolute;
+left: 10px;
+top: 10px;
+}
+
+fieldset {
+    border-color: #CC9966 #8F8181 #8F8181 #CC9966;
+    border-style: dashed none none solid;
+    border-width: 1px 1px 1px 6px;
+    margin: 0.5em 0;
+    padding: 0.4em 0.4em 0.4em 1em;
+}
+
+input {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #BB7700;
+	padding: 3px;
+	 }
+button {
+    background: none repeat scroll 0 0 #BB7700;
+    border: 1px solid #BB7700;
+    color: #FFFFFF;
+    padding: 3px 5px;
+}
+
+select {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #BB7700;
+    padding: 2px;
+}
+
+a.bouton ul li, a.bouton:hover, a.acheter:hover, a.acheter:visited, a.acheter:link {
+background: none repeat scroll 0 0 #BB7700;
+    border: 1px solid #BB7700;
+    color: #FFFFFF;
+    padding: 3px 5px;
+text-decoration: none;	}
+
+a.bouton:visited{ background: none repeat scroll 0 0 #BB7700; border: 1px solid #BB7700; color: #FFFFFF; padding: 3px 5px; text-decoration: none;	}
+a.bouton:link{ background: none repeat scroll 0 0 #BB7700; border: 1px solid #BB7700; color: #FFFFFF; padding: 3px 5px; text-decoration: none;	}
+
+.queFaire {
+float: right;
+}
+
+th {
+border-bottom: 1px solid #CCC;
+padding: 15px 0px 0px 15px;
+
+}
+
+.obligatoire {
+color: red;
+}

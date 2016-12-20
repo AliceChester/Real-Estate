@@ -1,0 +1,8 @@
+#CACHE{0}
+#HTTP_HEADER{Content-type: text/css}
+<?php
+	include_spip('inc/ckeditor_cfgtools') ;
+	include_spip('inc/ckeditor_tools') ;
+	include_spip('inc/ckeditor_constantes') ;
+	echo parse_spipcss(ckeditor_lire_config('styles', _CKE_STYLES_DEF)) ;
+?>

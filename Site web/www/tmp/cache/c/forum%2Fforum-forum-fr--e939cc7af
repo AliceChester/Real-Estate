@@ -1,0 +1,98 @@
+a:11:{s:5:"texte";s:2595:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<title>Poster un message - Mon site SPIP</title>
+<?php echo recuperer_fond( 'inc-head', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/forum.html','html_b8ab21db19ce6dce0a2477b0866126d5','',5,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<meta name="robots" content="none" />
+</head>
+
+<body class="page_forum">
+<div id="page">
+
+	
+	<?php echo recuperer_fond( 'inc-entete', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/forum.html','html_b8ab21db19ce6dce0a2477b0866126d5','',13,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	
+    <div id="conteneur">
+    <div id="contenu">
+    
+        
+        <div id="hierarchie"><a href="http://realestatecaretaking.com/">Accueil du site</a>
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+            
+            
+            
+    
+            
+    
+            &gt; <strong class="on">Poster un message</strong>
+            
+        </div><!--#hierarchie-->
+
+        <div class="cartouche">
+            <h1>Poster un message</h1>
+        </div>
+
+        <div class="menu articles">
+            <h2>En r&eacute;ponse &agrave;&nbsp;:</h2>
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+        </div>
+
+        
+
+	</div><!--#contenu-->
+	</div><!--#conteneur-->
+
+    
+    <div id="navigation">
+
+        
+        <?php echo recuperer_fond( 'inc-rubriques', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/forum.html','html_b8ab21db19ce6dce0a2477b0866126d5','',114,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('squelettes-dist/forum.html', 'html_b8ab21db19ce6dce0a2477b0866126d5', '', 116, 'fr'));
+if ($lang_select) lang_select();
+?>
+
+    </div><!--#navigation-->
+	
+	
+	<div id="extra">
+	&nbsp;
+	</div><!--#extra-->
+
+	
+	<?php echo recuperer_fond( 'inc-pied', array('skel' => 'squelettes-dist/forum.html',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/forum.html','html_b8ab21db19ce6dce0a2477b0866126d5','',126,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+</div><!--#page-->
+</body>
+</html>
+";s:9:"squelette";s:37:"html_b8ab21db19ce6dce0a2477b0866126d5";s:6:"source";s:26:"squelettes-dist/forum.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"c/forum%2Fforum-forum-fr--e939cc7af";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:5:"forum";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2016-05-03 07:28:42";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-05-03 07:28:42";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1462253322;s:2:"gz";b:0;}

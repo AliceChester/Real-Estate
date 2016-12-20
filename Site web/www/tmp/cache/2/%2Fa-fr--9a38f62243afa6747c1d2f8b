@@ -1,0 +1,329 @@
+a:11:{s:5:"texte";s:16076:"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+
+
+<title>Real Estate Caretaking - Suivi et entretien de votre appartement- Home</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="fr" />
+	<meta name="description" content="Home management, gestion d’appartement parisien : services, visites régulières, entretien et rénovation." />
+	<meta name="keywords" content="Paris, Services, home services, appartement, maison, immobilier, home management, conciergerie, gestion, propriété, propriétés, entretien, Surveillance, Travaux, réparation, Assistance, Entretien, Maintenance, accueil, aide, particulier, location, décoration, entretien, luxe, Real estate, martine, hillion, France" />
+	<meta name="generator" content="Real Estate Caretaking (http://www.realestatecaretaking.com/)" />
+	<meta name="author" content="Martine Hillion"/>
+	<meta name="owner" content="http://www.realestatecaretaking.com/"/>
+	<meta name="robots" content="index, follow, archive" /> 
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta name="google-site-verification" content="mB-opM39Tf7sA5oLGCDU_-Xyvgmf5VO83ysnwFssEOI" />
+
+<link rel="icon" href="IMG/icon.png"/>
+
+<link href="jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script><link rel='stylesheet' type='text/css' media='all' href='extensions/porte_plume/css/barre_outils.css' />
+<link rel='stylesheet' type='text/css' media='all' href='http://www.realestatecaretaking.com/spip.php?page=barre_outils_icones.css' />
+
+<!-- Debut CS -->
+<link rel="stylesheet" href="local/couteau-suisse/header.css" type="text/css" media="all" />
+<!-- Fin CS -->
+
+
+<script src="prive/javascript/jquery.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.cookie.js" type="text/javascript"></script>
+<!-- insert_head --><!--[if lt IE 7]>
+	<script src='extensions/msie_compat/javascript/jquery.ifixpng.js'></script>
+	<script type='text/javascript'>//<![CDATA[
+		jQuery.ifixpng('rien.gif');		
+		function fixie() {
+			jQuery('img').ifixpng();
+		}
+		$(document).ready(function() { fixie(); });
+		onAjaxLoad(fixie);	
+	//]]></script>
+<![endif]-->
+<script type='text/javascript' src='extensions/porte_plume/javascript/xregexp-min.js'></script>
+<script type='text/javascript' src='extensions/porte_plume/javascript/jquery.markitup_pour_spip.js'></script>
+<script type='text/javascript' src='extensions/porte_plume/javascript/jquery.previsu_spip.js'></script>
+<script type='text/javascript' src='http://www.realestatecaretaking.com/spip.php?page=porte_plume_start.js&amp;lang=fr'></script>
+<link rel='stylesheet' href='http://www.realestatecaretaking.com/spip.php?page=forms_styles.css' type='text/css' media='all' />
+
+<!-- Debut CS -->
+<script src="plugins/auto/couteau_suisse/outils/jquery.scrollto.js" type="text/javascript"></script>
+<script src="plugins/auto/couteau_suisse/outils/jquery.localscroll.js" type="text/javascript"></script>
+<script src="local/couteau-suisse/header.js" type="text/javascript"></script>
+<!-- Fin CS -->
+
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Nobile|Cantarell' type='text/css' />
+
+	<script type="text/javascript">
+function initCKEDITOR() { //
+	// la configuration de ckeditor :
+	CKEDITOR.ckeditorpath="http:\/\/www.realestatecaretaking.com\/lib\/ckeditor\/ckeditor.js";
+	CKEDITOR.spipurl="http:\/\/www.realestatecaretaking.com\/spip.php";
+	CKEDITOR.ckpreferedversion='3.6.1';
+	CKEDITOR.ckeditmode='ckeditor';
+	CKEDITOR.cache_redim=false;
+
+	CKEDITOR.ckConfig = {"minwidth":430,"vignette":200,"filebrowserSpipdocBrowseUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=select_documents&type=tout","format_tags":"h2;div;p;br","format_h2":{"element":"h2","attributes":{"class":"spip"}},"format_div":{"element":"div","attributes":{"class":"spip"}},"format_p":{"element":"p","attributes":{"class":"spip"}},"format_br":{"element":"br","attributes":{"class":"spip"}},"toolbar_SpipFull":[["Source"],["SpipSave","ZpipPreview"],["Cut","Copy","Paste","PasteText"],["Scayt"],["Undo","Redo"],["Find","Replace"],"\/",["SelectAll","RemoveFormat"],["Bold","Italic","Underline"],["Subscript","Superscript"],["BulletedList","Outdent","Blockquote"],["JustifyLeft","JustifyCenter","JustifyRight","JustifyBlock"],"\/",["Spip","Link","Unlink"],["Image","Table","HorizontalRule","SpecialChar"],"\/",["Styles","Format","Font","FontSize"],["TextColor","BGColor"],"\/",["Maximize","ShowBlocks"]],"toolbar_SpipBasic":[["Cut","Copy","PasteText","-","Bold","Italic","Underline","-","NumberedList","BulletedList","-","Spip","Link","Unlink","-","About"]],"toolbar":"SpipFull","uiColor":"#eee","language":"fr","contentsCss":["http:\/\/www.realestatecaretaking.com\/prive\/spip_style.css","http:\/\/www.realestatecaretaking.com\/plugins\/ckeditor-spip-plugin\/css\/cked-editor.css","http:\/\/fonts.googleapis.com\/css?family=Nobile|Cantarell"],"font_names":"serif;sans serif;monospace;cursive;fantasy;Nobile;Cantarell","filebrowserBrowseUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=files","filebrowserImageBrowseLinkUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=files","filebrowserImageBrowseUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=images","filebrowserFlashBrowseUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=flash","filebrowserUploadUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=files&mode=direct","filebrowserImageUploadUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=images&mode=direct","filebrowserFlashUploadUrl":"http:\/\/www.realestatecaretaking.com\/spip.php?page=filebrowser&type=flash&mode=direct","filebrowserWindowWidth":682,"filebrowserWindowHeight":500,"extraPlugins":"spipsave,zpippreview,spip","loadExtraPlugins":{"spipsave":"http:\/\/www.realestatecaretaking.com\/plugins\/ckeditor-spip-plugin\/ckeditor-plugin-packed\/spipsave\/","zpippreview":"http:\/\/www.realestatecaretaking.com\/plugins\/ckeditor-spip-plugin\/ckeditor-plugin-packed\/zpippreview\/","spip":"http:\/\/www.realestatecaretaking.com\/plugins\/ckeditor-spip-plugin\/ckeditor-plugin-packed\/spip\/"},"colorButton_colors":"BB7700","height":500,"scayt_autoStartup":false,"scayt_sLang":"fr_FR","resize_enabled":true,"entities":false,"skin":"kama","enterMode":1,"shiftEnterMode":2,"stylesCombo_stylesSet":"spip-styles:http:\/\/www.realestatecaretaking.com\/spip.php?page=spip-styles","removeDialogTabs":"link:advanced","fontSize_sizes":"8\/8px;9\/9px;10\/10px;11\/11px;12\/12px;14\/14px;16\/16px;18\/18px;20\/20px;22\/22px;24\/24px;26\/26px;28\/28px;36\/36px;48\/48px;72\/72px","dialog_startupFocusTab":true,"readOnly":false,"spip_contexte":{"id":null,"type":null},"forceEnterMode":true,"utf8chars":{"subsets":[68,67,69,70,71,74,75,76,77,78,79,80,81,82,83,84,85,86,185,187],"hide_subset_ids":true}};
+
+	
+}
+	</script>
+	<script type="text/javascript" src="http://www.realestatecaretaking.com/lib/ckeditor/ckeditor.js"></script>
+	<script type="text/javascript">CKEDITOR.config.jqueryOverrideVal=true;</script>
+	<script type="text/javascript" src="http://www.realestatecaretaking.com/lib/ckeditor/adapters/jquery.js"></script>
+	<script type="text/javascript" src="http://www.realestatecaretaking.com/spip.php?page=ckeditor4spip.js"></script>
+	<script type="text/javascript">
+function loadCKEditor() {
+	var prefix_id=$(this).attr('id');
+	var ajaxload=[["textarea.crayon-active","Full"],["textarea.inserer_barre_edition","Full"]];
+	if (prefix_id){
+		$.each(ajaxload, function(i){
+			ajaxload[i][2]=prefix_id;
+			ajaxload[i][0]='#'+prefix_id+' '+ajaxload[i][0];
+		});
+	}
+	fullInitCKEDITOR(ajaxload) ;
+}
+$(function(){
+	if(typeof onAjaxLoad == 'function') onAjaxLoad(loadCKEditor);
+	fullInitCKEDITOR([["#formulaire_forum textarea[name=texte]","Full"],["textarea.inserer_barre_edition","Full"]]);
+}) ;
+	</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="scripts/jquery.mousewheel.min.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="style.css" type="text/css" />
+<!--[if lte IE 7]><link rel="stylesheet" href="style_ie7.css" type="text/css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" href="style_ie6.css" type="text/css" /><![endif]-->
+
+<script type="text/javascript">
+$(window).load(function() {
+	mCustomScrollbars();
+});
+
+function mCustomScrollbars(){
+	/* 
+	malihu custom scrollbar function parameters: 
+	1) scroll type (values: "vertical" or "horizontal")
+	2) scroll easing amount (0 for no easing) 
+	3) scroll easing type 
+	4) extra bottom scrolling space for vertical scroll type only (minimum value: 1)
+	5) scrollbar height/width adjustment (values: "auto" or "fixed")
+	6) mouse-wheel support (values: "yes" or "no")
+	7) scrolling via buttons support (values: "yes" or "no")
+	8) buttons scrolling speed (values: 1-20, 1 being the slowest)
+	*/
+	$("#mcs_container").mCustomScrollbar("vertical",300,"easeOutCirc",1.05,"auto","yes","yes",15); 
+}
+
+/* function to fix the -10000 pixel limit of jquery.animate */
+$.fx.prototype.cur = function(){
+    if ( this.elem[this.prop] != null && (!this.elem.style || this.elem.style[this.prop] == null) ) {
+      return this.elem[ this.prop ];
+    }
+    var r = parseFloat( jQuery.css( this.elem, this.prop ) );
+    return typeof r == 'undefined' ? 0 : r;
+}
+
+/* function to load new content dynamically */
+function LoadNewContent(id,file){
+	$("#"+id+" .customScrollBox .content").load(file,function(){
+		mCustomScrollbars();
+	});
+}
+</script>
+<script type="text/javascript" src="scripts/jquery.mCustomScrollbar.js"></script>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://realestatecaretaking.com/piwik/" : "http://realestatecaretaking.com/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://realestatecaretaking.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+
+
+
+
+</head>
+<body>
+
+<h3 style="position: absolute; text-indent: -1000em;">Home management, gestion d’appartement parisien : services, visites régulières, entretien et rénovation. martine, hillion, paris, france,Services de surveillance de vos appartement sur Paris, maisons  maison service. immobilier conciergerie appartement gardiennage Gestion immeuble sécurité agent propriété propriétés entretien garde Surveillance Assistance Entretien Maintenance accueil aide particulier location décoration voyage Entretien Travaux bricolage  luxe, lux ! services servicen... </h3>
+
+
+
+
+<div id="back-line"></div>
+
+
+
+<table width="100%" style="height: 100%; width: 100%; border-collapse: collapse; text-align: center;">
+<tbody>
+<tr>
+<td valign="middle" style="height: 100%; padding: 0; vertical-align: middle;">
+
+<div id="globbing">
+<h2 class="logo"><a href="spip.php?article3 "><img src="IMG/logo3.jpg" alt="Real Estate Caretaking" title="Real Estate Caretaking" /></a></h2>
+<div class="menu menu-top">
+	<ul>
+
+
+
+
+                                <li class="no"><a href="accueil.html">Accueil</a></li>
+
+                                <li class="no"><a href="qui-sommes-nous.html">Qui sommes nous&nbsp;?</a></li>
+
+                                <li class="no"><a href="Services.html">Services</a></li>
+
+                                <li class="no"><a href="Temoignages-liens.html">Témoignages &amp; liens</a></li>
+
+                                <li class="no"><a href="contactez-nous.html">Contactez-nous</a></li>
+
+
+	</ul>
+</div><?php
+include_spip('inc/cookie');
+// Nécessaire pour que la fonction spip_setcookie soit définie :
+// Elle est dans ecire/inc/cookie.php (ligne 21)
+
+$langues = explode(",",$HTTP_ACCEPT_LANGUAGE);
+
+foreach($langues as $langue) {
+	$langue = strtolower(substr(chop($langue),0,2));
+
+	if ($langue == "fr") {
+	spip_setcookie('spip_lang', 'fr');
+
+		header("location:accueil.html");
+		die();
+	} else if ($langue == "en") {
+	spip_setcookie('spip_lang', 'en');
+
+		header("location:home.html");
+		die();
+	}
+	
+//	echo "<li>$langue";
+}
+spip_setcookie('spip_lang', 'fr');
+header("location:home.html");
+
+
+?>
+
+
+
+
+
+<!--on renvoie vers la rubrique secteur de langue choisie en preference par le navigateur -->
+
+
+
+
+<div id="background" onLoad="iPhoneAlert();BlackBerryAlert();MobileAlert();">
+
+<div class="accès">	<a href="http://clients.realestatecaretaking.com/index.php?lang=1"><img class="multi" src="/IMG/acces-client.png" alt="Accès Clients" /></a></div>
+						
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+
+
+<h2>Real Estate Caretaking</h2><br/>
+<div class="ckspip">
+	
+<p align="center" class="spip"><strong style="color: rgb(187, 119, 0);"></strong><br></p>
+
+<p align="center" class="spip"><br></p>
+
+<p align="center" class="spip"><br></p>
+
+<h2 class="spip" style="text-align: center;"><strong style="color: rgb(187, 119, 0);">You want to know that all is in order&nbsp;</strong><strong style="color: rgb(187, 119, 0);">in your apartment in Paris&nbsp;</strong></h2>
+<p style="text-align: center;"><br><strong style="color: rgb(187, 119, 0);"></strong></p>
+
+</div>
+<p class="spip" style="text-align: center;"><strong><span style="color: rgb(187, 119, 0);">You need someone’s assistance.</span></strong><br></p>
+
+<p class="spip" style="text-align: center;"><strong><span style="color: rgb(187, 119, 0);"></span></strong>You need <strong><span style="color: #bb7700">someone reliable.</span></strong><br></p>
+
+<p class="spip" style="text-align: center;"><strong><span style="color: #bb7700"></span></strong>You wish<strong><span style="color: #bb7700"> your home to be ready </span></strong>and cleaned up for your arrival</p>
+
+
+
+
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div></div>
+
+	
+	
+	<div style="position: absolute; right: 13px; top: 11px;">
+<a href="accueil.html" rel="alternate" hreflang="fr"><img src="IMG/gb.gif" alt="Anglais" /></a>
+	</div>
+
+
+	
+	
+</div>
+
+<div id="flooter">
+<div class="menu menu-bas">
+	<ul>
+
+
+                                <li class="no"><a href="accueil.html">Accueil</a></li>
+
+                                <li class="no"><a href="qui-sommes-nous.html">Qui sommes nous&nbsp;?</a></li>
+
+                                <li class="no"><a href="Services.html">Services</a></li>
+
+                                <li class="no"><a href="Temoignages-liens.html">Témoignages &amp; liens</a></li>
+
+                                <li class="no"><a href="contactez-nous.html">Contactez-nous</a></li>
+
+
+	</ul>
+</div>
+<div class="copyright"><a href="http://realestatecaretaking.com/spip.php?article3&cimobile=bberry">Version mobile et tablette</a><br/>
+ © COPYRIGHT Real Estate Caretaking - <a class="simple" href="spip.php?article27">Mentions légales</a></div>
+</div>
+</div>
+
+
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+</body>
+</html>";s:9:"squelette";s:37:"html_be7988d8de6e93f608eeeaffdd33d364";s:6:"source";s:24:"squelettes/sommaire.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"2/%2Fa-fr--9a38f62243afa6747c1d2f8b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2015-10-16 22:34:48";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2015-10-16 22:34:48";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1445027688;s:2:"gz";b:0;}

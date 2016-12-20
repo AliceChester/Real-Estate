@@ -1,0 +1,85 @@
+
+#INCLURE{fond=header, id_article=1}
+
+
+
+<?php
+include_spip('inc/cookie');
+// Nécessaire pour que la fonction spip_setcookie soit définie :
+// Elle est dans ecire/inc/cookie.php (ligne 21)
+
+$langues = explode(",",$HTTP_ACCEPT_LANGUAGE);
+
+foreach($langues as $langue) {
+	$langue = strtolower(substr(chop($langue),0,2));
+
+	if ($langue == "fr") {
+	spip_setcookie('spip_lang', 'fr');
+
+		header("location:#URL_ARTICLE{3}");
+		die();
+	} else if ($langue == "en") {
+	spip_setcookie('spip_lang', 'en');
+
+		header("location:#URL_ARTICLE{1}");
+		die();
+	}
+	
+//	echo "<li>$langue";
+}
+spip_setcookie('spip_lang', 'fr');
+header("location:#URL_ARTICLE{1}");
+
+
+?>
+
+
+
+
+
+<!--on renvoie vers la rubrique secteur de langue choisie en preference par le navigateur -->
+
+
+
+
+<div id="background" onLoad="iPhoneAlert();BlackBerryAlert();MobileAlert();">
+
+<div class="accès">	<multi>[fr]<a href="http://clients.realestatecaretaking.com/index.php?lang=1"><img class="multi" src="/IMG/acces-client.png" alt="Accès Clients" /></a></div>
+						[en]<a href="http://clients.realestatecaretaking.com/index.php?lang=2"><img class="multi" src="/IMG/client-access.png" alt="Client Access" /></a></multi>
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+
+<BOUCLE_texte(ARTICLES){id_article=1}>
+<h2>Real Estate Caretaking</h2><br/>
+#TEXTE
+
+
+</BOUCLE_texte>
+
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div></div>
+
+	<BOUCLE_tradarticle(ARTICLES){id_article=1}>
+	<BOUCLE_traductionss(ARTICLES){traduction}{exclus}>
+	<div style="position: absolute; right: 13px; top: 11px;">
+<a href="#URL_ARTICLE" rel="alternate" hreflang="#LANG"><multi>[en]<img src="IMG/fr.gif" alt="French" /> [fr]<img src="IMG/gb.gif" alt="Anglais" /></multi></a>
+	</div>
+</BOUCLE_traductionss>
+</BOUCLE_tradarticle>
+	
+	
+</div>
+
+#INCLURE{fond=flooter, id_article=1}

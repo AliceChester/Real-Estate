@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+/* some custom fonts via google font api */
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:extralight);
+/* content block 1 */
+#mcs_container{position:relative; height: 315px;width: 482px; padding: 15px;}
+#mcs_container .customScrollBox{position:relative; height:100%; overflow:hidden;}
+#mcs_container .customScrollBox .container{position:relative; width:464px; top:0; float:left;}
+#mcs_container .customScrollBox .content{clear:both;}
+#mcs_container .customScrollBox .content p{margin:10px 0;}
+#mcs_container .customScrollBox .content p.alt{padding:10px 5px; margin:10px 0; color:#fff; font-family:Georgia, "Times New Roman", Times, serif; font-size:17px; line-height:19px; color:#999;}
+#mcs_container .customScrollBox img{border:5px solid #fff;}
+#mcs_container .dragger_container{position:relative; width:2px; height:291px; float:left; margin:14px 0 0 14px; background:#CCC; cursor:pointer -moz-border-radius:2px; cursor:s-resize;}
+#mcs_container .dragger{position:absolute; width:2px; height:60px; background:#c77f00; text-align:center; line-height:60px; color:#666; overflow:hidden; cursor:pointer; }
+#mcs_container .dragger_pressed{position:absolute; width:4px; margin-left:-1px; height:60px; background:#c77f00; text-align:center; line-height:60px; color:#666; overflow:hidden; cursor:s-resize;}
+#mcs_container .scrollUpBtn,#mcs_container .scrollDownBtn{position:absolute; display:inline-block; width:14px; height:15px; margin-right:11px; text-decoration:none; right:0;  }
+#mcs_container .scrollUpBtn{top:16px; background:url(IMG/haut2.jpg) center center no-repeat;}
+#mcs_container .scrollUpBtn:hover{top:16px; background:url(IMG/haut2-hover.jpg) center center no-repeat;}
+#mcs_container .scrollDownBtn{bottom:12px; background:url(IMG/bas2.jpg) center center no-repeat;}
+#mcs_container .scrollDownBtn:hover{bottom:12px; background:url(IMG/bas2-hover.jpg) center center no-repeat;}

@@ -1,0 +1,18 @@
+[(#HTTP_HEADER{Content-type: text/plain[; charset=(#CHARSET)]})]
+#CACHE{0}
+<?php 
+	include_spip("inc/ckeditor_tools") ;
+
+	if ($_POST['text_area'] && $_POST['cvt']) { 
+		switch ($_POST['cvt']) {
+			case 'spip2html':
+				echo ckeditor_spip2html($_POST['text_area']) ;
+				break ;
+			case 'html2spip':
+				echo ckeditor_html2spip($_POST['text_area']) ;
+				break ;
+			default:
+				echo _T('ckeditor:err_conversion')."\n".$_POST['text_area'] ;
+		}
+	}
+?>

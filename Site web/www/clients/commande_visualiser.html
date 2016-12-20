@@ -1,0 +1,98 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+					
+					
+<div class="cartouche">
+
+				<h2 class="h2">Visualiser mes commandes</h2>
+
+			</div>
+
+
+
+			
+
+			<T_cmd>
+
+
+
+			<table id="commande" style="width: 100%;">
+
+
+
+
+
+
+
+			<tbody>
+				<tr style="padding-bottom: 5px;" class="row_first">
+
+						<th style="text-align: left; padding-left: 0;">::intitulefacture::</th>
+
+    					<th style="text-align: center;">Date de paiement</th>
+
+    					<th style="text-align: center;">Montant</th>
+
+   					<th style="text-align: center;">Statut</th>
+
+  				</tr>
+			<THELIA_cmd type="COMMANDE" client="#CLIENT_ID">
+
+				<tr>
+<THELIA_venteprod type="VENTEPROD" commande="#ID">
+    					<td><a href="commande_detail.php?commande=#REF">#REF</a></td>
+</THELIA_venteprod>
+    					<td style="text-align: center;">#DATE</td>
+
+    					<td style="text-align: center;">#TOTCMDPORT&nbsp;&euro;</td>
+
+   					<td style="text-align: center;">#STATUT</td>
+
+  				</tr>
+
+			</THELIA_cmd>
+
+			</tbody>
+
+			</table>
+
+			</T_cmd>
+
+				<p class="spip">Pas de commande</p>
+
+			<//T_cmd>
+
+
+					
+					
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

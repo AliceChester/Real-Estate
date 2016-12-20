@@ -1,0 +1,13 @@
+a:11:{s:5:"texte";s:750:"<div class="formulaire_spip formulaire_menu_lang" id="formulaire_menu_lang">
+	<form method="post" action="http://www.realestatecaretaking.com/spip.php?action=converser&amp;redirect=%2Flib%2Fckeditor%2Ftext%2Fcss"><div>
+		<input name="action" value="converser" type="hidden" />
+<input name="redirect" value="/lib/ckeditor/text/css" type="hidden" />
+		<label for="var_lang">Langues du site</label>
+		<select name="var_lang" id="var_lang" onchange="this.parentNode.parentNode.submit()"><option class='maj-debut' value='en'>English</option>
+<option class='maj-debut' value='fr' selected='selected'>fran&#231;ais</option>
+</select>
+		<noscript><p class="boutons"><input type="submit" class="submit" value="&gt;&gt;" /></p></noscript>
+	</div></form>
+</div>";s:9:"squelette";s:37:"html_8cd070bd2532ece23938dec9302dec97";s:6:"source";s:32:"prive/formulaires/menu_lang.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"3/for-lan-var-lan-htt-%3Co-1bc4573a";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:3600;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:8:{s:3:"nom";s:8:"var_lang";s:3:"url";s:101:"http://www.realestatecaretaking.com/spip.php?action=converser&redirect=%2Flib%2Fckeditor%2Ftext%2Fcss";s:7:"langues";s:134:"<option class='maj-debut' value='en'>English</option>
+<option class='maj-debut' value='fr' selected='selected'>fran&#231;ais</option>
+";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2015-10-24 03:08:44";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2015-10-24 03:08:44";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1445648924;s:2:"gz";b:0;}

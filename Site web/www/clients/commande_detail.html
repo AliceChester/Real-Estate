@@ -1,0 +1,77 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+			<THELIA_cmd type="COMMANDE" ref="#COMMANDE_REF" client="#CLIENT_ID">
+			<h2>D&eacute;tail de la commande N&deg;#REF </h2>
+			<span class="texte_en_gras ">Date :</span> #DATE<br/>
+			<THELIA_verifpay type="COMMANDE" ref="#COMMANDE_REF" >					
+			<span class="texte_en_gras ">Statut :</span> #STATUT<br/><br/>
+			</THELIA_verifpay>
+			
+			<THELIA_des type="VENTEPROD" commande="#ID">
+			<h2>#TITRE</h2>
+			<b>Descriptions</b> : <i>#FILTRE_sanstags(#DESCRIPTION)</i>
+			</THELIA_des><br/><br/>
+
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<th>Produit et r&eacute;f&eacute;rence</th>
+    				<th align="center">Prix unitaire </th>
+   				  <th align="center">Quantit&eacute;</th>
+				  <th align="center">Total</th>
+			  </tr>
+				<THELIA_venteprod type="VENTEPROD" commande="#ID">
+				<tr>
+					<td class="ligne">#TITRE - #REF </td>
+    				<td align="center" class="ligne">#PRIXU</td>
+   				  <td align="center" class="ligne">#QUANTITE</td>
+				  <td align="center" class="ligne">#TOTALPROD</td>
+				</tr>
+				
+				
+				</THELIA_venteprod>
+				
+                <tr>
+					<th colspan="3">Total : </th>
+					<th align="center" class="total">#TOTCMDPORT</th>
+			  </tr>
+			</table>
+
+
+				   
+
+            </THELIA_cmd>
+			<br/>
+			<div class="queFaire">
+				<a class="bouton" href="#URLPREC"><span><span>Page pr&eacute;c&eacute;dente</span></span></a>
+			</div>
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"

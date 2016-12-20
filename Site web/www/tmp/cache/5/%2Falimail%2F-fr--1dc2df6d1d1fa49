@@ -1,0 +1,59 @@
+a:11:{s:5:"texte";s:2072:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<title>Erreur 404 - Mon site SPIP</title>
+<?php echo recuperer_fond( 'inc-head', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/404.html','html_3869e5bf714b77410592a7b645d368b0','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+<meta name="robots" content="none" />
+</head>
+<body class="page_404">
+	<div id="page">
+
+	
+	<?php echo recuperer_fond( 'inc-entete', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/404.html','html_3869e5bf714b77410592a7b645d368b0','',15,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	<div id="conteneur">
+    <div id="contenu">
+
+        
+        <div id="hierarchie"><a href="http://realestatecaretaking.com/">Accueil du site</a> &gt; <strong class="on">Erreur 404</strong></div>
+
+        <div class="cartouche">
+        <h1>Erreur 404</h1>
+        </div>
+        
+
+	</div><!--#contenu-->
+	</div><!--#conteneur-->
+
+    
+    <div id="navigation">
+
+        
+        <?php echo recuperer_fond( 'inc-rubriques', array('lang' => 'fr'), array("compil"=>array('squelettes-dist/404.html','html_3869e5bf714b77410592a7b645d368b0','',35,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+		<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/formulaire_.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_FORMULAIRE__dyn('FORMULAIRE_RECHERCHE', '', ''), array('squelettes-dist/404.html', 'html_3869e5bf714b77410592a7b645d368b0', '', 37, 'fr'));
+if ($lang_select) lang_select();
+?>
+
+    </div><!--#navigation-->
+	
+	
+	<div id="extra">
+	&nbsp;
+	</div><!--#extra-->
+
+	
+	<?php echo recuperer_fond( 'inc-pied', array('skel' => 'squelettes-dist/404.html',
+	'lang' => 'fr'), array("compil"=>array('squelettes-dist/404.html','html_3869e5bf714b77410592a7b645d368b0','',47,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+	</div><!--#page-->
+</body>
+</html>
+";s:9:"squelette";s:37:"html_3869e5bf714b77410592a7b645d368b0";s:6:"source";s:24:"squelettes-dist/404.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"5/%2Falimail%2F-fr--1dc2df6d1d1fa49";}s:7:"entetes";a:3:{s:55:"Http/1.0 404 Not Found"); ?><?php Header("cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:4:{s:4:"date";s:19:"2016-05-01 03:27:56";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2016-05-01 03:27:56";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1462066076;s:2:"gz";b:0;}

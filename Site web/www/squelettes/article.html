@@ -1,0 +1,56 @@
+<BOUCLE_lang(ARTICLES){id_article}>
+#INCLURE{fond=header, id_article, lang}
+</BOUCLE_lang>
+
+
+
+<style rel="stylesheet" type="text/css">
+  <!--
+#background {
+<BOUCLE_chapo(ARTICLES){id_article}>
+[(#SURTITRE|?{background-image: url("IMG/fonds/#SURTITRE");, background-image: url("IMG/fonds/accueil.png");})]
+</BOUCLE_chapo>
+}
+-->
+</style>
+
+<div id="background">
+
+	<div class="accès">	<multi>	[fr]<a href="http://clients.realestatecaretaking.com/index.php?lang=1"><img class="multi" src="/IMG/acces-client.png" alt="Accès Clients" /></a>
+								[en]<a href="http://clients.realestatecaretaking.com/index.php?lang=2"><img class="multi" src="/IMG/client-access.png" alt="Client Access" /></a></multi></div>
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+
+<BOUCLE_texte(ARTICLES){id_article}>
+<div class="#EDIT{texte}">
+#TEXTE
+</div>
+</BOUCLE_texte>
+
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div></div>
+
+	<BOUCLE_tradarticle(ARTICLES){id_article}>
+	<BOUCLE_traductionss(ARTICLES){traduction}{exclus}>
+	<div style="position: absolute; right: 13px; top: 11px;">
+<a href="#URL_ARTICLE?lang=#LANG" rel="alternate" hreflang="#LANG"><multi>[en]<img src="IMG/fr.gif" alt="French" /> [fr]<img src="IMG/gb.gif" alt="Anglais" /></multi></a>
+	</div>
+</BOUCLE_traductionss>
+</BOUCLE_tradarticle>
+	
+	
+</div>
+
+#INCLURE{fond=flooter, id_article}

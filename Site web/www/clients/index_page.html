@@ -1,0 +1,78 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+
+<THELIA SI CONNECTE>
+<script type="text/javascript">
+    window.location = "moncompte.php"
+</script>
+</THELIA SI CONNECTE>
+
+<THELIA SI NON CONNECTE>
+<h2>::interface_clients::</h2>
+#ERRCONNEX[<p><span style="color: red" class="obligatoire">(e-mail ou mot de passe incorrects)</span></p>]
+<table>
+<tbody>
+<tr>
+			<td>
+				<form action="moncompte.php" method="post" name="connexion" id="connexion">
+				
+				<input type="hidden" name="action" value="connexion" />
+				<p>
+				<label for="email">::mon_email::</label>
+            </td>
+			<td>
+				<p>
+				<input name="email" type="text" />
+				</p>
+			</td>
+			<tr>
+			<td>
+				<p>
+				<label for="motdepasse">::mon_mot_de_passe::</label>
+			</td>
+            <td>
+				<input name="motdepasse" type="password"/>
+			</td>
+			</tr><tr>
+			<td>
+				</p><a href="mdpoublie.php">::mot_de_passe_perdu::</a></td>
+			</tr><tr>
+			<td>
+            <p class="derniereLigne"><button type="submit" class="bouton"><span><span>::valider::</span></span></button></p>
+            </td>
+			</form>
+</tr>
+</tbody>
+</table>
+</THELIA SI NON CONNECTE>
+
+
+
+						</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+
+</div>	
+
+				
+				
+
+
+	#INCLURE "pied.html"

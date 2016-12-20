@@ -1,0 +1,502 @@
+Oct 21 01:00:56 207.46.13.24 (pid 5380) spip_register_globals(1)
+Oct 21 01:00:57 207.46.13.24 (pid 5385) spip_register_globals(1)
+Oct 21 01:01:02 207.46.13.215 (pid 5559) spip_register_globals(1)
+Oct 21 01:01:09 207.46.13.24 (pid 5730) spip_register_globals(1)
+Oct 21 01:02:46 207.46.13.24 (pid 6921) spip_register_globals(1)
+Oct 21 01:02:46 207.46.13.24 (pid 6922) spip_register_globals(1)
+Oct 21 01:02:46 207.46.13.24 (pid 6923) spip_register_globals(1)
+Oct 21 01:02:46 207.46.13.24 (pid 6923) calcul (24.221 ms) [plugins/ckeditor-spip-plugin/ckeditor4spip.js] page=ckeditor4spip.js, lang=fr, date='2016-10-21 01:02:46', date_default=1, date_redac='2016-10-21 01:02:46', date_redac_default=1 (12475 octets)
+Oct 21 02:04:38 207.46.13.24 (pid 11915) spip_register_globals(1)
+Oct 21 02:26:23 54.198.17.0 (pid 7859) spip_register_globals(1)
+Oct 21 02:26:23 54.198.17.0 (pid 7860) spip_register_globals(1)
+Oct 21 02:40:34 193.252.118.176 (pid 22024) spip_register_globals(1)
+Oct 21 02:40:36 193.252.118.176 (pid 26600) spip_register_globals(1)
+Oct 21 02:40:37 193.252.118.176 (pid 26600) calcul (252.825 ms) [squelettes/header] id_article=27, lang=fr, date='2016-10-21 02:40:36', date_default=1, date_redac='2016-10-21 02:40:36', date_redac_default=1 (12528 octets)
+Oct 21 02:40:37 193.252.118.176 (pid 26600) Creation du cache 3/header-27-fr--4cb1cddfa710b28f5ca pour 86400 secondes
+Oct 21 02:40:37 193.252.118.176 (pid 26600) calcul (4.153 ms) [squelettes/flooter] id_article=27, lang=fr, date='2016-10-21 02:40:37', date_default=1, date_redac='2016-10-21 02:40:37', date_redac_default=1 (900 octets)
+Oct 21 02:40:37 193.252.118.176 (pid 26600) Creation du cache 9/flooter-27-fr--27174589c2500362f2 pour 86400 secondes
+Oct 21 02:40:37 193.252.118.176 (pid 26600) calcul (361.157 ms) [squelettes/article] lang=fr, id_article=27, date='2016-10-21 02:40:36', date_default=1, date_redac='2016-10-21 02:40:36', date_redac_default=1 (16756 octets)
+Oct 21 02:40:37 193.252.118.176 (pid 26600) Creation du cache 1/%2FMentions-legales-fr--5cdc9d681 pour 86400 secondes
+Oct 21 03:24:01 66.249.79.99 (pid 13695) spip_register_globals(1)
+Oct 21 03:24:01 66.249.79.99 (pid 13695) calcul (64.287 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=1, date='2016-10-21 03:24:01', date_default=1, date_redac='2016-10-21 03:24:01', date_redac_default=1 (14330 octets)
+Oct 21 03:24:01 66.249.79.99 (pid 13695) Creation du cache 8/%2Fhome-fr--0caaecc57b8a23493bfea pour 86400 secondes
+Oct 21 04:22:07 77.75.78.160 (pid 21458) spip_register_globals(1)
+Oct 21 04:22:07 77.75.78.160 (pid 21462) spip_register_globals(1)
+Oct 21 04:22:07 77.75.78.160 (pid 21462) Redirige /spip.php?article3 vers accueil.html
+Oct 21 04:22:07 77.75.78.160 (pid 21462) redirige 302: accueil.html
+Oct 21 07:44:15 188.165.206.188 (pid 3409) spip_register_globals(1)
+Oct 21 07:44:15 188.165.206.188 (pid 3412) spip_register_globals(1)
+Oct 21 10:40:34 178.255.215.77 (pid 19385) spip_register_globals(1)
+Oct 21 10:40:34 178.255.215.77 (pid 19387) spip_register_globals(1)
+Oct 21 10:40:34 178.255.215.77 (pid 19387) Redirige /spip.php?article3 vers accueil.html
+Oct 21 10:40:34 178.255.215.77 (pid 19387) redirige 302: accueil.html
+Oct 21 10:40:39 178.255.215.77 (pid 19579) spip_register_globals(1)
+Oct 21 10:40:39 178.255.215.77 (pid 19579) calcul (180.663 ms) [squelettes/header] id_article=3, lang=fr, date='2016-10-21 10:40:39', date_default=1, date_redac='2016-10-21 10:40:39', date_redac_default=1 (12521 octets)
+Oct 21 10:40:39 178.255.215.77 (pid 19579) Creation du cache c/header-3-fr--7f3a3153bb9b9e9903dc pour 86400 secondes
+Oct 21 10:40:39 178.255.215.77 (pid 19579) calcul (4.150 ms) [squelettes/flooter] id_article=3, lang=fr, date='2016-10-21 10:40:39', date_default=1, date_redac='2016-10-21 10:40:39', date_redac_default=1 (903 octets)
+Oct 21 10:40:39 178.255.215.77 (pid 19579) Creation du cache f/flooter-3-fr--c5117e04876eae0020c pour 86400 secondes
+Oct 21 10:40:39 178.255.215.77 (pid 19579) calcul (270.089 ms) [squelettes/article] lang=fr, id_article=3, date='2016-10-21 10:40:39', date_default=1, date_redac='2016-10-21 10:40:39', date_redac_default=1 (16188 octets)
+Oct 21 10:40:39 178.255.215.77 (pid 19579) Creation du cache 1/%2Faccueil-fr--7bfc4fef717392ae1d pour 86400 secondes
+Oct 21 16:47:05 180.76.15.15 (pid 27644) spip_register_globals(1)
+Oct 21 16:47:06 180.76.15.15 (pid 27644) calcul (210.455 ms) [squelettes/header] id_article=30, lang=fr, date='2016-10-21 16:47:05', date_default=1, date_redac='2016-10-21 16:47:05', date_redac_default=1 (12627 octets)
+Oct 21 16:47:06 180.76.15.15 (pid 27644) Creation du cache 0/header-30-fr--63b1224be741c7751af pour 86400 secondes
+Oct 21 16:47:06 180.76.15.15 (pid 27644) calcul (4.670 ms) [squelettes/flooter] id_article=30, lang=fr, date='2016-10-21 16:47:06', date_default=1, date_redac='2016-10-21 16:47:06', date_redac_default=1 (900 octets)
+Oct 21 16:47:06 180.76.15.15 (pid 27644) Creation du cache 1/flooter-30-fr--9fb46c885a215c9658 pour 86400 secondes
+Oct 21 16:47:06 180.76.15.15 (pid 27644) calcul (331.775 ms) [squelettes/article] lang=fr, id_article=30, date='2016-10-21 16:47:05', date_default=1, date_redac='2016-10-21 16:47:05', date_redac_default=1 (19480 octets)
+Oct 21 16:47:06 180.76.15.15 (pid 27644) Creation du cache 8/%2FNouvel-article-fr--e73a6e2e0ac pour 86400 secondes
+Oct 21 16:48:49 93.158.152.43 (pid 29704) spip_register_globals(1)
+Oct 21 17:30:20 151.80.31.168 (pid 11229) spip_register_globals(1)
+Oct 21 17:30:20 51.255.65.18 (pid 11231) spip_register_globals(1)
+Oct 21 17:30:20 51.255.65.18 (pid 11231) calcul (41.424 ms) [squelettes/header] id_article=28, lang=fr, date='2016-10-21 17:30:20', date_default=1, date_redac='2016-10-21 17:30:20', date_redac_default=1 (12637 octets)
+Oct 21 17:30:20 51.255.65.18 (pid 11231) Creation du cache d/header-28-fr--1a8754817e57e3a6095 pour 86400 secondes
+Oct 21 17:30:20 51.255.65.18 (pid 11231) calcul (4.314 ms) [squelettes/flooter] id_article=28, lang=fr, date='2016-10-21 17:30:20', date_default=1, date_redac='2016-10-21 17:30:20', date_redac_default=1 (900 octets)
+Oct 21 17:30:20 51.255.65.18 (pid 11231) Creation du cache 3/flooter-28-fr--f0e313d05063e4ea5e pour 86400 secondes
+Oct 21 17:30:20 51.255.65.18 (pid 11231) calcul (86.327 ms) [squelettes/article] lang=fr, id_article=28, date='2016-10-21 17:30:20', date_default=1, date_redac='2016-10-21 17:30:20', date_redac_default=1 (15486 octets)
+Oct 21 17:30:20 51.255.65.18 (pid 11231) Creation du cache 8/%2FSu-lor-de-tra-de-fr--371d5625d pour 86400 secondes
+Oct 21 17:38:22 207.46.13.24 (pid 24540) spip_register_globals(1)
+Oct 21 17:45:23 180.76.15.145 (pid 7084) spip_register_globals(1)
+Oct 21 17:45:23 180.76.15.157 (pid 7087) spip_register_globals(1)
+Oct 21 17:45:24 180.76.15.157 (pid 7087) calcul (136.134 ms) [squelettes/header] id_article=1, lang=en, date='2016-10-21 17:45:23', date_default=1, date_redac='2016-10-21 17:45:23', date_redac_default=1 (12264 octets)
+Oct 21 17:45:24 180.76.15.157 (pid 7087) Creation du cache f/header-1-en--7d440edf3d43346f5b3f pour 86400 secondes
+Oct 21 17:45:24 180.76.15.157 (pid 7087) calcul (3.870 ms) [squelettes/flooter] id_article=1, lang=en, date='2016-10-21 17:45:24', date_default=1, date_redac='2016-10-21 17:45:24', date_redac_default=1 (870 octets)
+Oct 21 17:45:24 180.76.15.157 (pid 7087) Creation du cache 9/flooter-1-en--fb65aa9a755a3caff2b pour 86400 secondes
+Oct 21 17:45:24 180.76.15.157 (pid 7087) calcul (226.153 ms) [squelettes/article] lang=en, id_article=1, date='2016-10-21 17:45:23', date_default=1, date_redac='2016-10-21 17:45:23', date_redac_default=1 (15093 octets)
+Oct 21 17:45:24 180.76.15.157 (pid 7087) Creation du cache 4/%2Fhome-en--07faf7853a34d69548738 pour 86400 secondes
+Oct 21 20:08:53 151.80.31.181 (pid 29302) spip_register_globals(1)
+Oct 21 20:08:53 51.255.65.23 (pid 29304) spip_register_globals(1)
+Oct 21 20:08:54 51.255.65.23 (pid 29304) Redirige /spip.php?article23 vers various-household-chores.html
+Oct 21 20:08:54 51.255.65.23 (pid 29304) redirige 302: various-household-chores.html
+Oct 21 20:40:16 180.76.15.30 (pid 17720) spip_register_globals(1)
+Oct 21 20:40:17 180.76.15.30 (pid 17720) Redirige /spip.php?article1 vers home.html
+Oct 21 20:40:17 180.76.15.30 (pid 17720) redirige 302: home.html
+Oct 21 20:40:17 180.76.15.155 (pid 17721) spip_register_globals(1)
+Oct 21 20:40:18 180.76.15.155 (pid 17721) calcul (46.049 ms) [squelettes/article] lang=fr, id_article=1, date='2016-10-21 20:40:17', date_default=1, date_redac='2016-10-21 20:40:17', date_redac_default=1 (15471 octets)
+Oct 21 20:40:18 180.76.15.155 (pid 17721) Creation du cache 3/%2Fhome-fr--faacbe2ec6400d37302be pour 86400 secondes
+Oct 21 22:54:15 77.75.76.167 (pid 2142) spip_register_globals(1)
+Oct 21 22:54:15 77.75.76.167 (pid 2142) calcul (1.032 ms) [squelettes-dist/robots.txt] page=robots.txt, lang=fr, date='2016-10-21 22:54:15', date_default=1, date_redac='2016-10-21 22:54:15', date_redac_default=1 (366 octets)
+Oct 21 22:54:15 77.75.76.167 (pid 2142) Creation du cache 3/rob-rob-fr--fceb7c04d78e852fd8fb7 pour 86400 secondes
+Oct 21 22:54:16 77.75.76.167 (pid 2145) spip_register_globals(1)
+Oct 21 22:54:16 77.75.76.167 (pid 2145) calcul (179.621 ms) [squelettes/header] id_article=19, lang=fr, date='2016-10-21 22:54:16', date_default=1, date_redac='2016-10-21 22:54:16', date_redac_default=1 (12558 octets)
+Oct 21 22:54:16 77.75.76.167 (pid 2145) Creation du cache 4/header-19-fr--5670c4ed91b7f869ada pour 86400 secondes
+Oct 21 22:54:17 77.75.76.167 (pid 2145) calcul (4.308 ms) [squelettes/flooter] id_article=19, lang=fr, date='2016-10-21 22:54:17', date_default=1, date_redac='2016-10-21 22:54:17', date_redac_default=1 (900 octets)
+Oct 21 22:54:17 77.75.76.167 (pid 2145) Creation du cache 8/flooter-19-fr--6af77b0729ac051bc3 pour 86400 secondes
+Oct 21 22:54:17 77.75.76.167 (pid 2145) calcul (242.153 ms) [squelettes/article] lang=fr, id_article=19, date='2016-10-21 22:54:16', date_default=1, date_redac='2016-10-21 22:54:16', date_redac_default=1 (14782 octets)
+Oct 21 22:54:17 77.75.76.167 (pid 2145) Creation du cache 3/%2Fma-and-sui-de-tra-de--c28128d8 pour 86400 secondes
+Oct 22 01:18:50 193.252.118.165 (pid 19162) spip_register_globals(1)
+Oct 22 01:18:50 193.252.118.165 (pid 19162) calcul (162.809 ms) [squelettes/header] id_article=1, lang=fr, date='2016-10-22 01:18:50', date_default=1, date_redac='2016-10-22 01:18:50', date_redac_default=1 (12515 octets)
+Oct 22 01:18:50 193.252.118.165 (pid 19162) Creation du cache b/header-1-fr--c786168b5368c1d8978a pour 86400 secondes
+Oct 22 01:18:51 193.252.118.165 (pid 19162) calcul (13.489 ms) [squelettes/flooter] id_article=1, lang=fr, date='2016-10-22 01:18:50', date_default=1, date_redac='2016-10-22 01:18:50', date_redac_default=1 (900 octets)
+Oct 22 01:18:51 193.252.118.165 (pid 19162) Creation du cache 9/flooter-1-fr--049e908c48b6abc5359 pour 86400 secondes
+Oct 22 01:18:51 193.252.118.165 (pid 19162) calcul (298.194 ms) [squelettes/sommaire] cimobile=web?lang=fr, lang=fr, date='2016-10-22 01:18:50', date_default=1, date_redac='2016-10-22 01:18:50', date_redac_default=1 (15988 octets)
+Oct 22 01:18:51 193.252.118.165 (pid 19162) Creation du cache 8/%2F-web%3Flang%3Dfr-fr--33dd52602 pour 86400 secondes
+Oct 22 01:24:23 164.132.161.6 (pid 28718) spip_register_globals(1)
+Oct 22 01:42:02 207.46.13.24 (pid 20789) spip_register_globals(1)
+Oct 22 03:52:12 173.224.161.129 (pid 24521) spip_register_globals(1)
+Oct 22 03:52:13 173.224.161.129 (pid 24521) calcul (293.637 ms) [squelettes/sommaire] lang=fr, date='2016-10-22 03:52:13', date_default=1, date_redac='2016-10-22 03:52:13', date_redac_default=1 (15988 octets)
+Oct 22 03:52:13 173.224.161.129 (pid 24521) Creation du cache 4/%2F-fr--c5d092f1448d731aefce281e9 pour 86400 secondes
+Oct 22 03:52:13 173.224.161.129 (pid 24521) cron: debut syndic
+Oct 22 03:52:13 173.224.161.129 (pid 24529) spip_register_globals(1)
+Oct 22 03:52:14 173.224.161.129 (pid 24529) calcul (7.477 ms) [squelettes/article] lang=fr, id_article=1, date='2016-10-22 03:52:14', date_default=1, date_redac='2016-10-22 03:52:14', date_redac_default=1 (15383 octets)
+Oct 22 03:52:14 173.224.161.129 (pid 24529) Creation du cache f/%2Fhome-fr--0bfdb7240677756a3a0c2 pour 86400 secondes
+Oct 22 03:52:14 173.224.161.129 (pid 24530) spip_register_globals(1)
+Oct 22 03:52:14 173.224.161.129 (pid 24531) spip_register_globals(1)
+Oct 22 03:52:14 173.224.161.129 (pid 24531) Redirige /spip.php?article3 vers accueil.html
+Oct 22 03:52:14 173.224.161.129 (pid 24531) redirige 302: accueil.html
+Oct 22 03:52:14 173.224.161.129 (pid 24533) spip_register_globals(1)
+Oct 22 03:52:15 173.224.161.129 (pid 24536) spip_register_globals(1)
+Oct 22 03:52:15 173.224.161.129 (pid 24536) calcul (50.957 ms) [squelettes/header] id_article=6, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (12536 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24536) Creation du cache d/header-6-fr--68405794156634e42799 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24536) calcul (4.171 ms) [squelettes/flooter] id_article=6, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (903 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24536) Creation du cache 8/flooter-6-fr--e1a02010c456df54233 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24536) calcul (121.498 ms) [squelettes/article] lang=fr, id_article=6, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (15877 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24536) Creation du cache e/%2Fqui-sommes-nous-fr--6ff1f7ac4a pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24538) spip_register_globals(1)
+Oct 22 03:52:15 173.224.161.129 (pid 24538) calcul (22.781 ms) [squelettes/header] id_article=7, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (12522 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24538) Creation du cache a/header-7-fr--8dc48a923636fa1c1041 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24538) calcul (4.252 ms) [squelettes/flooter] id_article=7, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (903 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24538) Creation du cache 6/flooter-7-fr--ffea5e117cc378d4a03 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24538) calcul (127.101 ms) [squelettes/article] lang=fr, id_article=7, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (15859 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24538) Creation du cache b/%2FServices-fr--6391c899a68ce8efb pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24539) spip_register_globals(1)
+Oct 22 03:52:15 173.224.161.129 (pid 24539) calcul (25.941 ms) [squelettes/header] id_article=29, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (12538 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24539) Creation du cache 8/header-29-fr--755f057003f0d5935a1 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24539) calcul (4.997 ms) [squelettes/flooter] id_article=29, lang=fr, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (903 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24539) Creation du cache 3/flooter-29-fr--109d4cf668b6beea17 pour 86400 secondes
+Oct 22 03:52:15 173.224.161.129 (pid 24539) calcul (77.388 ms) [squelettes/article] lang=fr, id_article=29, date='2016-10-22 03:52:15', date_default=1, date_redac='2016-10-22 03:52:15', date_redac_default=1 (19990 octets)
+Oct 22 03:52:15 173.224.161.129 (pid 24539) Creation du cache a/%2FTemoignages-liens-fr--3c54ea8a pour 86400 secondes
+Oct 22 03:52:16 173.224.161.129 (pid 24541) spip_register_globals(1)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (23.772 ms) [squelettes/header] id_article=8, lang=fr, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (12528 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) Creation du cache 2/header-8-fr--0dae582c6f6b386844a2 pour 86400 secondes
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (112.184 ms) [plugins/auto/forms_et_tables_2_0/modeles/form] id_form=1, id=1, lang=fr, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (381 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (84.773 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms] erreur=a:0:{}, id_form=1, self=contactez-nous.html, valeurs=a:1:{i:0;s:1:"0";}, formvisible=1, formactif=' ', class=formulaires/forms_structure, lang=fr, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (769 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (77.032 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms_structure] id_form=1, erreur=a:0:{}, valeurs=a:1:{i:0;s:1:"0";}, lang=fr, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (5918 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (7.566 ms) [squelettes/flooter] id_article=8, lang=fr, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (903 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) Creation du cache 1/flooter-8-fr--ff9972c2f1ec0223dd7_ pour 86400 secondes
+Oct 22 03:52:16 173.224.161.129 (pid 24541) calcul (540.397 ms) [squelettes/article] lang=fr, id_article=8, date='2016-10-22 03:52:16', date_default=1, date_redac='2016-10-22 03:52:16', date_redac_default=1 (21143 octets)
+Oct 22 03:52:16 173.224.161.129 (pid 24541) Creation du cache 1/%2Fcontactez-nous-fr--927f634cf9b_ pour 86400 secondes
+Oct 22 03:52:16 173.224.161.129 (pid 24541) cron: debut visites
+Oct 22 03:52:16 173.224.161.129 (pid 24541) traite la session tmp/visites/20f80b2d94
+Oct 22 03:52:16 173.224.161.129 (pid 24541) traite la session tmp/visites/239003c923
+Oct 22 03:52:16 173.224.161.129 (pid 24541) traite la session tmp/visites/47a9c46ff1
+Oct 22 03:52:16 173.224.161.129 (pid 24541) traite la session tmp/visites/74aff33bbc
+Oct 22 03:52:16 173.224.161.129 (pid 24541) traite la session tmp/visites/d55edc8143
+Oct 22 03:52:17 173.224.161.129 (pid 24541) cron: visites (506.896 ms) 1
+Oct 22 03:52:17 173.224.161.129 (pid 24561) spip_register_globals(1)
+Oct 22 03:52:17 173.224.161.129 (pid 24563) spip_register_globals(1)
+Oct 22 03:52:17 173.224.161.129 (pid 24563) Redirige /spip.php?article3&cimobile=bberry vers accueil.html?cimobile=bberry
+Oct 22 03:52:17 173.224.161.129 (pid 24563) redirige 302: accueil.html?cimobile=bberry
+Oct 22 03:52:18 173.224.161.129 (pid 24566) spip_register_globals(1)
+Oct 22 03:52:18 173.224.161.129 (pid 24566) calcul (32.179 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=3, lang=fr, date='2016-10-22 03:52:18', date_default=1, date_redac='2016-10-22 03:52:18', date_redac_default=1 (12912 octets)
+Oct 22 03:52:18 173.224.161.129 (pid 24566) Creation du cache a/header-3-fr--9de9521b9961f564e778 pour 86400 secondes
+Oct 22 03:52:18 173.224.161.129 (pid 24566) calcul (73.711 ms) [plugins/cimobile/squel_mobiles/bberry/article] cimobile=bberry, lang=fr, id_article=3, date='2016-10-22 03:52:18', date_default=1, date_redac='2016-10-22 03:52:18', date_redac_default=1 (15132 octets)
+Oct 22 03:52:18 173.224.161.129 (pid 24566) Creation du cache 9/%2Faccueil-bberry-fr--dbf4e5580c8 pour 86400 secondes
+Oct 22 03:52:18 173.224.161.129 (pid 24568) spip_register_globals(1)
+Oct 22 03:52:18 173.224.161.129 (pid 24568) Redirige /spip.php?article27 vers Mentions-legales.html
+Oct 22 03:52:18 173.224.161.129 (pid 24568) redirige 302: Mentions-legales.html
+Oct 22 03:52:18 173.224.161.129 (pid 24569) spip_register_globals(1)
+Oct 22 03:52:18 173.224.161.129 (pid 24569) calcul (48.002 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=27, lang=fr, date='2016-10-22 03:52:18', date_default=1, date_redac='2016-10-22 03:52:18', date_redac_default=1 (12814 octets)
+Oct 22 03:52:18 173.224.161.129 (pid 24569) Creation du cache 2/header-27-fr--72734af4c85521edbd5 pour 86400 secondes
+Oct 22 03:52:18 173.224.161.129 (pid 24569) calcul (69.883 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=27, date='2016-10-22 03:52:18', date_default=1, date_redac='2016-10-22 03:52:18', date_redac_default=1 (15766 octets)
+Oct 22 03:52:18 173.224.161.129 (pid 24569) Creation du cache 5/%2FMentions-legales-fr--cccdd8c99 pour 86400 secondes
+Oct 22 04:45:32 66.249.76.46 (pid 23554) spip_register_globals(1)
+Oct 22 04:45:32 66.249.76.46 (pid 23557) spip_register_globals(1)
+Oct 22 04:45:32 66.249.76.46 (pid 23557) calcul (43.258 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=29, lang=fr, date='2016-10-22 04:45:32', date_default=1, date_redac='2016-10-22 04:45:32', date_redac_default=1 (12939 octets)
+Oct 22 04:45:32 66.249.76.46 (pid 23557) Creation du cache 4/header-29-fr--1e766128948b25ee697 pour 86400 secondes
+Oct 22 04:45:32 66.249.76.46 (pid 23557) calcul (74.347 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=29, date='2016-10-22 04:45:32', date_default=1, date_redac='2016-10-22 04:45:32', date_redac_default=1 (18933 octets)
+Oct 22 04:45:32 66.249.76.46 (pid 23557) Creation du cache 5/%2FTemoignages-liens-fr--bab4f2af pour 86400 secondes
+Oct 22 09:42:55 182.118.22.226 (pid 16537) spip_register_globals(1)
+Oct 22 12:26:00 164.132.161.35 (pid 21249) spip_register_globals(1)
+Oct 22 12:26:01 164.132.161.35 (pid 21249) calcul (89.289 ms) [squelettes/header] id_article=1, lang=en, date='2016-10-22 12:26:01', date_default=1, date_redac='2016-10-22 12:26:01', date_redac_default=1 (12352 octets)
+Oct 22 12:26:01 164.132.161.35 (pid 21249) Creation du cache 3/header-1-en--3799ae6cefeda5e58cf3 pour 86400 secondes
+Oct 22 12:26:01 164.132.161.35 (pid 21249) calcul (5.400 ms) [squelettes/flooter] id_article=1, lang=en, date='2016-10-22 12:26:01', date_default=1, date_redac='2016-10-22 12:26:01', date_redac_default=1 (870 octets)
+Oct 22 12:26:01 164.132.161.35 (pid 21249) Creation du cache e/flooter-1-en--97f1a2e154a8437f828 pour 86400 secondes
+Oct 22 12:26:01 164.132.161.35 (pid 21249) calcul (248.119 ms) [squelettes/article] lang=en, id_article=1, date='2016-10-22 12:26:01', date_default=1, date_redac='2016-10-22 12:26:01', date_redac_default=1 (15181 octets)
+Oct 22 12:26:01 164.132.161.35 (pid 21249) Creation du cache 2/%2Fhome-en--5179538231b470b6c58c5 pour 86400 secondes
+Oct 22 15:25:53 46.4.32.75 (pid 28289) spip_register_globals(1)
+Oct 22 15:25:54 46.4.32.75 (pid 28294) spip_register_globals(1)
+Oct 22 15:25:55 46.4.32.75 (pid 28294) calcul (115.018 ms) [squelettes/sommaire] lang=en, date='2016-10-22 15:25:55', date_default=1, date_redac='2016-10-22 15:25:55', date_redac_default=1 (15694 octets)
+Oct 22 15:25:55 46.4.32.75 (pid 28294) Creation du cache 4/%2F-en--a084152e98afbf6366ca925be pour 86400 secondes
+Oct 22 15:25:56 46.4.32.75 (pid 28301) spip_register_globals(1)
+Oct 23 00:57:40 66.249.66.226 (pid 21524) spip_register_globals(1)
+Oct 23 00:57:41 66.249.66.226 (pid 21524) calcul (96.736 ms) [extensions/porte_plume/barre_outils_icones.css] page=barre_outils_icones.css, lang=fr, date='2016-10-23 00:57:41', date_default=1, date_redac='2016-10-23 00:57:41', date_redac_default=1 (5728 octets)
+Oct 23 00:57:41 66.249.66.226 (pid 21524) Creation du cache b/bar-out-ico-bar-out-ico--a9df9fcc pour 604800 secondes
+Oct 23 01:20:39 52.200.30.172 (pid 19161) spip_register_globals(1)
+Oct 23 01:20:39 52.200.30.172 (pid 19161) cron: debut invalideur
+Oct 23 01:20:39 52.200.30.172 (pid 19161) Taille du CACHE estimee (b): 5.7 Mo
+Oct 23 01:20:39 52.200.30.172 (pid 19161) cron: invalideur (237.713 ms) 1
+Oct 23 01:20:39 52.200.30.172 (pid 19166) spip_register_globals(1)
+Oct 23 05:20:57 46.229.170.197 (pid 2702) spip_register_globals(1)
+Oct 23 05:20:58 46.229.170.197 (pid 2702) calcul (169.765 ms) [squelettes/header] id_article=1, lang=fr, date='2016-10-23 05:20:58', date_default=1, date_redac='2016-10-23 05:20:58', date_redac_default=1 (12515 octets)
+Oct 23 05:20:58 46.229.170.197 (pid 2702) Creation du cache b/header-1-fr--c786168b5368c1d8978a pour 86400 secondes
+Oct 23 05:20:58 46.229.170.197 (pid 2702) calcul (13.651 ms) [squelettes/flooter] id_article=1, lang=fr, date='2016-10-23 05:20:58', date_default=1, date_redac='2016-10-23 05:20:58', date_redac_default=1 (900 octets)
+Oct 23 05:20:58 46.229.170.197 (pid 2702) Creation du cache 9/flooter-1-fr--049e908c48b6abc5359 pour 86400 secondes
+Oct 23 05:20:58 46.229.170.197 (pid 2702) calcul (381.448 ms) [squelettes/sommaire] lang=fr, date='2016-10-23 05:20:58', date_default=1, date_redac='2016-10-23 05:20:58', date_redac_default=1 (15988 octets)
+Oct 23 05:20:58 46.229.170.197 (pid 2702) Creation du cache 4/%2F-fr--c5d092f1448d731aefce281e9 pour 86400 secondes
+Oct 23 05:21:04 46.229.170.197 (pid 3026) spip_register_globals(1)
+Oct 23 05:21:04 46.229.170.197 (pid 3026) calcul (8.873 ms) [squelettes/article] lang=fr, id_article=1, date='2016-10-23 05:21:04', date_default=1, date_redac='2016-10-23 05:21:04', date_redac_default=1 (15383 octets)
+Oct 23 05:21:04 46.229.170.197 (pid 3026) Creation du cache f/%2Fhome-fr--0bfdb7240677756a3a0c2 pour 86400 secondes
+Oct 23 07:57:46 77.75.78.169 (pid 18151) spip_register_globals(1)
+Oct 23 07:57:46 77.75.78.169 (pid 18151) calcul (1.433 ms) [squelettes-dist/robots.txt] page=robots.txt, lang=fr, date='2016-10-23 07:57:46', date_default=1, date_redac='2016-10-23 07:57:46', date_redac_default=1 (366 octets)
+Oct 23 07:57:46 77.75.78.169 (pid 18151) Creation du cache 3/rob-rob-fr--fceb7c04d78e852fd8fb7 pour 86400 secondes
+Oct 23 07:57:47 77.75.78.169 (pid 18155) spip_register_globals(1)
+Oct 23 07:57:47 77.75.78.169 (pid 18155) calcul (63.272 ms) [squelettes-dist/sitemap.xml] page=sitemap.xml, lang=fr, date='2016-10-23 07:57:47', date_default=1, date_redac='2016-10-23 07:57:47', date_redac_default=1 (2206 octets)
+Oct 23 09:22:12 176.9.131.69 (pid 2278) spip_register_globals(1)
+Oct 23 09:22:14 176.9.131.69 (pid 2289) spip_register_globals(1)
+Oct 23 09:22:14 176.9.131.69 (pid 2289) calcul (93.800 ms) [squelettes/header] id_article=6, lang=en, date='2016-10-23 09:22:14', date_default=1, date_redac='2016-10-23 09:22:14', date_redac_default=1 (12274 octets)
+Oct 23 09:22:14 176.9.131.69 (pid 2289) Creation du cache e/header-6-en--62c8730b7763c0956937 pour 86400 secondes
+Oct 23 09:22:14 176.9.131.69 (pid 2289) calcul (5.145 ms) [squelettes/flooter] id_article=6, lang=en, date='2016-10-23 09:22:14', date_default=1, date_redac='2016-10-23 09:22:14', date_redac_default=1 (867 octets)
+Oct 23 09:22:14 176.9.131.69 (pid 2289) Creation du cache e/flooter-6-en--2f9673cc3be6139b9e6 pour 86400 secondes
+Oct 23 09:22:14 176.9.131.69 (pid 2289) calcul (204.273 ms) [squelettes/article] lang=en, id_article=6, date='2016-10-23 09:22:14', date_default=1, date_redac='2016-10-23 09:22:14', date_redac_default=1 (15570 octets)
+Oct 23 09:22:14 176.9.131.69 (pid 2289) Creation du cache 0/%2Fqui-sommes-nous-en--fbeece2138 pour 86400 secondes
+Oct 23 09:22:22 176.9.131.69 (pid 2309) spip_register_globals(1)
+Oct 23 09:22:22 176.9.131.69 (pid 2309) calcul (1.006 ms) [squelettes-dist/robots.txt] page=robots.txt, lang=fr, date='2016-10-23 09:22:22', date_default=1, date_redac='2016-10-23 09:22:22', date_redac_default=1 (366 octets)
+Oct 23 09:22:22 176.9.131.69 (pid 2309) Creation du cache c/rob-rob-fr--c9aa6eb0c35b82528563f pour 86400 secondes
+Oct 23 09:22:24 176.9.131.69 (pid 2310) spip_register_globals(1)
+Oct 23 09:22:24 176.9.131.69 (pid 2310) calcul (25.616 ms) [squelettes/header] id_article=3, lang=fr, date='2016-10-23 09:22:24', date_default=1, date_redac='2016-10-23 09:22:24', date_redac_default=1 (12609 octets)
+Oct 23 09:22:24 176.9.131.69 (pid 2310) Creation du cache c/header-3-fr--4e1b9b1e2bf19cdbfb11 pour 86400 secondes
+Oct 23 09:22:24 176.9.131.69 (pid 2310) calcul (5.052 ms) [squelettes/flooter] id_article=3, lang=fr, date='2016-10-23 09:22:24', date_default=1, date_redac='2016-10-23 09:22:24', date_redac_default=1 (903 octets)
+Oct 23 09:22:24 176.9.131.69 (pid 2310) Creation du cache 9/flooter-3-fr--960be943c9b4f1cb592 pour 86400 secondes
+Oct 23 09:22:24 176.9.131.69 (pid 2310) calcul (93.512 ms) [squelettes/article] lang=fr, id_article=3, date='2016-10-23 09:22:24', date_default=1, date_redac='2016-10-23 09:22:24', date_redac_default=1 (16276 octets)
+Oct 23 09:22:24 176.9.131.69 (pid 2310) Creation du cache d/%2Faccueil-fr--4cc6abeabfc671bf88 pour 86400 secondes
+Oct 23 09:22:26 176.9.131.69 (pid 2320) spip_register_globals(1)
+Oct 23 09:22:26 176.9.131.69 (pid 2320) calcul (43.074 ms) [squelettes/header] id_article=6, lang=fr, date='2016-10-23 09:22:26', date_default=1, date_redac='2016-10-23 09:22:26', date_redac_default=1 (12624 octets)
+Oct 23 09:22:26 176.9.131.69 (pid 2320) Creation du cache d/header-6-fr--8890667dee1d950bc0e8 pour 86400 secondes
+Oct 23 09:22:26 176.9.131.69 (pid 2320) calcul (27.007 ms) [squelettes/flooter] id_article=6, lang=fr, date='2016-10-23 09:22:26', date_default=1, date_redac='2016-10-23 09:22:26', date_redac_default=1 (903 octets)
+Oct 23 09:22:26 176.9.131.69 (pid 2320) Creation du cache 4/flooter-6-fr--59a3641b172b25944c8 pour 86400 secondes
+Oct 23 09:22:26 176.9.131.69 (pid 2320) calcul (131.471 ms) [squelettes/article] lang=fr, id_article=6, date='2016-10-23 09:22:26', date_default=1, date_redac='2016-10-23 09:22:26', date_redac_default=1 (15965 octets)
+Oct 23 09:22:26 176.9.131.69 (pid 2320) Creation du cache 1/%2Fqui-sommes-nous-fr--9b93b5f55d pour 86400 secondes
+Oct 23 10:04:54 192.227.201.58 (pid 23335) spip_register_globals(1)
+Oct 23 10:04:54 192.227.201.58 (pid 23335) calcul (17.048 ms) [squelettes/sommaire] lang=en, date='2016-10-23 10:04:54', date_default=1, date_redac='2016-10-23 10:04:54', date_redac_default=1 (15782 octets)
+Oct 23 10:04:54 192.227.201.58 (pid 23335) Creation du cache d/%2F-en--8b1f45a1afd8f451101f4ec94 pour 86400 secondes
+Oct 23 10:04:55 192.227.201.58 (pid 23346) spip_register_globals(1)
+Oct 23 10:04:56 178.62.7.178 (pid 23414) spip_register_globals(1)
+Oct 23 10:04:56 178.62.7.178 (pid 23414) calcul (42.728 ms) [squelettes/header] id_article=1, lang=fr, date='2016-10-23 10:04:56', date_default=1, date_redac='2016-10-23 10:04:56', date_redac_default=1 (12603 octets)
+Oct 23 10:04:56 178.62.7.178 (pid 23414) Creation du cache 3/header-1-fr--cdd995d23757f86f3b98 pour 86400 secondes
+Oct 23 10:04:56 178.62.7.178 (pid 23414) calcul (4.716 ms) [squelettes/flooter] id_article=1, lang=fr, date='2016-10-23 10:04:56', date_default=1, date_redac='2016-10-23 10:04:56', date_redac_default=1 (900 octets)
+Oct 23 10:04:56 178.62.7.178 (pid 23414) Creation du cache 0/flooter-1-fr--bdf30345402af8abf53 pour 86400 secondes
+Oct 23 10:04:56 178.62.7.178 (pid 23414) calcul (70.620 ms) [squelettes/sommaire] lang=fr, date='2016-10-23 10:04:56', date_default=1, date_redac='2016-10-23 10:04:56', date_redac_default=1 (16076 octets)
+Oct 23 10:04:56 178.62.7.178 (pid 23414) Creation du cache 1/%2F-fr--46307ed73099483db9f6550ae pour 86400 secondes
+Oct 23 10:04:56 178.62.7.178 (pid 23415) spip_register_globals(1)
+Oct 23 10:04:56 178.62.7.178 (pid 23415) calcul (8.857 ms) [squelettes/article] lang=fr, id_article=1, date='2016-10-23 10:04:56', date_default=1, date_redac='2016-10-23 10:04:56', date_redac_default=1 (15471 octets)
+Oct 23 10:04:56 178.62.7.178 (pid 23415) Creation du cache 3/%2Fhome-fr--faacbe2ec6400d37302be pour 86400 secondes
+Oct 23 10:04:58 54.214.193.75 (pid 23420) spip_register_globals(1)
+Oct 23 10:04:58 54.214.193.75 (pid 23420) cron: debut maintenance
+Oct 23 10:04:59 54.214.193.75 (pid 23420) cron: maintenance (984.749 ms) 1
+Oct 23 14:54:29 95.183.52.7 (pid 5174) spip_register_globals(1)
+Oct 23 14:54:29 95.183.52.7 (pid 5174) calcul (40.079 ms) [squelettes/sommaire] lang=fr, date='2016-10-23 14:54:29', date_default=1, date_redac='2016-10-23 14:54:29', date_redac_default=1 (15988 octets)
+Oct 23 14:54:29 95.183.52.7 (pid 5174) Creation du cache 9/%2Fowa-fr--ab775bae509156565f571b pour 86400 secondes
+Oct 23 14:54:29 95.183.52.7 (pid 5177) spip_register_globals(1)
+Oct 23 15:19:21 164.132.161.48 (pid 8389) spip_register_globals(1)
+Oct 23 15:19:21 164.132.161.48 (pid 8389) calcul (42.978 ms) [squelettes/header] id_article=23, lang=fr, date='2016-10-23 15:19:21', date_default=1, date_redac='2016-10-23 15:19:21', date_redac_default=1 (12623 octets)
+Oct 23 15:19:21 164.132.161.48 (pid 8389) Creation du cache 9/header-23-fr--b3886deb8d9faa39322 pour 86400 secondes
+Oct 23 15:19:21 164.132.161.48 (pid 8389) calcul (4.789 ms) [squelettes/flooter] id_article=23, lang=fr, date='2016-10-23 15:19:21', date_default=1, date_redac='2016-10-23 15:19:21', date_redac_default=1 (900 octets)
+Oct 23 15:19:21 164.132.161.48 (pid 8389) Creation du cache 7/flooter-23-fr--a2d5d5f65126514c0b pour 86400 secondes
+Oct 23 15:19:21 164.132.161.48 (pid 8389) calcul (134.237 ms) [squelettes/article] lang=fr, id_article=23, date='2016-10-23 15:19:21', date_default=1, date_redac='2016-10-23 15:19:21', date_redac_default=1 (15113 octets)
+Oct 23 15:19:21 164.132.161.48 (pid 8389) Creation du cache 2/%2Fva-hou-cho-fr--857820ab672f6c4 pour 86400 secondes
+Oct 23 17:07:02 207.46.13.16 (pid 7177) spip_register_globals(1)
+Oct 23 17:21:50 136.243.36.82 (pid 31358) spip_register_globals(1)
+Oct 23 17:21:50 136.243.36.82 (pid 31359) spip_register_globals(1)
+Oct 23 17:21:50 136.243.36.82 (pid 31359) calcul (40.080 ms) [squelettes/header] id_article=22, lang=fr, date='2016-10-23 17:21:50', date_default=1, date_redac='2016-10-23 17:21:50', date_redac_default=1 (12557 octets)
+Oct 23 17:21:50 136.243.36.82 (pid 31359) Creation du cache 4/header-22-fr--935119b4813e839f2c2 pour 86400 secondes
+Oct 23 17:21:50 136.243.36.82 (pid 31359) calcul (4.397 ms) [squelettes/flooter] id_article=22, lang=fr, date='2016-10-23 17:21:50', date_default=1, date_redac='2016-10-23 17:21:50', date_redac_default=1 (900 octets)
+Oct 23 17:21:50 136.243.36.82 (pid 31359) Creation du cache 0/flooter-22-fr--3924a5266c0fb0f0db pour 86400 secondes
+Oct 23 17:21:50 136.243.36.82 (pid 31359) calcul (153.366 ms) [squelettes/article] lang=fr, id_article=22, date='2016-10-23 17:21:50', date_default=1, date_redac='2016-10-23 17:21:50', date_redac_default=1 (15138 octets)
+Oct 23 17:21:50 136.243.36.82 (pid 31359) Creation du cache b/%2FAs-dan-vos-dem-fr--f793f741e03 pour 86400 secondes
+Oct 23 17:21:57 136.243.36.82 (pid 31554) spip_register_globals(1)
+Oct 23 17:21:57 136.243.36.82 (pid 31554) calcul (20.240 ms) [squelettes/header] id_article=20, lang=fr, date='2016-10-23 17:21:57', date_default=1, date_redac='2016-10-23 17:21:57', date_redac_default=1 (12560 octets)
+Oct 23 17:21:57 136.243.36.82 (pid 31554) Creation du cache 3/header-20-fr--3a24ceb9cbd7b94bd85 pour 86400 secondes
+Oct 23 17:21:57 136.243.36.82 (pid 31554) calcul (4.310 ms) [squelettes/flooter] id_article=20, lang=fr, date='2016-10-23 17:21:57', date_default=1, date_redac='2016-10-23 17:21:57', date_redac_default=1 (900 octets)
+Oct 23 17:21:57 136.243.36.82 (pid 31554) Creation du cache 0/flooter-20-fr--c5cecbd8022777486a pour 86400 secondes
+Oct 23 17:21:57 136.243.36.82 (pid 31554) calcul (59.972 ms) [squelettes/article] lang=fr, id_article=20, date='2016-10-23 17:21:57', date_default=1, date_redac='2016-10-23 17:21:57', date_redac_default=1 (14783 octets)
+Oct 23 17:21:57 136.243.36.82 (pid 31554) Creation du cache 5/%2FEn-men-ava-et-apr-fr--31b83477 pour 86400 secondes
+Oct 23 17:22:06 136.243.36.82 (pid 31950) spip_register_globals(1)
+Oct 23 17:22:06 136.243.36.82 (pid 31950) calcul (37.221 ms) [squelettes/header] id_article=7, lang=fr, date='2016-10-23 17:22:06', date_default=1, date_redac='2016-10-23 17:22:06', date_redac_default=1 (12522 octets)
+Oct 23 17:22:06 136.243.36.82 (pid 31950) Creation du cache a/header-7-fr--8dc48a923636fa1c1041 pour 86400 secondes
+Oct 23 17:22:06 136.243.36.82 (pid 31950) calcul (4.611 ms) [squelettes/flooter] id_article=7, lang=fr, date='2016-10-23 17:22:06', date_default=1, date_redac='2016-10-23 17:22:06', date_redac_default=1 (903 octets)
+Oct 23 17:22:06 136.243.36.82 (pid 31950) Creation du cache 6/flooter-7-fr--ffea5e117cc378d4a03 pour 86400 secondes
+Oct 23 17:22:06 136.243.36.82 (pid 31950) calcul (171.366 ms) [squelettes/article] lang=fr, id_article=7, date='2016-10-23 17:22:06', date_default=1, date_redac='2016-10-23 17:22:06', date_redac_default=1 (15859 octets)
+Oct 23 17:22:06 136.243.36.82 (pid 31950) Creation du cache b/%2FServices-fr--6391c899a68ce8efb pour 86400 secondes
+Oct 23 17:22:17 136.243.36.82 (pid 32022) spip_register_globals(1)
+Oct 23 17:22:18 136.243.36.82 (pid 32022) calcul (21.850 ms) [squelettes/header] id_article=28, lang=fr, date='2016-10-23 17:22:18', date_default=1, date_redac='2016-10-23 17:22:18', date_redac_default=1 (12549 octets)
+Oct 23 17:22:18 136.243.36.82 (pid 32022) Creation du cache 1/header-28-fr--0a0a1b205985935bf8f pour 86400 secondes
+Oct 23 17:22:18 136.243.36.82 (pid 32022) calcul (4.500 ms) [squelettes/flooter] id_article=28, lang=fr, date='2016-10-23 17:22:18', date_default=1, date_redac='2016-10-23 17:22:18', date_redac_default=1 (900 octets)
+Oct 23 17:22:18 136.243.36.82 (pid 32022) Creation du cache 3/flooter-28-fr--5870a625048418438c pour 86400 secondes
+Oct 23 17:22:18 136.243.36.82 (pid 32022) calcul (95.113 ms) [squelettes/article] lang=fr, id_article=28, date='2016-10-23 17:22:17', date_default=1, date_redac='2016-10-23 17:22:17', date_redac_default=1 (15398 octets)
+Oct 23 17:22:18 136.243.36.82 (pid 32022) Creation du cache 7/%2FSu-lor-de-tra-de-fr--e52640a48 pour 86400 secondes
+Oct 23 17:22:28 136.243.36.82 (pid 32309) spip_register_globals(1)
+Oct 23 17:22:28 136.243.36.82 (pid 32309) calcul (35.057 ms) [squelettes/header] id_article=3, lang=fr, date='2016-10-23 17:22:28', date_default=1, date_redac='2016-10-23 17:22:28', date_redac_default=1 (12521 octets)
+Oct 23 17:22:28 136.243.36.82 (pid 32309) Creation du cache c/header-3-fr--7f3a3153bb9b9e9903dc pour 86400 secondes
+Oct 23 17:22:28 136.243.36.82 (pid 32309) calcul (6.591 ms) [squelettes/flooter] id_article=3, lang=fr, date='2016-10-23 17:22:28', date_default=1, date_redac='2016-10-23 17:22:28', date_redac_default=1 (903 octets)
+Oct 23 17:22:28 136.243.36.82 (pid 32309) Creation du cache f/flooter-3-fr--c5117e04876eae0020c pour 86400 secondes
+Oct 23 17:22:28 136.243.36.82 (pid 32309) calcul (156.022 ms) [squelettes/article] lang=fr, id_article=3, date='2016-10-23 17:22:28', date_default=1, date_redac='2016-10-23 17:22:28', date_redac_default=1 (16188 octets)
+Oct 23 17:22:28 136.243.36.82 (pid 32309) Creation du cache 1/%2Faccueil-fr--7bfc4fef717392ae1d pour 86400 secondes
+Oct 23 17:22:39 136.243.36.82 (pid 32508) spip_register_globals(1)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (21.336 ms) [squelettes/header] id_article=8, lang=fr, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (12528 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) Creation du cache 2/header-8-fr--0dae582c6f6b386844a2 pour 86400 secondes
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (73.633 ms) [plugins/auto/forms_et_tables_2_0/modeles/form] id_form=1, id=1, lang=fr, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (381 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (11.305 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms] erreur=a:0:{}, id_form=1, self=contactez-nous.html, valeurs=a:1:{i:0;s:1:"0";}, formvisible=1, formactif=' ', class=formulaires/forms_structure, lang=fr, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (769 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (57.004 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms_structure] id_form=1, erreur=a:0:{}, valeurs=a:1:{i:0;s:1:"0";}, lang=fr, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (5918 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (4.759 ms) [squelettes/flooter] id_article=8, lang=fr, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (903 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) Creation du cache 1/flooter-8-fr--ff9972c2f1ec0223dd7_ pour 86400 secondes
+Oct 23 17:22:39 136.243.36.82 (pid 32508) calcul (474.648 ms) [squelettes/article] lang=fr, id_article=8, date='2016-10-23 17:22:39', date_default=1, date_redac='2016-10-23 17:22:39', date_redac_default=1 (21143 octets)
+Oct 23 17:22:39 136.243.36.82 (pid 32508) Creation du cache 1/%2Fcontactez-nous-fr--927f634cf9b_ pour 86400 secondes
+Oct 23 17:22:45 136.243.36.82 (pid 32553) spip_register_globals(1)
+Oct 23 17:22:46 136.243.36.82 (pid 32553) calcul (37.188 ms) [squelettes/header] id_article=19, lang=fr, date='2016-10-23 17:22:45', date_default=1, date_redac='2016-10-23 17:22:45', date_redac_default=1 (12558 octets)
+Oct 23 17:22:46 136.243.36.82 (pid 32553) Creation du cache 4/header-19-fr--5670c4ed91b7f869ada pour 86400 secondes
+Oct 23 17:22:46 136.243.36.82 (pid 32553) calcul (4.471 ms) [squelettes/flooter] id_article=19, lang=fr, date='2016-10-23 17:22:46', date_default=1, date_redac='2016-10-23 17:22:46', date_redac_default=1 (900 octets)
+Oct 23 17:22:46 136.243.36.82 (pid 32553) Creation du cache 8/flooter-19-fr--6af77b0729ac051bc3 pour 86400 secondes
+Oct 23 17:22:46 136.243.36.82 (pid 32553) calcul (329.869 ms) [squelettes/article] lang=fr, id_article=19, date='2016-10-23 17:22:45', date_default=1, date_redac='2016-10-23 17:22:45', date_redac_default=1 (14782 octets)
+Oct 23 17:22:46 136.243.36.82 (pid 32553) Creation du cache 3/%2Fma-and-sui-de-tra-de--c28128d8 pour 86400 secondes
+Oct 23 17:23:01 136.243.36.82 (pid 512) spip_register_globals(1)
+Oct 23 17:23:02 136.243.36.82 (pid 512) calcul (18.924 ms) [squelettes-dist/sitemap.xml] page=sitemap.xml, lang=fr, date='2016-10-23 17:23:02', date_default=1, date_redac='2016-10-23 17:23:02', date_redac_default=1 (2206 octets)
+Oct 23 17:23:09 136.243.36.82 (pid 802) spip_register_globals(1)
+Oct 23 17:23:09 136.243.36.82 (pid 802) calcul (12.681 ms) [squelettes-dist/sitemap.xml] page=sitemap.xml, lang=fr, date='2016-10-23 17:23:09', date_default=1, date_redac='2016-10-23 17:23:09', date_redac_default=1 (2306 octets)
+Oct 23 17:23:20 136.243.36.82 (pid 929) spip_register_globals(1)
+Oct 23 17:23:20 136.243.36.82 (pid 929) calcul (41.324 ms) [squelettes/header] id_article=4, lang=en, date='2016-10-23 17:23:20', date_default=1, date_redac='2016-10-23 17:23:20', date_redac_default=1 (12268 octets)
+Oct 23 17:23:20 136.243.36.82 (pid 929) Creation du cache f/header-4-en--9b1a85d7a7019f84d604 pour 86400 secondes
+Oct 23 17:23:20 136.243.36.82 (pid 929) calcul (4.246 ms) [squelettes/flooter] id_article=4, lang=en, date='2016-10-23 17:23:20', date_default=1, date_redac='2016-10-23 17:23:20', date_redac_default=1 (870 octets)
+Oct 23 17:23:20 136.243.36.82 (pid 929) Creation du cache 6/flooter-4-en--97144556af6fe14af8f pour 86400 secondes
+Oct 23 17:23:20 136.243.36.82 (pid 929) calcul (81.648 ms) [squelettes/article] lang=en, id_article=4, date='2016-10-23 17:23:20', date_default=1, date_redac='2016-10-23 17:23:20', date_redac_default=1 (16117 octets)
+Oct 23 17:23:20 136.243.36.82 (pid 929) Creation du cache 5/%2FServices%2C4-en--2ccb24709e411 pour 86400 secondes
+Oct 23 17:23:30 136.243.36.82 (pid 1155) spip_register_globals(1)
+Oct 23 17:23:30 136.243.36.82 (pid 1155) calcul (22.896 ms) [squelettes/header] id_article=29, lang=en, date='2016-10-23 17:23:30', date_default=1, date_redac='2016-10-23 17:23:30', date_redac_default=1 (12281 octets)
+Oct 23 17:23:30 136.243.36.82 (pid 1155) Creation du cache 5/header-29-en--67f912fdb98aee8f166 pour 86400 secondes
+Oct 23 17:23:30 136.243.36.82 (pid 1155) calcul (4.468 ms) [squelettes/flooter] id_article=29, lang=en, date='2016-10-23 17:23:30', date_default=1, date_redac='2016-10-23 17:23:30', date_redac_default=1 (867 octets)
+Oct 23 17:23:30 136.243.36.82 (pid 1155) Creation du cache 9/flooter-29-en--40b4adae3f6fac7e39 pour 86400 secondes
+Oct 23 17:23:30 136.243.36.82 (pid 1155) calcul (98.827 ms) [squelettes/article] lang=en, id_article=29, date='2016-10-23 17:23:30', date_default=1, date_redac='2016-10-23 17:23:30', date_redac_default=1 (19680 octets)
+Oct 23 17:23:30 136.243.36.82 (pid 1155) Creation du cache 0/%2FTemoignages-liens-en--a69de84b pour 86400 secondes
+Oct 23 17:25:01 136.243.36.82 (pid 2852) spip_register_globals(1)
+Oct 23 17:25:01 136.243.36.82 (pid 2852) calcul (70.758 ms) [squelettes/header] id_article=18, lang=en, date='2016-10-23 17:25:01', date_default=1, date_redac='2016-10-23 17:25:01', date_redac_default=1 (12313 octets)
+Oct 23 17:25:01 136.243.36.82 (pid 2852) Creation du cache e/header-18-en--ed11a0431be85bbfa47 pour 86400 secondes
+Oct 23 17:25:01 136.243.36.82 (pid 2852) calcul (26.700 ms) [squelettes/flooter] id_article=18, lang=en, date='2016-10-23 17:25:01', date_default=1, date_redac='2016-10-23 17:25:01', date_redac_default=1 (867 octets)
+Oct 23 17:25:01 136.243.36.82 (pid 2852) Creation du cache d/flooter-18-en--48b22e7f9a45a8f3b9 pour 86400 secondes
+Oct 23 17:25:01 136.243.36.82 (pid 2852) calcul (159.836 ms) [squelettes/article] lang=en, id_article=18, date='2016-10-23 17:25:01', date_default=1, date_redac='2016-10-23 17:25:01', date_redac_default=1 (14594 octets)
+Oct 23 17:25:01 136.243.36.82 (pid 2852) Creation du cache b/%2FVi-et-ins-reg-en--751001d849f8 pour 86400 secondes
+Oct 23 17:25:11 136.243.36.82 (pid 4306) spip_register_globals(1)
+Oct 23 17:25:11 136.243.36.82 (pid 4306) calcul (22.250 ms) [squelettes/header] id_article=5, lang=en, date='2016-10-23 17:25:11', date_default=1, date_redac='2016-10-23 17:25:11', date_redac_default=1 (12270 octets)
+Oct 23 17:25:11 136.243.36.82 (pid 4306) Creation du cache 2/header-5-en--3b585395e066ad79c49d pour 86400 secondes
+Oct 23 17:25:11 136.243.36.82 (pid 4306) calcul (2.113 ms) [plugins/auto/forms_et_tables_2_0/modeles/form] id_form=1, id=1, lang=en, date='2016-10-23 17:25:11', date_default=1, date_redac='2016-10-23 17:25:11', date_redac_default=1 (381 octets)
+Oct 23 17:25:12 136.243.36.82 (pid 4306) calcul (2.173 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms] erreur=a:0:{}, id_form=1, self=contact-us.html?lang=en, valeurs=a:1:{i:0;s:1:"0";}, formvisible=1, formactif=' ', class=formulaires/forms_structure, lang=en, date='2016-10-23 17:25:11', date_default=1, date_redac='2016-10-23 17:25:11', date_redac_default=1 (819 octets)
+Oct 23 17:25:12 136.243.36.82 (pid 4306) calcul (60.146 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms_structure] id_form=1, erreur=a:0:{}, valeurs=a:1:{i:0;s:1:"0";}, lang=en, date='2016-10-23 17:25:12', date_default=1, date_redac='2016-10-23 17:25:12', date_redac_default=1 (5913 octets)
+Oct 23 17:25:12 136.243.36.82 (pid 4306) calcul (4.742 ms) [squelettes/flooter] id_article=5, lang=en, date='2016-10-23 17:25:12', date_default=1, date_redac='2016-10-23 17:25:12', date_redac_default=1 (870 octets)
+Oct 23 17:25:12 136.243.36.82 (pid 4306) Creation du cache 1/flooter-5-en--7193c05fc86ad878e44_ pour 86400 secondes
+Oct 23 17:25:12 136.243.36.82 (pid 4306) calcul (187.498 ms) [squelettes/article] lang=en, id_article=5, date='2016-10-23 17:25:11', date_default=1, date_redac='2016-10-23 17:25:11', date_redac_default=1 (20762 octets)
+Oct 23 17:25:12 136.243.36.82 (pid 4306) Creation du cache 7/%2Fcontact-us-en--41d89dc91a92fb7_ pour 86400 secondes
+Oct 23 17:25:18 136.243.36.82 (pid 4649) spip_register_globals(1)
+Oct 23 17:25:18 136.243.36.82 (pid 4649) calcul (36.023 ms) [squelettes/header] id_article=1, lang=en, date='2016-10-23 17:25:18', date_default=1, date_redac='2016-10-23 17:25:18', date_redac_default=1 (12264 octets)
+Oct 23 17:25:18 136.243.36.82 (pid 4649) Creation du cache f/header-1-en--7d440edf3d43346f5b3f pour 86400 secondes
+Oct 23 17:25:18 136.243.36.82 (pid 4649) calcul (4.152 ms) [squelettes/flooter] id_article=1, lang=en, date='2016-10-23 17:25:18', date_default=1, date_redac='2016-10-23 17:25:18', date_redac_default=1 (870 octets)
+Oct 23 17:25:18 136.243.36.82 (pid 4649) Creation du cache 9/flooter-1-en--fb65aa9a755a3caff2b pour 86400 secondes
+Oct 23 17:25:18 136.243.36.82 (pid 4649) calcul (77.487 ms) [squelettes/article] lang=en, id_article=1, date='2016-10-23 17:25:18', date_default=1, date_redac='2016-10-23 17:25:18', date_redac_default=1 (15093 octets)
+Oct 23 17:25:18 136.243.36.82 (pid 4649) Creation du cache 4/%2Fhome-en--07faf7853a34d69548738 pour 86400 secondes
+Oct 23 17:25:33 136.243.36.82 (pid 4968) spip_register_globals(1)
+Oct 23 17:25:39 136.243.36.82 (pid 5065) spip_register_globals(1)
+Oct 23 17:25:39 136.243.36.82 (pid 5065) Redirige /spip.php?article19 vers maintenance-and-suivi-de-travaux-de-reparation.html
+Oct 23 17:25:39 136.243.36.82 (pid 5065) redirige 302: maintenance-and-suivi-de-travaux-de-reparation.html
+Oct 23 17:25:47 136.243.36.82 (pid 5225) spip_register_globals(1)
+Oct 23 17:25:47 136.243.36.82 (pid 5225) Redirige /spip.php?article22 vers Assistance-dans-vos-demarches.html
+Oct 23 17:25:47 136.243.36.82 (pid 5225) redirige 302: Assistance-dans-vos-demarches.html
+Oct 23 17:25:57 136.243.36.82 (pid 5329) spip_register_globals(1)
+Oct 23 17:25:58 136.243.36.82 (pid 5329) Redirige /spip.php?article27 vers Mentions-legales.html
+Oct 23 17:25:58 136.243.36.82 (pid 5329) redirige 302: Mentions-legales.html
+Oct 23 17:26:11 136.243.36.82 (pid 5990) spip_register_globals(1)
+Oct 23 17:26:11 136.243.36.82 (pid 5990) Redirige /spip.php?article28 vers Support-lors-de-travaux-de.html
+Oct 23 17:26:11 136.243.36.82 (pid 5990) redirige 302: Support-lors-de-travaux-de.html
+Oct 23 17:26:23 136.243.36.82 (pid 6053) spip_register_globals(1)
+Oct 23 17:26:23 136.243.36.82 (pid 6053) Redirige /spip.php?article3&cimobile=bberry vers accueil.html?cimobile=bberry
+Oct 23 17:26:23 136.243.36.82 (pid 6053) redirige 302: accueil.html?cimobile=bberry
+Oct 23 17:26:33 136.243.36.82 (pid 6410) spip_register_globals(1)
+Oct 23 17:26:33 136.243.36.82 (pid 6410) calcul (40.301 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=27, lang=en, date='2016-10-23 17:26:33', date_default=1, date_redac='2016-10-23 17:26:33', date_redac_default=1 (12522 octets)
+Oct 23 17:26:33 136.243.36.82 (pid 6410) Creation du cache 2/header-27-en--242bbc5586986db26f9 pour 86400 secondes
+Oct 23 17:26:33 136.243.36.82 (pid 6410) calcul (92.990 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=en, id_article=27, date='2016-10-23 17:26:33', date_default=1, date_redac='2016-10-23 17:26:33', date_redac_default=1 (15460 octets)
+Oct 23 17:26:33 136.243.36.82 (pid 6410) Creation du cache a/%2FMentions-legales-en--c97d7facb pour 86400 secondes
+Oct 23 17:26:42 136.243.36.82 (pid 6578) spip_register_globals(1)
+Oct 23 17:26:43 136.243.36.82 (pid 6578) calcul (33.182 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=30, lang=en, date='2016-10-23 17:26:42', date_default=1, date_redac='2016-10-23 17:26:42', date_redac_default=1 (12654 octets)
+Oct 23 17:26:43 136.243.36.82 (pid 6578) Creation du cache f/header-30-en--4afdfc2e7f2e694c13b pour 86400 secondes
+Oct 23 17:26:43 136.243.36.82 (pid 6578) calcul (50.505 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=en, id_article=30, date='2016-10-23 17:26:42', date_default=1, date_redac='2016-10-23 17:26:42', date_redac_default=1 (18039 octets)
+Oct 23 17:26:43 136.243.36.82 (pid 6578) Creation du cache 2/%2FNouvel-article-en--c63e26e7fb8 pour 86400 secondes
+Oct 23 17:26:55 136.243.36.82 (pid 6627) spip_register_globals(1)
+Oct 23 17:27:06 136.243.36.82 (pid 7098) spip_register_globals(1)
+Oct 23 17:27:06 136.243.36.82 (pid 7098) calcul (37.969 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=4, lang=en, date='2016-10-23 17:27:06', date_default=1, date_redac='2016-10-23 17:27:06', date_redac_default=1 (12625 octets)
+Oct 23 17:27:06 136.243.36.82 (pid 7098) Creation du cache b/header-4-en--2f9148728edf293515ec pour 86400 secondes
+Oct 23 17:27:06 136.243.36.82 (pid 7098) calcul (64.003 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=en, id_article=4, date='2016-10-23 17:27:06', date_default=1, date_redac='2016-10-23 17:27:06', date_redac_default=1 (15062 octets)
+Oct 23 17:27:06 136.243.36.82 (pid 7098) Creation du cache 8/%2FServices%2C4-en--78c1a632a4a22 pour 86400 secondes
+Oct 23 17:27:21 136.243.36.82 (pid 7309) spip_register_globals(1)
+Oct 23 17:27:21 136.243.36.82 (pid 7309) calcul (42.552 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=7, lang=fr, date='2016-10-23 17:27:21', date_default=1, date_redac='2016-10-23 17:27:21', date_redac_default=1 (12919 octets)
+Oct 23 17:27:21 136.243.36.82 (pid 7309) Creation du cache c/header-7-fr--90cffad3bd1de225295f pour 86400 secondes
+Oct 23 17:27:21 136.243.36.82 (pid 7309) calcul (58.443 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=7, date='2016-10-23 17:27:21', date_default=1, date_redac='2016-10-23 17:27:21', date_redac_default=1 (14802 octets)
+Oct 23 17:27:21 136.243.36.82 (pid 7309) Creation du cache 3/%2FServices-fr--f7eff1fcbb0389b3a pour 86400 secondes
+Oct 23 17:27:30 136.243.36.82 (pid 7436) spip_register_globals(1)
+Oct 23 17:27:30 136.243.36.82 (pid 7436) calcul (23.903 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=2, lang=fr, date='2016-10-23 17:27:30', date_default=1, date_redac='2016-10-23 17:27:30', date_redac_default=1 (12921 octets)
+Oct 23 17:27:30 136.243.36.82 (pid 7436) Creation du cache f/header-2-fr--97a9eaea82e651bf8e51 pour 86400 secondes
+Oct 23 17:27:30 136.243.36.82 (pid 7436) calcul (53.008 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=2, date='2016-10-23 17:27:30', date_default=1, date_redac='2016-10-23 17:27:30', date_redac_default=1 (14511 octets)
+Oct 23 17:27:30 136.243.36.82 (pid 7436) Creation du cache 0/%2Fabout-us-fr--922202f6e987ed7e8 pour 86400 secondes
+Oct 23 17:27:48 136.243.36.82 (pid 7715) spip_register_globals(1)
+Oct 23 17:27:48 136.243.36.82 (pid 7715) calcul (36.761 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=2, lang=en, date='2016-10-23 17:27:48', date_default=1, date_redac='2016-10-23 17:27:48', date_redac_default=1 (12632 octets)
+Oct 23 17:27:48 136.243.36.82 (pid 7715) Creation du cache 5/header-2-en--4c7eb80e84a15643976b pour 86400 secondes
+Oct 23 17:27:48 136.243.36.82 (pid 7715) calcul (56.146 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=en, id_article=2, date='2016-10-23 17:27:48', date_default=1, date_redac='2016-10-23 17:27:48', date_redac_default=1 (14220 octets)
+Oct 23 17:27:48 136.243.36.82 (pid 7715) Creation du cache 2/%2Fabout-us-en--9ce49ed1dc216437a pour 86400 secondes
+Oct 23 17:28:07 136.243.36.82 (pid 8402) spip_register_globals(1)
+Oct 23 17:28:07 136.243.36.82 (pid 8402) calcul (37.430 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=3, lang=fr, date='2016-10-23 17:28:07', date_default=1, date_redac='2016-10-23 17:28:07', date_redac_default=1 (12912 octets)
+Oct 23 17:28:07 136.243.36.82 (pid 8402) Creation du cache a/header-3-fr--9de9521b9961f564e778 pour 86400 secondes
+Oct 23 17:28:07 136.243.36.82 (pid 8402) calcul (71.994 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=3, date='2016-10-23 17:28:07', date_default=1, date_redac='2016-10-23 17:28:07', date_redac_default=1 (15132 octets)
+Oct 23 17:28:07 136.243.36.82 (pid 8402) Creation du cache a/%2Faccueil-fr--bdc094389af2682568 pour 86400 secondes
+Oct 23 17:28:21 136.243.36.82 (pid 8463) spip_register_globals(1)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) calcul (22.423 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=5, lang=fr, date='2016-10-23 17:28:21', date_default=1, date_redac='2016-10-23 17:28:21', date_redac_default=1 (12922 octets)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) Creation du cache b/header-5-fr--dcb733928e905999dfbe pour 86400 secondes
+Oct 23 17:28:21 136.243.36.82 (pid 8463) calcul (3.852 ms) [plugins/auto/forms_et_tables_2_0/modeles/form] id_form=1, id=1, lang=fr, date='2016-10-23 17:28:21', date_default=1, date_redac='2016-10-23 17:28:21', date_redac_default=1 (381 octets)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) calcul (1.837 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms] erreur=a:0:{}, id_form=1, self=contact-us.html, valeurs=a:1:{i:0;s:1:"0";}, formvisible=1, formactif=' ', class=formulaires/forms_structure, lang=fr, date='2016-10-23 17:28:21', date_default=1, date_redac='2016-10-23 17:28:21', date_redac_default=1 (765 octets)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) calcul (36.728 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms_structure] id_form=1, erreur=a:0:{}, valeurs=a:1:{i:0;s:1:"0";}, lang=fr, date='2016-10-23 17:28:21', date_default=1, date_redac='2016-10-23 17:28:21', date_redac_default=1 (5918 octets)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) calcul (163.110 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=5, date='2016-10-23 17:28:21', date_default=1, date_redac='2016-10-23 17:28:21', date_redac_default=1 (19950 octets)
+Oct 23 17:28:21 136.243.36.82 (pid 8463) Creation du cache c/%2Fcontact-us-fr--cee3cd12aa82ea1_ pour 86400 secondes
+Oct 23 17:28:31 136.243.36.82 (pid 8636) spip_register_globals(1)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) calcul (40.382 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=8, lang=fr, date='2016-10-23 17:28:31', date_default=1, date_redac='2016-10-23 17:28:31', date_redac_default=1 (12925 octets)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) Creation du cache b/header-8-fr--1948886a6e98dff520f1 pour 86400 secondes
+Oct 23 17:28:31 136.243.36.82 (pid 8636) calcul (0.868 ms) [plugins/auto/forms_et_tables_2_0/modeles/form] id_form=1, id=1, lang=fr, date='2016-10-23 17:28:31', date_default=1, date_redac='2016-10-23 17:28:31', date_redac_default=1 (381 octets)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) calcul (2.079 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms] erreur=a:0:{}, id_form=1, self=contactez-nous.html?lang=fr, valeurs=a:1:{i:0;s:1:"0";}, formvisible=1, formactif=' ', class=formulaires/forms_structure, lang=fr, date='2016-10-23 17:28:31', date_default=1, date_redac='2016-10-23 17:28:31', date_redac_default=1 (823 octets)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) calcul (22.048 ms) [plugins/auto/forms_et_tables_2_0/formulaires/forms_structure] id_form=1, erreur=a:0:{}, valeurs=a:1:{i:0;s:1:"0";}, lang=fr, date='2016-10-23 17:28:31', date_default=1, date_redac='2016-10-23 17:28:31', date_redac_default=1 (5918 octets)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) calcul (97.492 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=8, date='2016-10-23 17:28:31', date_default=1, date_redac='2016-10-23 17:28:31', date_redac_default=1 (20141 octets)
+Oct 23 17:28:31 136.243.36.82 (pid 8636) Creation du cache 6/%2Fcontactez-nous-fr--7110740b6b9_ pour 86400 secondes
+Oct 23 17:28:42 136.243.36.82 (pid 8834) spip_register_globals(1)
+Oct 23 17:28:42 136.243.36.82 (pid 8834) calcul (24.109 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=1, lang=fr, date='2016-10-23 17:28:42', date_default=1, date_redac='2016-10-23 17:28:42', date_redac_default=1 (12909 octets)
+Oct 23 17:28:42 136.243.36.82 (pid 8834) Creation du cache b/header-1-fr--fbd0ae61d254329d724a pour 86400 secondes
+Oct 23 17:28:42 136.243.36.82 (pid 8834) calcul (54.449 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=1, date='2016-10-23 17:28:42', date_default=1, date_redac='2016-10-23 17:28:42', date_redac_default=1 (14330 octets)
+Oct 23 17:28:42 136.243.36.82 (pid 8834) Creation du cache 8/%2Fhome-fr--0caaecc57b8a23493bfea pour 86400 secondes
+Oct 23 17:28:50 136.243.36.82 (pid 8921) spip_register_globals(1)
+Oct 23 17:28:50 136.243.36.82 (pid 8921) Redirige /spip.php?article1 vers home.html
+Oct 23 17:28:50 136.243.36.82 (pid 8921) redirige 302: home.html
+Oct 23 17:28:58 136.243.36.82 (pid 8946) spip_register_globals(1)
+Oct 23 17:28:58 136.243.36.82 (pid 8946) Redirige /spip.php?article1&cimobile=bberry vers home.html?cimobile=bberry
+Oct 23 17:28:58 136.243.36.82 (pid 8946) redirige 302: home.html?cimobile=bberry
+Oct 23 17:29:08 136.243.36.82 (pid 9414) spip_register_globals(1)
+Oct 23 17:29:08 136.243.36.82 (pid 9414) Redirige /spip.php?article13 vers Regular-Inspections.html
+Oct 23 17:29:08 136.243.36.82 (pid 9414) redirige 302: Regular-Inspections.html
+Oct 23 17:29:27 136.243.36.82 (pid 9612) spip_register_globals(1)
+Oct 23 17:29:28 136.243.36.82 (pid 9612) Redirige /spip.php?article14 vers Maintenance-and-Repair-Oversight.html
+Oct 23 17:29:28 136.243.36.82 (pid 9612) redirige 302: Maintenance-and-Repair-Oversight.html
+Oct 23 17:29:44 136.243.36.82 (pid 10067) spip_register_globals(1)
+Oct 23 17:29:44 136.243.36.82 (pid 10067) Redirige /spip.php?article23 vers various-household-chores.html
+Oct 23 17:29:44 136.243.36.82 (pid 10067) redirige 302: various-household-chores.html
+Oct 23 17:29:57 136.243.36.82 (pid 10101) spip_register_globals(1)
+Oct 23 17:29:57 136.243.36.82 (pid 10101) Redirige /spip.php?article25 vers Assistance-in-Administrative.html
+Oct 23 17:29:57 136.243.36.82 (pid 10101) redirige 302: Assistance-in-Administrative.html
+Oct 23 17:30:14 136.243.36.82 (pid 12476) spip_register_globals(1)
+Oct 23 17:30:14 136.243.36.82 (pid 12476) calcul (38.403 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=26, lang=fr, date='2016-10-23 17:30:14', date_default=1, date_redac='2016-10-23 17:30:14', date_redac_default=1 (12827 octets)
+Oct 23 17:30:14 136.243.36.82 (pid 12476) Creation du cache b/header-26-fr--f7c742aca7970fd90e2 pour 86400 secondes
+Oct 23 17:30:14 136.243.36.82 (pid 12476) calcul (56.160 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=26, date='2016-10-23 17:30:14', date_default=1, date_redac='2016-10-23 17:30:14', date_redac_default=1 (14233 octets)
+Oct 23 17:30:14 136.243.36.82 (pid 12476) Creation du cache 6/%2FAs-in-Ren-Wor-fr--ce14469c298c pour 86400 secondes
+Oct 23 17:30:29 136.243.36.82 (pid 12772) spip_register_globals(1)
+Oct 23 17:30:29 136.243.36.82 (pid 12772) calcul (41.503 ms) [plugins/cimobile/squel_mobiles/bberry/header] id_article=29, lang=fr, date='2016-10-23 17:30:29', date_default=1, date_redac='2016-10-23 17:30:29', date_redac_default=1 (12939 octets)
+Oct 23 17:30:29 136.243.36.82 (pid 12772) Creation du cache 4/header-29-fr--1e766128948b25ee697 pour 86400 secondes
+Oct 23 17:30:29 136.243.36.82 (pid 12772) calcul (69.985 ms) [plugins/cimobile/squel_mobiles/bberry/article] lang=fr, id_article=29, date='2016-10-23 17:30:29', date_default=1, date_redac='2016-10-23 17:30:29', date_redac_default=1 (18933 octets)
+Oct 23 17:30:29 136.243.36.82 (pid 12772) Creation du cache 5/%2FTemoignages-liens-fr--bab4f2af pour 86400 secondes
+Oct 23 17:35:14 66.249.66.226 (pid 20027) spip_register_globals(1)
+Oct 23 17:35:14 66.249.66.226 (pid 20030) spip_register_globals(1)
+Oct 23 17:35:14 66.249.66.226 (pid 20030) calcul (64.635 ms) [plugins/auto/forms_et_tables_2_0/forms_styles.css] page=forms_styles.css, lang=fr, date='2016-10-23 17:35:14', date_default=1, date_redac='2016-10-23 17:35:14', date_redac_default=1 (11785 octets)
+Oct 23 17:35:14 66.249.66.226 (pid 20030) Creation du cache e/for-sty-for-sty-fr--0653360585176 pour 604800 secondes
+Oct 23 19:16:01 5.255.253.77 (pid 5723) spip_register_globals(1)
+Oct 23 22:57:01 123.125.71.15 (pid 30040) spip_register_globals(1)
+Oct 23 23:00:01 123.125.71.82 (pid 1076) spip_register_globals(1)
+Oct 23 23:00:02 220.181.108.163 (pid 2196) spip_register_globals(1)
+Oct 24 00:12:31 169.54.233.119 (pid 1896) spip_register_globals(1)
+Oct 24 00:12:31 169.54.233.119 (pid 1896) cron: debut popularites
+Oct 24 00:12:31 169.54.233.119 (pid 1896) Popularite: purger referer depuis 2016-10-20
+Oct 24 00:12:31 169.54.233.119 (pid 1896) cron: popularites (75.152 ms) 1
+Oct 24 01:08:43 207.46.13.16 (pid 14246) spip_register_globals(1)
+Oct 24 03:05:38 68.180.229.39 (pid 6291) spip_register_globals(1)
+Oct 24 03:06:53 68.180.229.39 (pid 7505) spip_register_globals(1)
+Oct 24 03:06:54 68.180.229.39 (pid 7505) calcul (75.777 ms) [squelettes/header] id_article=29, lang=fr, date='2016-10-24 03:06:54', date_default=1, date_redac='2016-10-24 03:06:54', date_redac_default=1 (12538 octets)
+Oct 24 03:06:54 68.180.229.39 (pid 7505) Creation du cache 8/header-29-fr--755f057003f0d5935a1 pour 86400 secondes
+Oct 24 03:06:54 68.180.229.39 (pid 7505) calcul (4.448 ms) [squelettes/flooter] id_article=29, lang=fr, date='2016-10-24 03:06:54', date_default=1, date_redac='2016-10-24 03:06:54', date_redac_default=1 (903 octets)
+Oct 24 03:06:54 68.180.229.39 (pid 7505) Creation du cache 3/flooter-29-fr--109d4cf668b6beea17 pour 86400 secondes
+Oct 24 03:06:54 68.180.229.39 (pid 7505) calcul (180.056 ms) [squelettes/article] lang=fr, id_article=29, date='2016-10-24 03:06:54', date_default=1, date_redac='2016-10-24 03:06:54', date_redac_default=1 (19990 octets)
+Oct 24 03:06:54 68.180.229.39 (pid 7505) Creation du cache a/%2FTemoignages-liens-fr--3c54ea8a pour 86400 secondes
+Oct 24 08:58:46 157.55.39.19 (pid 27348) spip_register_globals(1)
+Oct 24 08:58:46 157.55.39.19 (pid 27348) calcul (85.454 ms) [prive/login] page=login, url=/ecrire/?bonjour=oui, lang=fr, date='2016-10-24 08:58:46', date_default=1, date_redac='2016-10-24 08:58:46', date_redac_default=1 (2243 octets)
+Oct 24 08:58:46 157.55.39.19 (pid 27348) Creation du cache 9/log-log-%2Fec-fr--458266f5d373ad9 pour 86400 secondes
+Oct 24 08:58:46 157.55.39.19 (pid 27348) calcul (23.174 ms) [prive/formulaires/menu_lang] nom=var_lang_ecrire, url=http://www.realestatecareta.., langues='<option class='maj-debut' v..', lang=fr, date='2016-10-24 08:58:46', date_default=1, date_redac='2016-10-24 08:58:46', date_redac_default=1 (3632 octets)
+Oct 24 08:58:46 157.55.39.19 (pid 27348) Creation du cache 0/for-lan-var-lan-ecr-htt--890bb4a0 pour 3600 secondes
+Oct 24 08:58:47 157.55.39.19 (pid 27348) calcul (1.236 ms) [prive/formulaires/login] editable=' ', rester_connecte=' ', _pipeline=affiche_formulaire_login, echec_cookie=' ', formulaire_args=M9Ne++tzg0ve/J1ccyjCy2cnagt.., action=/spip.php?page=login&amp;ur.., form=login, id=new, lang=fr, date='2016-10-24 08:58:47', date_default=1, date_redac='2016-10-24 08:58:47', date_redac_default=1 (2048 octets)
+Oct 24 08:58:47 157.55.39.19 (pid 27348) Creation du cache 8/for--%20---%20----aff-fo-00a9fe69 pour 3600 secondes
+Oct 24 09:05:29 88.141.113.234 (pid 6157) spip_register_globals(1)
+Oct 24 09:05:30 88.141.113.234 (pid 6159) spip_register_globals(1)
+Oct 24 09:05:30 88.141.113.234 (pid 6160) spip_register_globals(1)
+Oct 24 09:05:30 88.141.113.234 (pid 6161) spip_register_globals(1)
+Oct 24 09:05:30 88.141.113.234 (pid 6159) calcul (65.878 ms) [extensions/porte_plume/barre_outils_icones.css] page=barre_outils_icones.css, lang=fr, date='2016-10-24 09:05:30', date_default=1, date_redac='2016-10-24 09:05:30', date_redac_default=1 (5728 octets)
+Oct 24 09:05:30 88.141.113.234 (pid 6159) Creation du cache a/bar-out-ico-bar-out-ico--b3845ddd pour 604800 secondes
+Oct 24 09:05:30 88.141.113.234 (pid 6162) spip_register_globals(1)
+Oct 24 09:05:30 88.141.113.234 (pid 6162) calcul (39.274 ms) [plugins/ckeditor-spip-plugin/ckeditor4spip.js] page=ckeditor4spip.js, lang=fr, date='2016-10-24 09:05:30', date_default=1, date_redac='2016-10-24 09:05:30', date_redac_default=1 (12475 octets)
+Oct 24 09:05:54 88.141.113.234 (pid 6292) spip_register_globals(1)
+Oct 24 09:09:31 88.141.113.234 (pid 10590) spip_register_globals(1)
+Oct 24 09:09:33 88.141.113.234 (pid 10800) spip_register_globals(1)
+Oct 24 09:09:33 88.141.113.234 (pid 10798) spip_register_globals(1)
+Oct 24 09:09:33 88.141.113.234 (pid 10799) spip_register_globals(1)
+Oct 24 09:09:33 88.141.113.234 (pid 10799) calcul (15.140 ms) [plugins/ckeditor-spip-plugin/ckeditor4spip.js] page=ckeditor4spip.js, lang=en, date='2016-10-24 09:09:33', date_default=1, date_redac='2016-10-24 09:09:33', date_redac_default=1 (12375 octets)
+Oct 24 09:09:33 88.141.113.234 (pid 10798) calcul (21.447 ms) [plugins/auto/forms_et_tables_2_0/forms_styles.css] page=forms_styles.css, lang=en, date='2016-10-24 09:09:33', date_default=1, date_redac='2016-10-24 09:09:33', date_redac_default=1 (11785 octets)
+Oct 24 09:09:33 88.141.113.234 (pid 10798) Creation du cache 4/for-sty-for-sty-en--38aec7bca4887 pour 604800 secondes
+Oct 24 09:09:33 88.141.113.234 (pid 10800) calcul (47.897 ms) [extensions/porte_plume/porte_plume_start.js] page=porte_plume_start.js, lang=en, date='2016-10-24 09:09:33', date_default=1, date_redac='2016-10-24 09:09:33', date_redac_default=1 (13568 octets)
+Oct 24 09:09:33 88.141.113.234 (pid 10800) Creation du cache 1/por-plu-sta-por-plu-sta--55ef32ee pour 604800 secondes
+Oct 24 09:09:36 88.141.113.234 (pid 10811) spip_register_globals(1)
+Oct 24 09:09:36 88.141.113.234 (pid 10813) spip_register_globals(1)
+Oct 24 09:09:36 88.141.113.234 (pid 10814) spip_register_globals(1)
+Oct 24 09:09:36 88.141.113.234 (pid 10814) calcul (6.264 ms) [plugins/ckeditor-spip-plugin/ckeditor4spip.js] page=ckeditor4spip.js, lang=fr, date='2016-10-24 09:09:36', date_default=1, date_redac='2016-10-24 09:09:36', date_redac_default=1 (12475 octets)

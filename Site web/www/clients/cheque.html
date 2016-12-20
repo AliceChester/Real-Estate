@@ -1,0 +1,62 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+		<div id="contenu">
+		
+		<h2>::sommes_attente::</h2><br/>
+
+		
+	<THELIA_cmd type="COMMANDE" ref="#COMMANDE_REF">	
+			::numdevis:: #REF
+			TOTAL : #TOTCMDPORT &euro;<br/><br/>
+	</THELIA_cmd>
+		
+			::texte_cheque::
+			
+			<br /><br/>
+			::emailrecapitulatif:: <span class="texte_en_gras ">#CLIENT_EMAIL</span>.<br /><br />
+			
+
+						<table>
+				<tbody>
+					<tr>
+					<td><a href="javascript:window.print()"><img src="IMG/printer.jpg" alt="imprimer" /></a></td>
+					<td> <a href="javascript:window.print()">Imprimer cette page</a></td>
+					</tr>
+				</tbody>
+			</table>
+			
+            <div class="queFaire">
+				<a class="bouton" href="index.php"><span><span>Accueil boutique</span></span></a>
+			</div> 
+
+
+            
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+					
+					</div></div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>

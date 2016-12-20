@@ -1,0 +1,266 @@
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:27 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:28 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:29 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:30 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+Apr 03 17:45:31 81.57.34.8 (pid 23059) Erreur 1146 de sql: Table 'realestaspip.meta' doesn't exist
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'

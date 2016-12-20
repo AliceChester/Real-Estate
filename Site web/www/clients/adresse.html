@@ -1,0 +1,63 @@
+#INCLURE "meta.html"
+		#INCLURE "entete.html"
+				#INCLURE"menu.html"
+
+
+
+
+
+	<div class="surfacetxt">
+		<div id="mcs_container">
+			<div class="customScrollBox">
+				<div class="container">
+					<div class="content">
+	<THELIA SI CONNECTE>				
+ <div class="contenu">
+            <h2>Mes coordonn&eacute;es</h2>
+            <div class="adresseDeFacturation">				
+                <div class="soustitre" >Mon adresse de facturation :</div>
+                <div class="contenu">
+                    #CLIENT_RAISON #CLIENT_PRENOM #CLIENT_NOM<br />
+                    #CLIENT_ADRESSE1 #CLIENT_ADRESSE2 #CLIENT_ADRESSE3<br />
+                    #CLIENT_CPOSTAL #CLIENT_VILLE<br />
+                    #CLIENT_PAYS
+                </div>
+                <a href="compte_modifier.php" class="modifierOuAjouter">Modifier cette adresse</a>
+            </div>
+            
+        </div>
+<br/>
+
+            <div class="choixDeLaLivraison">
+                	<THELIA_transport type="TRANSPORT">
+<a class="bouton" href="#URLCMD"><span class="choisir">Contiuer</span></a>
+                	</THELIA_transport>
+            </div>
+			
+			
+</THELIA SI CONNECTE>
+<THELIA SI NON CONNECTE>
+<script type="text/javascript">
+    window.location = "index.php"
+</script>
+</THELIA SI NON CONNECTE>
+					
+					</div>
+					</div>
+					<div class="dragger_container">
+						<div class="dragger"></div>
+					</div>
+				</div>
+			<a href="#" class="scrollUpBtn"></a> <a href="#" class="scrollDownBtn"></a>
+		</div>
+	</div>
+
+</div>
+
+
+
+				
+				
+
+
+	#INCLURE "pied.html"
