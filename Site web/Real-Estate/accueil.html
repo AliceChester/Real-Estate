@@ -1,19 +1,27 @@
+<!-- Le texte entouré de "<!-- ... -- >" est seulement du commentaire. Il n'affecte pas la page, et est écrit en vert. 
+Je vais mettre toutes les explications pour les modifications que vous voudriez faire comme cela. -->
+
 <!DOCTYPE html>
 <html lang="fr">
 
 <head>
-
+<!-- Ici sont rangées les méta données de la page. La partie description est utilisée par Google pour faire un résumé de la page -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Home management, gestion d’appartement parisien : services, visites régulières, entretien et rénovation." />
-	<meta name="keywords" content="Paris, Services, home services, appartement, maison, immobilier, home management, conciergerie, gestion, propriété, propriétés, entretien, Surveillance, Travaux, réparation, Assistance, Entretien, Maintenance, accueil, aide, particulier, location, décoration, entretien, luxe, Real estate, martine, hillion, France" />
+    <meta name="description" content="Home management Paris, assistance et gestion d'appartements parisiens : services, visites régulières, entretien et rénovation, administratif." />
+	<meta name="keywords" content="Home management Paris, Services expatriation, Services expatriés, Services immobilier Paris, Assistance gestion immobilier Paris, Maintenance appartements Paris, Bricolage Paris, Conciergerie Paris  " />
 	<meta name="generator" content="Real Estate Caretaking (http://www.realestatecaretaking.com/)" />
 	<meta name="author" content="Martine Hillion"/>
 	<meta name="owner" content="http://www.realestatecaretaking.com/"/>
 
+	<!-- icone dans l'onglet du navigateur -->
 	<link rel="icon" href="img/icon.png"/>
-    <title>Real Estate Caretaking</title>
+	
+<link rel="alternate" hreflang="en" href="http://realestatecaretaking.com/accueil-en.html" />
+<link rel="alternate" hreflang="fr" href="http://realestatecaretaking.com/accueil.html" />
+<link rel="alternate" hreflang="x-default" href="http://realestatecaretaking.com/" />
+    <title>Real Estate Caretaking</title> <!-- Titre dans l'onglet-->
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -34,7 +42,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-</head>
+</head> <!-- Ici commence la page web, que l'utilisateur voit -->
 
 <body id="page-top" class="index">
 
@@ -46,8 +54,9 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-               <!-- <a class="navbar-brand" href="#page-top">Real Estate Caretaking</a>-->
-				<img class="navbar-logo" src="img/Logo.png" width="282" height="80" alt="logo Real Estate Caretaking"> 
+              <a href="#page-top" >
+					<img class="navbar-logo" src="img/Logo.png" width="282" height="80" alt="logo Real Estate Caretaking"> 
+				</a>
             </div>
 			
 			 <div class="navbar-header navbar-header-right-top page-scroll">
@@ -61,8 +70,8 @@
 				</a>
 			 </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <!-- Menu -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"  itemscope itemtype="http://schema.org/BreadcrumbList">
 				<ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
@@ -88,7 +97,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="intro-text">
+                    <div itemscope itemtype ="http://schema.org/Organization" class="intro-text" >
+					<!-- Pour modifier le texte affiché sur la première page, changer le texte en noir -->
                         <span class="skills">Nous prenons soin de votre bien et vous accompagnons <br> dans la maintenance et la gestion de votre appartement.</span>
                     </div>
                 </div>
@@ -96,10 +106,46 @@
         </div>
     </header>
 
+	<!-- Début de la première page
+Le language html fonctionne par tag, qui va définir la mise en forme et du texte.
+on a toujours la forme class="..." et à la place des ... on a un identifiant. La page web va récuperer l'identifiant dans un autre fichier, qui lui définit
+la font, la couleur, etc du texte. On ne peut donc changer ici que le texte. La mise en forme est faite dans le fichier freelancer.css et bootstrap.css 
+je metterai des commentaires pour expliquer	-->
     <!-- Portfolio Grid Section -->
-    <section id="service" >
-        <div class="container">
-            <div class="row">
+    <section id="service" class="bg-darkest-gray" >
+        <div class="container  w" >
+		<!-- Le texte suivant est commenté, c'est l'idée de flat design que je vous avez proposé, avec des icones et du texte-->
+		<!--<div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Services</h2>
+                <h3 class="section-subheading ">Une large gamme de services à votre disposition</h3>
+            </div>
+        </div>
+			<div class="row centered" >
+				<div class="col-md-3 col-xs-12">
+					<i class="fa fa-eye" ></i>
+					<h4>Visites</h4>
+					<p> Nous visitons votre propriété une à deux fois par mois, et nous intervenons en cas d'urgence.</p>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<i class="fa fa-home" ></i>
+					<h4>Entretien</h4>
+					<p> Nous nous occupons de l'entretien ménager de votre propriété, ainsi que des trvaux de maintenance et de rénovation
+					 Nous pouvons également vous conseiller pour la décoration et l'aménagement.</p>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<i class="fa fa-institution" ></i>
+					<h4>Assistance dans l'administratif</h4>
+					<p> Nous nous occupons des réunions de copropriétes, des relations avec les fournisseurs.
+					 En cas de sinistre, nous nous occupons de tous les détails du dossier</p>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<i class="fa fa-car" ></i>
+					<h4>Conciergerie</h4>
+					<p> Nous pouvons vous conseiller sur les restaurants, les expositions, les sorties possibles et nous nous chargeons de la réservation.</p>
+				</div> -->
+				
+           <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Services</h2>
                     <h3 class="section-subheading ">Une large gamme de services à votre disposition</h3>
@@ -107,35 +153,35 @@
             </div>
 			
 				<div class="row ">
-               <div class="  col-sm-4 col-sm-offset-1 square-white eq-height">       
-					 <div class="row">
-						<div class="text-center">
+               <div class="  col-sm-4 col-sm-offset-1 square-orange eq-height">     <!--Premier carré-->  
+					 <div class="row" itemscope itemtype="http://schema.org/Product">
+						<div class="text-center" itemprop="name">
 							<h4>Visites</h4>
 						</div>
 					 </div>
 					  <ul class="b">
-						<li>1 ou 2 visites mensuelles selon contrat de base</li>
+						<li>visites régulières selon contrat de base </li>
 						<li>Intervention en cas d’urgence</li>
 					</ul>
 				</div>
 
-				<div class="  col-sm-4 col-sm-offset-2 square-orange text-center eq-height">       
-					 <div class="row">
-						<div class="text-center">
+				<div class="  col-sm-4 col-sm-offset-2 square-orange text-center eq-height">       <!--Deuxième carré-->  
+					 <div class="row" itemscope itemtype="http://schema.org/Product">
+						<div class="text-center" itemprop="name">
 							<h4>Entretien</h4>
 						</div>
 					 </div>
 					  <ul class="b">
+						<li>Travaux de maintenance</li>
 						<li>Nettoyage</li>
-						<li>Travaux de maintenance ou de bricolage</li>
 						<li>Assistance rénovation et décoration</li>
 					  </ul>
 				</div>
             </div>
 				<div class="row ">
-               <div class="  col-sm-4 col-sm-offset-1 square-orange eq-height">       
-					 <div class="row ">
-						<div class="text-center">
+               <div class="  col-sm-4 col-sm-offset-1 square eq-height">       
+					 <div class="row " itemscope itemtype="http://schema.org/Product">
+						<div class="text-center" itemprop="name">
 							<h4>Assistance dans l'administratif</h4>
 						</div>
 					 </div>
@@ -147,9 +193,9 @@
 					  </ul>
 				</div>
 
-				<div class="  col-sm-4 col-sm-offset-2 square-white text-center eq-height ">       
-					 <div class="row ">
-						<div class="text-center">
+				<div class="  col-sm-4 col-sm-offset-2 square text-center eq-height ">       
+					 <div class="row " itemscope itemtype="http://schema.org/Product">
+						<div class="text-center" itemprop="name">
 							<h4>Conciergerie</h4>
 						</div>
 					 </div>
@@ -158,54 +204,45 @@
 						<li>Spectacles, expositions, ...</li>
 					  </ul>
 				</div>
-            </div>
+            </div>-->
 	   </div>
     </section>
 
-    <!-- About Section -->
-    <section class=" bg-light-gray"  id="team">
-        <div class="container">
+    <!-- About Section - Deuxième page -->
+    <section class=" bg-darkest-gray"  id="team">
+        <div class="container" itemscope itemtype="http://schema.org/AboutPage">
             <div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">Home management à Paris</h2>
-						<h3 class="section-subheading ">"Excellent service, efficient, competent, knowledgable, totally thrustworthy" <br><br> LinkedIn</h3>
+						<h2 class="section-heading">Home management à Paris</h2><br>
+						<h3 class="section-subheading ">"Excellent service, efficient, competent, knowledgable, totally thrustworthy" <br><br> 
+						<a class="btn-social btn-outline" target="_blank" href="https://fr.linkedin.com/in/martine-hillion-77632551" itemprop="url"> LinkedIn</a>
+					</h3>
 					</div>
 				</div>
 				
 				<div class="row">
+					<div class="team-caption" itemscope itemtype="http://schema.org/Person">
+								<img class="img-responsive img-circle img-small center-block " src="img/Martine_petite.jpg" alt="Martine Hillion"> <!-- Image médaillon-->
+					</div>
+				</div>
+				<br> <br>
+				<div class ="row">
 				<div class="col-lg-10 col-lg-offset-1 text-center">
-						<p class="large ">
-Vous avez besoin d’une surveillance du bon état de votre bien, d’une assistance dans son entretien ou sa rénovation, une assistance dans l’administratif ou tout simplement que votre arrivée soit préparée selon vos souhaits, Real Estate Caretaking est là pour vous apporter un service efficace, prévenant et accessible.</p>
-<p>Real Estate Caretaking est une société enregistrée à Paris. En partenariat avec des entreprises de références, nous vous apportons un service hautement professionnel tout en restant accessible.
-</p>
+						<p class="large " itemprop="name" itemprop="homeLocation">
+Mettant à profit son expérience auprès d’une clientèle internationale exigeante, Martine Hillion, parisienne depuis toujours, a pour objectif de répondre à vos besoins avec rigueur et prévenance.</p>
+<br><p>Son réseau d’artisans et de fournisseurs de confiance lui permet de vous apporter un service de grande qualité.
+						</p>
 						
-						</div>
 				</div>
-				
-<br> <br> <br>
-				<div class="row">
-					<div class="col-lg-12 team-item">
-						<a href="#portfolioModal1" class="team-link" data-toggle="modal">
-							<div class="team-hover">
-								<div class="team-hover-content">
-									<i class="fa fa-plus fa-3x"></i>
-								</div>
-							</div>
-							<div class="team-caption">
-								<img class="img-responsive img-circle img-small center-block " src="img/Martine_petite.png" alt="Martine Hillion">
-							</div>
-							<div class="team-caption">
-								<p >Martine Hillion</p>
-							</div>
-							
-						</a>
-					</div>
 				</div>
+			</div>
+		</div>
+
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" >
+    <section id="contact" class="bg-broke-white"  >
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -216,8 +253,8 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
                    <br>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
+            <div class="row" itemscope itemtype="http://schema.org/ContactPage">
+                <div class="col-lg-8 col-lg-offset-2" >
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
                     <form name="sentMessage" id="contactForm" novalidate>
@@ -238,7 +275,7 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Numéro de Téléphone</label>
-                                <input type="tel" class="form-control" placeholder="Numéro de Téléphone" id="phone" required data-validation-required-message="Entrez votre numéro de téléphone.">
+                                <input type="tel" class="form-control" placeholder="Numéro de Téléphone" id="phone" >
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -262,17 +299,17 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
         </div>
     </section>
 
-    <footer>
+    <footer class="bg-broke-white" >
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Real Estate Caretaking 2015</span>
+                    <span class="copyright">Copyright &copy; Real Estate Caretaking 2012</span>
                 </div>
                 <div class="col-md-4">
-                <img src="img/logo.jpg" width="240" height="68" alt="logo Real Estate Caretaking"> </div>
+                <img src="img/Logo.png" width="240" height="68" alt="logo Real Estate Caretaking"> </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li>
+                        <li> <!-- Page des mentions légales-->
 							<a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">Mentions légales</a>
                         </li>
                     </ul>
@@ -283,49 +320,6 @@ Vous avez besoin d’une surveillance du bon état de votre bien, d’une assist
 
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
-
-   
-<!-- Portfolio Modal 1 -->
-
-<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-           <!-- <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>-->
-            <div class="container">
-                <div class="row">
-				<div class="col-sm-4 text-center">
-				<img class="img-responsive img-circle center-block " src="img/Martine_petite.png" alt="Martine Hillion">
-				</div>
-                    <div class="col-sm-8 ">
-                        <div class="modal-body ">
-                            <h2> <div class="text-center"> Martine Hillion</h2> </div>
-                            <br> <br> <br>
- <p>Parisienne depuis toujours, Martine Hillion a travaillé dans la mode pendant de nombreuses années. </p>
-<p>Elle s’est ensuite investie dans des projets de rénovation d’intérieur.</p>
-<p>Elle a été responsable pour une importante association de la maintenance du patrimoine immobilier.</p>
-<p>Ces expériences lui ont permis de construire un solide réseau d’artisans et de fournisseurs.  </p>
-<br> <br>
-						
-						<div class="col-xs-offset-5 ">	
-							<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
-						</div>
-						
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-xs-1 col-sm-offset-1">
-					<a class="btn-social btn-outline" href="https://fr.linkedin.com/in/martine-hillion-77632551"> LinkedIn</a>
-					</div>
-				</div>
-            </div>
-        </div>
-    </div>
-
 
 <!-- Portfolio Modal 4 -->
 
